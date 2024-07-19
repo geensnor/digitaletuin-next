@@ -1,0 +1,20 @@
+{
+  "name": "digitaletuin-next",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.8.2",
+    "@astrojs/starlight": "^0.25.1",
+    "@geensnor/astro-componenten": "^2.1.2",
+    "astro": "^4.10.2",
+    "sharp": "^0.32.5",
+    "typescript": "^5.5.3"
+  }
+}

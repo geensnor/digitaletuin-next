@@ -1,0 +1,143 @@
+---
+categorieen:
+  - naam: Algemeen
+    items:
+      - Kleding
+      - Sokken
+      - Jas
+      - Adapters en kabeltjes
+      - Zaklamp of Waka Waka's
+      - Zonnebril
+      - Pet
+      - E-reader
+      - Onderbroeken
+      - Schepje voor de koffie
+      - Scherp mes
+      - Slippers
+      - Sloffen
+      - Aansteker
+      - EHBO Doos
+      - Zwemkleding
+      - Paspoorten
+      - Airtag
+  - naam: Kamperen
+    items:
+      - Luchtbed
+      - Luchtbedpomp
+      - Slaapzak
+      - Kussen
+      - Iets om uit te drinken
+      - Power bank
+      - Bluetooth speaker
+      - Muggenspul
+      - Zaklamp
+  - naam: Kinderen
+    items:
+      - Spelletjes
+      - Schone kleren
+    subcategorieen:
+      - naam: Hele jonge kinderen
+        items:
+          - Luiers
+          - Luierdoekjes
+          - Flesje(s)
+          - Melkpoeder
+          - Babyfoon
+          - Campingbedje
+          - Matrasje van het campingbedje
+          - Beddengoed voor campingbedje
+          - Hydrofielen doeken, zo veel mogelijk
+          - Ducttape en vuilniszakken (om te verduisteren) en stopcontacten af te plakken
+          - Luierzakken
+          - Thermosfles
+          - Wikkeldoek
+          - Babyshampoo
+          - Babyzetpil
+          - Sudocreme
+          - Babygym
+          - Babynestje
+      - naam: Redelijk jonge kinderen
+        items:
+          - Soepstengels
+          - Boekjes
+          - Potje
+          - Kinderzetpil
+          - Kinderpleisters
+          - iPad
+          - Hoofdtelefoons
+          - Knuffels
+  - naam: Huisje
+    items:
+      - Koffielepeltje
+      - Koffie
+      - Koffie filters
+      - Wasknijper of tape om zakjes dicht te maken
+      - Theedoeken
+      - Vaatdoeken
+      - Vaatwasblokjes of middel
+      - Scherp mes (bijv. goed zakmes)
+      - Messenslijpertje
+      - Olie om in te bakken
+      - Handzeep
+      - Peper/zout
+  - naam: Toiletspullen
+    items:
+      - Tandenborstel
+      - Tandpasta
+      - Wax of gel
+      - Deodorant
+      - Douchgel
+      - Zonnebrand
+      - Handdoeken
+      - Pijnstillers
+      - Oordoppen
+      - Schaartje
+      - Lippenbalsem
+      - Zakdoekjes
+  - naam: Wielrennen
+    items:
+      - Helm
+      - Sokken
+      - Broek
+      - Shirt
+      - Pompje
+      - Bandje (controleer datum)
+      - Fietscomputer en lader
+      - Telefoonhoesje
+      - Energiedrank
+      - Iets te eten
+      - Doekje voor ergste vuil
+      - Kettingsmeer
+      - Multitool (of iets met inbus)
+  - naam: Wintersport
+    items:
+      - Ski's
+      - Skischoenen
+      - Skistokken
+      - Snowboard
+      - Snowboardschoenen
+      - Skibril
+      - Helm
+      - Skisokken
+      - Mutsje
+      - Ding voor als het echt koud wordt
+      - Waterflacon
+      - Handschoenen
+      - Rugzak
+      - Goedkope zonnebril
+      - Skibroek
+      - Ski-jas
+      - Wax
+      - Strijkijzer om te waxen
+      - Thermo ondergoed
+      - Krabber voor de ramen
+      - Sneeuwkettingen
+      - Bergschoenen
+  - naam: Zeilen
+    items:
+      - Zeilpak
+      - Zwemvesten
+      - Muts
+      - Bidon
+      - Kussen
+      - Slaazak
