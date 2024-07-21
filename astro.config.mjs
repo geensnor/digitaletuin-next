@@ -18,6 +18,7 @@ export default defineConfig({
         telegram: "https://t.me/geensnor",
       },
       pagination: false,
+      lastUpdated: true,
       logo: {
         src: "./src/assets/desnor.svg",
       },
@@ -37,9 +38,24 @@ export default defineConfig({
           autogenerate: { directory: "wielrennen" },
         },
         {
-          label: "Lijsten",
+          label: "Soft- en hardware",
           collapsed: true,
+          autogenerate: { directory: "soft-en-hardware" },
+        },
+        {
+          label: "Eten en drinken",
+          collapsed: true,
+          autogenerate: { directory: "eten-en-drinken" },
+        },
+        {
+          label: "Lijsten",
+          collapsed: false,
           autogenerate: { directory: "lijsten" },
+        },
+        {
+          label: "Overig",
+          collapsed: true,
+          autogenerate: { directory: "overig" },
         },
       ],
     }),
