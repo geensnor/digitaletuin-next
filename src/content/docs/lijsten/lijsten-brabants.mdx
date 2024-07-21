@@ -4,12 +4,15 @@ parent: Lijsten
 last_modified_at: 12-12-2020
 ---
 
-
-
+import { Lijstitem } from '@geensnor/astro-componenten';
 import brabants from '../../data/brabants.json'
 
 Alaaf!
 
-{brabants.map((starter) => <div>{starter}</div>)}
+
+<ul>
+
+{brabants.map((uitspraak) => <Lijstitem> {uitspraak} </Lijstitem>)}
+</ul>
 
 
