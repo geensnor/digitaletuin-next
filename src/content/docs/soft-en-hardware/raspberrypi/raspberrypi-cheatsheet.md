@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Pi cheatsheet
-parent: Raspberry Pi
-grand_parent: Software en hardware
 ---
 
 # Pi cheatsheet

@@ -1,6 +1,6 @@
 ---
 title: Eten
-parent: Eten en drinken
+
 ---
 
 # Eten

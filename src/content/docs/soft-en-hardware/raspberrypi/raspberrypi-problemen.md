@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Pi problemen
-parent: Raspberry Pi
-grand_parent: Software en hardware
 ---
 
 # Problemen

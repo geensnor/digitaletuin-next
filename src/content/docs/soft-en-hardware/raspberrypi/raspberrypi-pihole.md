@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Pi-hole
-parent: Raspberry Pi
-grand_parent: Software en hardware
 ---
 
 # Pi-hole op je Raspberry Pi
@@ -79,8 +76,6 @@ Inhoud wpa_supplicant.conf
     psk="<wachtwoord van je WiFi>"
     }
 ```
-
-
 
 ### SSH aanzetten
 

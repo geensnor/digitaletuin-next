@@ -1,6 +1,6 @@
 ---
 title: Toffe en betaalbare kunst
-parent: Kunst
+
 ---
 
 # Toffe en betaalbare kunst
