@@ -1,5 +1,6 @@
 ---
 title: Drinken
+tableOfContents: true
 ---
 
 ## Koffie
