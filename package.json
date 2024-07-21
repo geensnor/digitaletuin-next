@@ -12,6 +12,8 @@
   "dependencies": {
     "@astrojs/check": "^0.8.2",
     "@astrojs/starlight": "^0.25.1",
+    "@fontsource-variable/work-sans": "^5.0.19",
+    "@fontsource/zilla-slab": "^5.0.13",
     "@geensnor/astro-componenten": "^2.1.2",
     "astro": "^4.10.2",
     "sharp": "^0.32.5",

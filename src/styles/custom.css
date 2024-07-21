@@ -1,3 +1,8 @@
 :root[data-theme='light']{
 	--sl-color-text-accent: hsl(15.8, 87.98%, 54.31%);
+	--sl-font: 'Work sans';
+}
+
+h1, h2, h3, h4, .site-title{
+	font-family: "Zilla slab";
 }
