@@ -6,6 +6,13 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "De Digitale Tuin",
+
+      locales: {
+        root: {
+          label: "Nederlands",
+          lang: "nl",
+        },
+      },
       social: {
         github: "https://github.com/geensnor/dedigitaletuin",
         mastodon: "https://mastodon.xyz/@geensnor",
@@ -19,7 +26,11 @@ export default defineConfig({
       components: {
         PageTitle: "./src/components/KopTuin.astro",
       },
-      customCss: ["./src/styles/custom.css"],
+      customCss: [
+        "./src/styles/custom.css",
+        "@fontsource/zilla-slab/500.css",
+        "@fontsource-variable/work-sans",
+      ],
       sidebar: [
         {
           label: "Wielrennen",
