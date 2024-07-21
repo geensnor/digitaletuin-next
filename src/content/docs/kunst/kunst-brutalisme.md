@@ -1,6 +1,6 @@
 ---
 title: Brutalisme
-parent: Kunst
+
 ---
 
 # Brutalisme
