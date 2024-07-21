@@ -6,7 +6,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "De Digitale Tuin",
-
       locales: {
         root: {
           label: "Nederlands",
@@ -18,6 +17,7 @@ export default defineConfig({
         mastodon: "https://mastodon.xyz/@geensnor",
         telegram: "https://t.me/geensnor",
       },
+      pagination: false,
       logo: {
         src: "./src/assets/desnor.svg",
       },
