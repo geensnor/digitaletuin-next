@@ -7,26 +7,27 @@ export default defineConfig({
     starlight({
       title: "De Digitale Tuin",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/geensnor/dedigitaletuin",
+        mastodon: "https://mastodon.xyz/@geensnor",
+        telegram: "https://t.me/geensnor",
       },
+      logo: {
+        src: "./src/assets/desnor.svg",
+      },
+      favicon: "./src/assets/desnor.svg",
+      tableOfContents: false,
+      components: {
+        PageTitle: "./src/components/KopTuin.astro",
+      },
+      customCss: ["./src/styles/custom.css"],
       sidebar: [
-        {
-          label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
-          ],
-        },
-        {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
-        },
         {
           label: "Wielrennen",
           autogenerate: { directory: "wielrennen" },
         },
         {
           label: "Lijsten",
+          collapsed: true,
           autogenerate: { directory: "lijsten" },
         },
       ],
