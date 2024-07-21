@@ -1,10 +1,7 @@
 ---
-title: Uitslagen wielren poules
-parent: Wielrennen
-permalink: "/uitslagen-wielren-poules/"
+title: Uitslagen wielren poules Geensnor
+slug: uitslagen-wielren-poules
 ---
-
-# Uitslagen wielren poules Geensnor
 
 Ieder jaar doet de redactie samen met de vaste bezoekers mee met zogenoemde poules om de verschillende wielrenwedstrijden te voorspellen. We houden een lijstje bij wie er ieder jaar, in welke ronde, met de winst van door gaat!
 
@@ -12,6 +9,7 @@ Sinds 2022 poulen we met onze eigen poule: [https://www.geensnor.nl/tourpoule/](
 
 | jaar | ronde          | winnaar   |
 | ---- | -------------- | --------- |
+| 2024 | Tour de France | Joris      |
 | 2024 | Giro d’Italia  | Erik      |
 | 2023 | Vuelta a España| Erik      |
 | 2023 | Tour de France |Sjoerd 'Klasbak' Bisselink|

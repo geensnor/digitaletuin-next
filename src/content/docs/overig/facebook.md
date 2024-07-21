@@ -1,9 +1,7 @@
 ---
-title: Facebook schandalen
+title: Facebook en Meta schandalen
 permalink: /facebook-en-meta-schandalen/
 ---
-
-# Facebook en Meta schandalen
 
 Facebook (sinds oktober 2021: Meta) is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe schandalen in de media komen. Telkens is er even ophef, maar ze verdwijnen ook wel snel naar de achtergrond. De lijst hieronder is een poging om deze schandalen te verzamelen zodat er een gruwelijk overzicht van Facebook ellende ontstaat.
 

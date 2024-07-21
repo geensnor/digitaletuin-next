@@ -1,10 +1,7 @@
 ---
 title: Wielrenstatistieken
-parent: Wielrennen
 permalink: "/wielrenstatistieken/"
 ---
-
-# Wielrenstatistieken
 
 Voor de pro's heb je natuurlijk [procyclingstats.com](https://www.procyclingstats.com/), maar ook voor de vrolijke amateur zijn er aardig wat statistieken. Hieronder staan wat statistieken die automatisch worden bijgehouden als je lid bent van de [Geensnor club op strava](https://www.strava.com/clubs/geensnor)
 

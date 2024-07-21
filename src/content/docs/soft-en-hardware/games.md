@@ -1,9 +1,8 @@
 ---
 title: Games
-parent: Software en hardware
+
 ---
 
-## Games
 
 Spelletjes. Altijd leuk.
 
@@ -14,9 +13,9 @@ Spelletjes. Altijd leuk.
 |Soort Airhockey, maar dan leuker. Multiplayer op één iPhone!|[Olo in Appstore](https://apps.apple.com/us/app/olo-game/id529826126)|
 |Als je ooit iets met schaken op internet wil doen|[lichess.org](https://lichess.org/)|
 |Doom online en eventueel MP. Omdat je altijd ff kan doomen | [doom](https://silentspacemarine.com/)|
-|Moving Out. Leuk, origineel spel van de makers van Worms | [Moving Out](https://www.team17.com/games/moving-out/)
+|Moving Out. Leuk, origineel spel van de makers van Worms | [Moving Out](https://www.team17.com/games/moving-out/)|
 
-### Open Source Real Time Strategy (RTS)
+## Open Source Real Time Strategy (RTS)
 
 | Wat | URL |
 |-----|-----|

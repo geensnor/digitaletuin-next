@@ -1,9 +1,6 @@
 ---
 title: Brutalisme
-
 ---
-
-# Brutalisme
 
 ![brutaal parlementsgebouw](/assets/images/brutalisme/parlementsgebouw in Chandigarh.jpg)
 
@@ -13,17 +10,11 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 
 ![brutaaltje](https://www.re-thinkingthefuture.com/wp-content/uploads/2019/09/A335-10-Prime-Examples-of-Brutalist-Architecture.jpg)
 
-
-
 ![brutalism aan het strand](https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanatorium_%22Kurpaty%22.JPG)
-
-
 
 ## In Nederland
 
 "Fan van de bebouwde omgeving" Martjan Kuit geeft op z'n [Twitter account](https://twitter.com/martjankuit) ook aardig wat voorbeelden van Brutalisme in Nederland. Hij heeft ook dat NRC artikel hieronder samengesteld.
-
-
 
 ## Interessante links
 
@@ -39,11 +30,4 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 
 - Database met meer dan 2000 brutalistische gebouwen: [SOSBrutalism](https://www.sosbrutalism.org)
 
-- De Volkskrant 31 mei 2023: [Ruwe bolsters in de Nederlandse polder: het brutalisme is populairder dan ooit ](https://www.volkskrant.nl/cultuur-media/ruwe-bolsters-in-de-nederlandse-polder-het-brutalisme-is-populairder-dan-ooit~b925c3be/)
-
-  
-
-
-
-
-
+- De Volkskrant 31 mei 2023: [Ruwe bolsters in de Nederlandse polder: het brutalisme is populairder dan ooit](https://www.volkskrant.nl/cultuur-media/ruwe-bolsters-in-de-nederlandse-polder-het-brutalisme-is-populairder-dan-ooit~b925c3be/)

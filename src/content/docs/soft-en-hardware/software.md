@@ -1,9 +1,6 @@
 ---
 title: Software overig
-parent: Software en hardware
 ---
-
-# Software overig
 
 ## Voor op je computer of telefoon
 

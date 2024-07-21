@@ -3,7 +3,6 @@ title: Weetjes
 parent: Lijsten
 ---
 
-# Weetjes
 
 Wist je dat we al {{site.data.weetjes | size}} weetjes hebben!
 

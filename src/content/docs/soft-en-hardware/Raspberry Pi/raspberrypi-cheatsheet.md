@@ -2,8 +2,6 @@
 title: Pi cheatsheet
 ---
 
-# Pi cheatsheet
-
 Niet allemaal puur Raspberry Pi specifiek
 
 ## Algemene handige commando's

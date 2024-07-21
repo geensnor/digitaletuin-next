@@ -2,8 +2,6 @@
 title: Pi problemen
 ---
 
-# Problemen
-
 En hoe je ze op kan lossen...
 
 ## Je SSH client verwacht op het betreffende IP adres een ander apparaat

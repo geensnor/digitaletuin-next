@@ -3,8 +3,6 @@ title: Dooddoeners
 parent: Lijsten
 ---
 
-# Dooddoeners
-
 Tja, je moet wat...
 
 ---

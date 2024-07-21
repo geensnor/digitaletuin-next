@@ -1,8 +1,6 @@
 ---
-title: Pi algemeen
+title: Algemene Pi tips
 ---
-
-# Algemene Pi tips
 
 ## Installeren Raspberry Pi OS (incl. headless)
 

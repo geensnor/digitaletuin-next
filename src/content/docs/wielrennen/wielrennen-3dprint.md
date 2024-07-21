@@ -6,8 +6,6 @@ sidebar:
   badge: Extra snor!
 ---
 
-# 3d modellen voor op de racefiets
-
 Handige 3d modellen (stl) voor op de racefiets! Uiteraard, waar mogelijk, geensnor branded.
 
 | Wat | Plaatje | URL |

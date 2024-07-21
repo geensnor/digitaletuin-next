@@ -3,8 +3,6 @@ title: Streetviews
 parent: Lijsten
 ---
 
-# Streetview
-
 Streetview locaties! We houden mooie uitzichten bij!
 
 ---

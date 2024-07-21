@@ -1,9 +1,7 @@
 ---
 title: Overig
+tableOfContents: true
 ---
-
-
-# Overig
 
 ## Andere spullen
 

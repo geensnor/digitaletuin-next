@@ -1,9 +1,7 @@
 ---
-title: Woorden
+title: Mooie woorden
 parent: Lijsten
 ---
-
-# Mooie woorden
 
 Wist je dat we al {{site.data.woorden | size}} woorden hebben!
 

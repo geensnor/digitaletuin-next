@@ -3,7 +3,6 @@ title: Activiteiten
 ---
 
 
-
 Je bent met een groep en je hebt niks te doen. Geensnor verzamelt een leuke lijst van activiteiten om te doen, inclusief alle benodigheden.
 
 ## Voor op het werk
@@ -56,7 +55,7 @@ Het doel is om met een team een toren te maken van spaghetti. Je leert iets over
 - Na 18 minuten wordt het bouwwerk gemeten door de jury.
 - Het team met het hoogste bouwwerk wint een prijs.
 
-#### En beginnen maar...
+#### En beginnen maar
 
 Verdeel de groep in teams van ong. 4 deelnemers. Gebruik optioneel de lootjes maar zelf verdelen kan natuurlijk ook. Leg de regels goed uit. Een powerpointje of een whiteboard is wel handig, zodat je de regels altijd in beeld kan laten staan. Ook handig voor de tijd trouwens. Vergeet niet over de prijs te vertellen, want dat motiveert het volk.
 

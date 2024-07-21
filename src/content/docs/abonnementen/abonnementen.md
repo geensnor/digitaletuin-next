@@ -1,9 +1,6 @@
 ---
 title: Abonnementen
-has_children: true
 ---
-
-# Abonnementen
 
 ## Nieuwsbrieven
 
@@ -44,4 +41,3 @@ Heerlijk om naar mensen te kijken die lekker heen rommelen.
 |[Colin Furze](https://www.youtube.com/@colinfurze)|De OG. Veel voertuigen, lassen, vuur. En natuurlijk de laatste jaren graaft hij allemaal tunnels onder z'n huis|
 |[Stuff Made Here](https://www.youtube.com/@StuffMadeHere)|Enorme nerd. Maakt leuke dingen icm software.|
 |[Andrew Klein](https://yewtu.be/channel/UCYJ6JJ7Q938Fls5He8zYRFA)|Hout en metaalbewerking. Maar super mooie pikaschroefjes die je kan kopen|
-

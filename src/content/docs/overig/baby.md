@@ -1,18 +1,12 @@
 ---
 title: Baby handboek
-permalink: /baby-handboek/
+tableOfContents: true
+slug: baby-handboek
 ---
 
 > Je krijgt een kind. Voorbereid en gestructureerd als je bent ga je deze uitdaging planmatig aan. Een voorbereid mens kan immers de wereld aan. Stap 1, wat is er allemaal nodig. Enthousiast start je de browser.
 
 De redactie van Geensnor snapt deze primaire reactie maar al te goed. Immers zijn wij ervaringsdeskundigen. Door schade en schande wijs geworden uiteraard. Geensnor steekt ook hier de helpende hand uit en presenteert het **grote Geensnor baby handboek.**
-
-# Geensnor Baby Handboek
-
-{: .no_toc }
-
-* TOC
-{:toc}
 
 ## Vooraf regelen
 

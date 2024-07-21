@@ -1,8 +1,7 @@
 ---
 title: Series en films
+tableOfContents: true
 ---
-
-# Series en films
 
 We leven in een tijd van streaming media on demand. Lineair is dood, leve netflix/prime/disney+/appleTV/videoland/hulu/hbo/etc!
 

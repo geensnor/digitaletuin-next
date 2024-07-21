@@ -6,13 +6,6 @@ Inpakken. Nooit leuk en het wordt nog erger als je dingen vergeet. Daarom hier e
 
 > Tip: Kopieer en plak de onderstaande lijsten in Apple Herinneringen om ze op je iPhone af te vinken!
 
-# Inpaklijsten
-
-{: .no_toc }
-
-* TOC
-{:toc}
-
 {% for inpakCategorie in site.data.inpaklijst.categorieen %}
 
 ## {{ inpakCategorie.naam }}

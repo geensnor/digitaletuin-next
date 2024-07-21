@@ -1,9 +1,6 @@
 ---
 title: Toffe en betaalbare kunst
-
 ---
-
-# Toffe en betaalbare kunst
 
 |Wie|Wat|Voorbeeld|
 |---|--------|-----------|

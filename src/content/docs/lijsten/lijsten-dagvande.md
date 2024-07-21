@@ -3,8 +3,6 @@ title: Dag van de
 parent: Lijsten
 ---
 
-# Dag van de
-
 Elke dag wel iets te vieren. Zelf iets toevoegen? Kijk eens op:
 
 - [fijnedagvan.nl](https://www.fijnedagvan.nl/)

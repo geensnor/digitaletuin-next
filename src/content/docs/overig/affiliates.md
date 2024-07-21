@@ -3,7 +3,6 @@ title: Affiliates
 permalink: /affiliates/
 ---
 
-# Affiliate links
 
 > Pak uw voordeel!
 

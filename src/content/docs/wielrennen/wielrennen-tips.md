@@ -1,9 +1,7 @@
 ---
-title: Wielren tips
+title: Tips voor wielrenners
 tableOfContents: true
 ---
-
-# Tips voor wielrenners
 
 ## Spullen en internet tips
 

@@ -1,9 +1,6 @@
 ---
 title: Drinken
-parent: Eten en drinken
 ---
-
-# Drinken
 
 ## Koffie
 
