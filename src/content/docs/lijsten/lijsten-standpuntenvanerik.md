@@ -1,6 +1,10 @@
 ---
 title: Erik's standpunten
 parent: Lijsten
+sidebar:
+  badge:
+    text: Tip!
+    variant: tip
 ---
 
 Als het aan Erik lag, was alles beter. Onderstaand een lijst met zijn {{site.data.standpuntenvanerik | size}} standpunten.

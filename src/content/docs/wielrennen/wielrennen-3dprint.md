@@ -1,9 +1,6 @@
 ---
 title: Wielren 3d prints
 parent: Wielrennen
-sidebar:
-  # Uses the default variant matching your site’s accent color
-  badge: Extra snor!
 ---
 
 Handige 3d modellen (stl) voor op de racefiets! Uiteraard, waar mogelijk, geensnor branded.
