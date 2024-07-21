@@ -1,6 +1,9 @@
 ---
 title: Wielren 3d prints
 parent: Wielrennen
+sidebar:
+  # Uses the default variant matching your site’s accent color
+  badge: Extra snor!
 ---
 
 # 3d modellen voor op de racefiets

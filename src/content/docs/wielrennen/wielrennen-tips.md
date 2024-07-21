@@ -1,6 +1,6 @@
 ---
 title: Wielren tips
-parent: Wielrennen
+tableOfContents: true
 ---
 
 # Tips voor wielrenners
