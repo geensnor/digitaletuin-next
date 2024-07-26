@@ -1,7 +1,9 @@
 ---
 title: Dag van de
-parent: Lijsten
 ---
+import dagvande from '../../data/dagvande.json'
+
+
 
 Elke dag wel iets te vieren. Zelf iets toevoegen? Kijk eens op:
 
@@ -9,19 +11,19 @@ Elke dag wel iets te vieren. Zelf iets toevoegen? Kijk eens op:
 
 - [beleven.org](https://www.beleven.org/feesten/)
 
-We hebben nu {{site.data.dagvande | size}} dagen dus we zijn er nog niet.
-
----
+We hebben nu {dagvande.length} dagen dus we zijn er nog niet.
 
 <table>
     <tr>
         <th>Dag</th>
         <th>Onderwerp</th>
     </tr>
-{% for dag in site.data.dagvande %}
+
+    {dagvande.map((dag) => (
     <tr>
-        <td>{{ dag.dag }}</td>
-        <td>{{ dag.onderwerp }}</td>
+        <td>{ dag.dag }</td>
+        <td>{ dag.onderwerp }</td>
     </tr>
-{% endfor %}
+    ))}
+
 </table>
