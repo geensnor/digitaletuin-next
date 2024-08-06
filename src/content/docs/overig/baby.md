@@ -121,4 +121,4 @@ Slechts in uitzondelijke gevallen is het geen onderstaande punten gaat het gewoo
 
 ## Vakantie
 
-Ga je op vakantie met je kind? Je moet erg veel zooi mee nemen, maar wat precies? Check daarvoor onze speciale [inpaklijst](/docs/lijsten/lijsten-inpaklijst#kinderen)
+Ga je op vakantie met je kind? Je moet erg veel zooi mee nemen, maar wat precies? Check daarvoor onze speciale [inpaklijst](../lijsten/lijsten-inpaklijst/#kinderen)
