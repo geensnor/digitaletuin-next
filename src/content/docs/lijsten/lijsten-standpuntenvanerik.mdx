@@ -1,0 +1,15 @@
+---
+title: Erik's standpunten
+sidebar:
+  badge:
+    text: Tip!
+    variant: tip
+---
+import standpunten from "../../data/standpunten.json"
+
+Als het aan Erik lag, was alles beter. Onderstaand een lijst met zijn {standpunten.length} standpunten.
+
+<ul>
+{standpunten.map((standpunt) => <li>{standpunt}</li> )}
+</ul>
+
