@@ -1,0 +1,12 @@
+---
+title: Streetviews
+---
+Streetview locaties! We houden mooie uitzichten bij!
+
+import streetviews from "../../data/streetviews.json"
+
+<ul>
+{streetviews.locations.map((streetview) => <li><a href={streetview.url}>{streetview.url}</a></li> )}
+</ul>
+
+
