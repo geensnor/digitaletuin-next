@@ -1,0 +1,14 @@
+---
+title: Mooie woorden
+
+---
+
+import woorden from "../../data/woorden.json"
+
+Wist je dat we al {woorden.length} woorden hebben!
+
+
+
+<ol>
+{woorden.map((woord) => <li>{woord}</li> )}
+</ol>
