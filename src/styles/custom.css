@@ -1,6 +1,7 @@
 :root[data-theme='light']{
 	--sl-color-text-accent: hsl(15.8, 87.98%, 54.31%);
 	--sl-font: 'Work sans';
+	--sl-content-width: 60rem;
 }
 
 h1, h2, h3, h4, .site-title{
@@ -10,3 +11,4 @@ h1, h2, h3, h4, .site-title{
 .task-list-item{
 	list-style-type: none;
 }
+
