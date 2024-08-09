@@ -1,24 +1,30 @@
 ---
 title: RSS Feeds
 ---
+import feeds from "../../data/feeds.json";
 
 Hieronder staan de RSS feeds die we lezen, per categorie. Het overzicht wordt gegeneereerd vanuit [Feedly](https://feedly.com).
 
-{/\* <br>
-
 <ul>
-{% for group in site.data.feeds.opml.body.outline %}
-    <li>{{ group.title }}</li>
-    {% if group.outline.title %}
+  {feeds.opml.body.outline.map((group) => (
+    <li key={group.title}>
+      {group.title}
+      {Array.isArray(group.outline) ? (
         <ul>
-            <li><a target="_blank" href="{{ group.outline.htmlUrl }}">{{ group.outline.title }}</a></li>
+          {group.outline.map((source) => (
+            <li key={source.title}>
+              <a target="_blank" href={source.htmlUrl}>{source.title}</a>
+            </li>
+          ))}
         </ul>
-    {% else %}
+      ) : group.outline.title ? (
         <ul>
-        {% for source in group.outline %}
-            <li><a target="_blank" href="{{ source.htmlUrl }}">{{ source.title }}</a></li>
-        {% endfor %}
+          <li>
+            <a target="_blank" href={group.outline.htmlUrl}>{group.outline.title}</a>
+          </li>
         </ul>
-    {% endif %}
-{% endfor %}
-</ul> */}
+      ) : null}
+    </li>
+  ))}
+  </ul>
+ 
