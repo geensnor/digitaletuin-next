@@ -1,11 +1,14 @@
 ---
 title: Dooddoeners
 ---
-import { Lijstitem } from '@geensnor/astro-componenten';
-import dooddoeners from '../../data/dooddoeners.json'
+
+import { Lijstitem } from "@geensnor/astro-componenten";
+import dooddoeners from "../../data/dooddoeners.json";
 
 Tja, je moet wat...
 
 <ul>
-    {dooddoeners.map((dooddoener) => <Lijstitem> {dooddoener} </Lijstitem>)}
-</ul> 
+  {dooddoeners.map((dooddoener) => (
+    <Lijstitem> {dooddoener} </Lijstitem>
+  ))}
+</ul>{" "}

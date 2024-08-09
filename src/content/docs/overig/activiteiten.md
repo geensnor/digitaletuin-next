@@ -2,7 +2,6 @@
 title: Activiteiten
 ---
 
-
 Je bent met een groep en je hebt niks te doen. Geensnor verzamelt een leuke lijst van activiteiten om te doen, inclusief alle benodigheden.
 
 ## Voor op het werk

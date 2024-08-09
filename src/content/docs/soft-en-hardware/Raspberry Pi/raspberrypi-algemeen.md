@@ -6,8 +6,7 @@ title: Algemene Pi tips
 
 Voorheen moest je allemaal irritante dingen doen met images en SD kaart writers, maar tegenwoordig heeft Raspberry een eigen superhandige Imager, [Raspberry Pi imager](https://www.raspberrypi.com/software/).
 
-Meestal, of vaak, wil je de Pi headless installeren. Headless betekent dat je hem niet aan een scherm gaat hangen maar gaat benaderen via SSH. Voorheen moest dat door wat files aan te passen na het imagen op de SD kaart, tegenwoordig kun je dat direct mee nemen bij het schrijven van de image naar de SD door ``
-text CTRL + SHIFT + X `` in te voeren in de Raspberry Pi Imager, en daar vervolgens SSH en/of je Wi-Fi in te stellen.
+Meestal, of vaak, wil je de Pi headless installeren. Headless betekent dat je hem niet aan een scherm gaat hangen maar gaat benaderen via SSH. Voorheen moest dat door wat files aan te passen na het imagen op de SD kaart, tegenwoordig kun je dat direct mee nemen bij het schrijven van de image naar de SD door `text CTRL + SHIFT + X` in te voeren in de Raspberry Pi Imager, en daar vervolgens SSH en/of je Wi-Fi in te stellen.
 
 ## Hostnames ipv IP adressen
 
