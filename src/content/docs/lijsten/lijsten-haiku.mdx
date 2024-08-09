@@ -1,15 +1,9 @@
 ---
 title: Haiku's
-
 ---
-import haikus from '../../data/haiku.json'
 
+import haikus from "../../data/haiku.json";
 
 {haikus.length} kleine Japanse gedichtjes met 17 lettergrepen.
 
 {haikus.map((haiku) => <div set:html={haiku.replace(/(?:\n)/g, "<br>")} /> )}
-
-
-
-
-

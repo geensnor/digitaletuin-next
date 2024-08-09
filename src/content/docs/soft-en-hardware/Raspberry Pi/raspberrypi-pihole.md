@@ -3,7 +3,6 @@ title: Pi-hole op je Raspberry Pi
 tableOfContents: true
 ---
 
-
 Eerder verschenen op [geensnor.nl](https://geensnor.netlify.app/pi-hole-voor-beginners/)
 
 [Pi-hole](https://pi-hole.net/) is een applicatie die internetadvertenties en trackers blokkeert op je thuisnetwerk. Pi-hole kun je op allerlei manieren installeren en gebruiken. Hieronder leg ik een (relatief..) eenvoudige manier uit en laat ik zien wat je ervoor moet kopen. Als je Pi-hole eenmaal hebt geconfigureerd, worden advertenties op al je apparaten in huis automatisch geblokkeerd.
@@ -12,10 +11,10 @@ Eerder verschenen op [geensnor.nl](https://geensnor.netlify.app/pi-hole-voor-beg
 
 Het enige wat je van tevoren nodig hebt is:
 
-* Een uur de tijd
-* Een computer met een micro [SD kaart lezer](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fmultifunctionele-usb-kaartlezer-4-in-1-usb-2-0-m2-sd-sdhc-sd-tf-geheugenkaart-smart-reader-blauw%2F9200000101914013%2F&name=Multifunctionele%20USB%20Kaartlezer%204%20in%201%20USB%202.0...)
-* Ongeveer 45 euro
-* Basale kennis van je eigen netwerk. IP adres van je router bijvoorbeeld.
+- Een uur de tijd
+- Een computer met een micro [SD kaart lezer](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fmultifunctionele-usb-kaartlezer-4-in-1-usb-2-0-m2-sd-sdhc-sd-tf-geheugenkaart-smart-reader-blauw%2F9200000101914013%2F&name=Multifunctionele%20USB%20Kaartlezer%204%20in%201%20USB%202.0...)
+- Ongeveer 45 euro
+- Basale kennis van je eigen netwerk. IP adres van je router bijvoorbeeld.
 
 ## 1. Kopen
 
@@ -23,7 +22,7 @@ Voordat je kan beginnen moet je wat dingen kopen. En een Pi-hole mag dan wel adv
 
 Ten eerste natuurlijk een Raspberry Pi waar we Pi-hole op gaan installeren. De goedkoopste en kleinste is voldoende voor Pi-hole.
 
-Deze is prima: [Raspberry Pi Zero WH (voorgesoldeerde headers)](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fraspberry-pi-zero-wh%2F9300000014844610%2F&name=Raspberry%20Pi%20Zero%20WH%20(voorgesoldeerde%20headers))
+Deze is prima: [Raspberry Pi Zero WH (voorgesoldeerde headers)](<https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fraspberry-pi-zero-wh%2F9300000014844610%2F&name=Raspberry%20Pi%20Zero%20WH%20(voorgesoldeerde%20headers)>)
 
 Standaard kun je niets opslaan op een Raspberry Pi, dus je hebt ook nog een geheugenkaartje nodig. Qua ruimte heeft Pi-hole ook niet veel nodig, dus 16 GB volstaat. Deze bijvoorbeeld: [SanDisk Ultra Micro SDHC 16GB - UHSI & A1 - met adapter](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fsandisk-ultra-micro-sdhc-16gb-uhsi-a1-met-adapter%2F9200000080737259%2F&name=SanDisk%20Ultra%20Micro%20SDHC%2016GB%20-%20UHSI%20%26%20A1%20-%20me)
 
@@ -65,7 +64,7 @@ Inhoud wpa_supplicant.conf
 ```text
     update_config=1
     ctrl_interface=/var/run/wpa_supplicant
-    
+
     network={
     ssid="<ssid van je WiFi netwerk>"
     psk="<wachtwoord van je WiFi>"
@@ -87,8 +86,8 @@ Hier wordt het allemaal wat lastiger. Je Pi-hole werkt het beste als hij een sta
 3. Als er om een wachtwoord wordt gevraagd, moet je `raspberry` intypen.
 4. Als alles goed is gegaan, heb je via SSH verbinding gemaakt met je Raspberry Pi. Verander het standaard "raspberry" wachtwoord door iets veiligers door `passwd` in te tikken.
 5. Nadat het standaard wachtwoord is gewijzigd, tik het volgende in om het configuratiebestand te openen
-`sudo nano /etc/dhcpcd.conf`.
-In dit bestand kun je een vast IP adres opgegven. Het kan zijn dat je weer het wachtwoord moet opgeven.
+   `sudo nano /etc/dhcpcd.conf`.
+   In dit bestand kun je een vast IP adres opgegven. Het kan zijn dat je weer het wachtwoord moet opgeven.
 6. Onderaan het bestand moet je het volgende neerzetten
 
 ```text
@@ -98,9 +97,7 @@ interface wlan0
 
 ```
 
-De bovenste is het nieuwe, statische adres van je Raspberry Pi. De onderste is het adres van je router.
-7. Druk op ctrl-x om op te slaan.
-8. En tik in `sudo reboot` om de Raspberry Pi opnieuw op te starten. Na de reboot heeft je Raspberry Pi het IP adres wat je in stap 5 hierboven hebt opgegeven.
+De bovenste is het nieuwe, statische adres van je Raspberry Pi. De onderste is het adres van je router. 7. Druk op ctrl-x om op te slaan. 8. En tik in `sudo reboot` om de Raspberry Pi opnieuw op te starten. Na de reboot heeft je Raspberry Pi het IP adres wat je in stap 5 hierboven hebt opgegeven.
 
 ### Pi-hole installeren
 

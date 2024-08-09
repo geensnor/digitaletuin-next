@@ -1,7 +1,8 @@
 ---
 title: Facebook schandalen
 ---
-import schandalen from "../../data/facebook-schandalen.json"
+
+import schandalen from "../../data/facebook-schandalen.json";
 
 Facebook (sinds oktober 2021: Meta) is een verschrikkelijk bedrijf waardoor er met grote regelmaat nieuwe schandalen in de media komen. Telkens is er even ophef, maar ze verdwijnen ook wel snel naar de achtergrond. De lijst hieronder is een poging om deze schandalen te verzamelen zodat er een gruwelijk overzicht van Facebook ellende ontstaat.
 
@@ -17,9 +18,10 @@ We hebben inmiddels {schandalen.length} schandalen en het loopt nog steeds op!
   </tr>
 
 {schandalen.map((schandaal) => <tr>
-    <td>{schandaal.datum}</td>
-    <td>{schandaal.schandaal}</td>
-    <td><a href={schandaal.url}>{schandaal.bron}</a></td>
-    </tr>
+<td>{schandaal.datum}</td>
+<td>{schandaal.schandaal}</td>
+<td><a href={schandaal.url}>{schandaal.bron}</a></td>
+</tr>
 )}
+
 </table>
