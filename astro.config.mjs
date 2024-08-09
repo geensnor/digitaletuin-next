@@ -53,19 +53,24 @@ export default defineConfig({
           autogenerate: { directory: "soft-en-hardware" },
         },
         {
-          label: "Eten en drinken",
-          collapsed: true,
-          autogenerate: { directory: "eten-en-drinken" },
-        },
-        {
           label: "Lijsten",
           collapsed: false,
           autogenerate: { directory: "lijsten" },
         },
         {
+          label: "Eten en drinken",
+          collapsed: true,
+          autogenerate: { directory: "eten-en-drinken" },
+        },
+        {
           label: "Overig",
           collapsed: true,
           autogenerate: { directory: "overig" },
+        },
+        {
+          label: "Abonnementen",
+          collapsed: true,
+          autogenerate: { directory: "abonnementen" },
         },
       ],
     }),
