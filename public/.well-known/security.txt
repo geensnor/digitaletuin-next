@@ -1,0 +1,4 @@
+Contact: mailto:security@dedigitaletuin.nl
+Expires: 2024-07-01T07:00:00.000Z
+Preferred-Languages: nl
+Canonical: https://www.dedigitaletuin.nl/.well-known/security.txt
