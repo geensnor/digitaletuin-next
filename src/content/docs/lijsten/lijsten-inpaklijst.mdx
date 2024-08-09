@@ -9,22 +9,31 @@ Inpakken. Nooit leuk en het wordt nog erger als je dingen vergeet. Daarom hier e
 > Tip: Kopieer en plak de onderstaande lijsten in Apple Herinneringen om ze op je iPhone af te vinken!
 
 {inpaklijst.categorieen.map((inpakCategorie) => (
+
 <>
-<h2 id={inpakCategorie.naam}>{inpakCategorie.naam}</h2>
-<ul>
-{inpakCategorie.items.map((item) => (
-<li class="task-list-item"> <input type="checkbox"  disabled="disabled" /> {item} </li>
-))}
-</ul>
-{inpakCategorie.subcategorieen && inpakCategorie.subcategorieen.map((subcategorie) => (
-<>
-<h3>{subcategorie.naam}</h3>
-<ul>
-{subcategorie.items.map((subItem) => (
-<li class="task-list-item"> <input type="checkbox"  disabled="disabled" />{subItem}</li>
-))}
-</ul>
-</>
-))}
+  <h2 id={inpakCategorie.naam}>{inpakCategorie.naam}</h2>
+  <ul>
+    {inpakCategorie.items.map((item) => (
+      <li class="task-list-item">
+        {" "}
+        <input type="checkbox" disabled="disabled" /> {item}{" "}
+      </li>
+    ))}
+  </ul>
+  {inpakCategorie.subcategorieen &&
+    inpakCategorie.subcategorieen.map((subcategorie) => (
+      <>
+        <h3>{subcategorie.naam}</h3>
+        <ul>
+          {subcategorie.items.map((subItem) => (
+            <li class="task-list-item">
+              {" "}
+              <input type="checkbox" disabled="disabled" />
+              {subItem}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
 </>
 ))}

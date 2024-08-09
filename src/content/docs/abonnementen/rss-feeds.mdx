@@ -1,6 +1,7 @@
 ---
 title: RSS Feeds
 ---
+
 import feeds from "../../data/feeds.json";
 
 Hieronder staan de RSS feeds die we lezen, per categorie. Het overzicht wordt gegeneereerd vanuit [Feedly](https://feedly.com).
@@ -13,18 +14,21 @@ Hieronder staan de RSS feeds die we lezen, per categorie. Het overzicht wordt ge
         <ul>
           {group.outline.map((source) => (
             <li key={source.title}>
-              <a target="_blank" href={source.htmlUrl}>{source.title}</a>
+              <a target="_blank" href={source.htmlUrl}>
+                {source.title}
+              </a>
             </li>
           ))}
         </ul>
       ) : group.outline.title ? (
         <ul>
           <li>
-            <a target="_blank" href={group.outline.htmlUrl}>{group.outline.title}</a>
+            <a target="_blank" href={group.outline.htmlUrl}>
+              {group.outline.title}
+            </a>
           </li>
         </ul>
       ) : null}
     </li>
   ))}
-  </ul>
- 
+</ul>
