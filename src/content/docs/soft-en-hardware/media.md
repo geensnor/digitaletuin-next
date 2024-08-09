@@ -13,3 +13,4 @@ Bedrijven zoeken op [allerlei](https://permissionmachine.com/) manieren naar afb
 |[vektors.pro](https://www.vektors.pro/)|Gratis vectorafbeeldingen|
 |[Artvee](https://artvee.com/)|Browse and download high-resolution, public domain artworks.|
 |[nyx.gallery](https://nyx.gallery/)|Rechtenvrije, door AI gegenereerde "foto's"|
+|[public.work](https://public.work/)|Zoekmachine voor pubiek werk|
