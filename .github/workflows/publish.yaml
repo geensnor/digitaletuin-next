@@ -1,0 +1,30 @@
+on: 
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+name: Publish Tuin
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  prettier-lint:
+    uses: ./.github/workflows/prettier-lint.yaml  
+  build:
+    needs: [prettier-lint]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository using git
+        uses: actions/checkout@v4
+      - name: Install, build, and upload your site
+        uses: withastro/action@v2
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.ftpserver }}
+          username: ${{ secrets.ftpusername }}
+          password: ${{ secrets.ftppassword }}
+          local-dir: ./dist/

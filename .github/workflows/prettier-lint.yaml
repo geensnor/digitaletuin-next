@@ -1,0 +1,21 @@
+on: [workflow_call, workflow_dispatch]
+name: Prettier en lint
+jobs:
+  prettier:
+    name: Prettier en lint
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref }}
+    - name: Prettier Action
+      uses: creyD/prettier_action@v4.3
+      with:
+        prettier_options: --write **/*.{js,md,mdx}
+    - name: Markdown Lint
+      uses: DavidAnson/markdownlint-cli2-action@v15
+      with:
+        globs: '**/*.md'
+        config: .markdownlint.json
+        fix: true
