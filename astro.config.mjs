@@ -11,7 +11,7 @@ export default defineConfig({
   integrations: [
     starlight({
       editLink: {
-        baseUrl: "https://github.com/geensnor/DeDigitaleTuin/edit/master",
+        baseUrl: "https://github.com/geensnor/DigitaleTuin/edit/master",
       },
       plugins: [
         starlightLinksValidator({
