@@ -1,0 +1,22 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { getCollection } from 'astro:content';
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const recepten = await getCollection('recepten');
+  return recepten.map(recept => ({
+    params: { slug: recept.slug }, props: { recept },
+  }));
+}
+// 2. For your template, you can get the entry directly from the prop
+const { recept } = Astro.props;
+const { Content, headings } = await recept.render();
+---
+<h1>{recept.data.title}</h1>
+
+
+<StarlightPage frontmatter={{ title: recept.data.title }}>
+  
+<Content />
+
+</StarlightPage>
