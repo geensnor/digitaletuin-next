@@ -4,7 +4,6 @@ recipeYield: 2
 recipeCategory: hoofdgerecht
 recipeCuisine: vietnamees
 ---
-# Vietnamese stijl noedelbowl
 
 ## Ingredienten
 
