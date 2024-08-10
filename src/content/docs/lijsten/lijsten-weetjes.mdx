@@ -1,11 +1,13 @@
 ---
 title: Weetjes
 ---
-import weetjes from "../../data/weetjes.json"
+
+import weetjes from "../../data/weetjes.json";
 
 Wist je dat we al {weetjes.length} weetjes hebben!
 
-
 <ul>
-{weetjes.map((weetje) => <li>{weetje}</li> )}
+  {weetjes.map((weetje) => (
+    <li>{weetje}</li>
+  ))}
 </ul>
