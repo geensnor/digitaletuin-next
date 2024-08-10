@@ -1,5 +1,5 @@
 # De Digitale Tuin
 
-> De Digitale Tuin van Geensnor, volgende generatie.
+De Digitale Tuin van Geensnor, een bonte verzameling van allerlei aardigheden.
 
-Dag Jekyll, hallo Astro
+[https://www.dedigitaletuin.nl/](https://www.dedigitaletuin.nl/)
