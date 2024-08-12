@@ -7,6 +7,10 @@ export const collections = {
 	recepten: defineCollection({ type: 'content', schema: z.object({
     	title: z.string(),
 		recipeYield: z.number().optional(),
-		recipeCategory: z.enum(['hoofdgerecht', 'voorgerecht', 'ontbijt']).optional(),
+		recipeCategory: z.enum(['hoofdgerecht', 'voorgerecht', 'ontbijt', 'lunchgerecht']).optional(),
+		cookTime: z.string().duration().optional(),
+		prepTime: z.string().duration().optional(),
+		totalTime: z.string().duration().optional(),
+		calories: z.number().optional(),
   }), }),
 };
