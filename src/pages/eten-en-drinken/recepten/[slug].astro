@@ -8,7 +8,7 @@ export async function getStaticPaths() {
     params: { slug: recept.slug }, props: { recept },
   }));
 }
-// 2. For your template, you can get the entry directly from the prop
+
 const { recept } = Astro.props;
 const { Content, headings } = await recept.render();
 ---
