@@ -1,5 +1,5 @@
 ---
-title: Vietnamese stijl noedelbowl
+name: Vietnamese stijl noedelbowl
 recipeYield: 2
 recipeCategory: hoofdgerecht
 recipeCuisine: vietnamees
