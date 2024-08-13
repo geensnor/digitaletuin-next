@@ -1,5 +1,6 @@
 ---
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import ReceptMetadata from '../../../components/ReceptMetadata.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -10,13 +11,13 @@ export async function getStaticPaths() {
 }
 
 const { recept } = Astro.props;
-const { Content, headings } = await recept.render();
+const { Content } = await recept.render();
 ---
-<h1>{recept.data.title}</h1>
 
+<StarlightPage frontmatter={{ title: recept.data.name }}>
 
-<StarlightPage frontmatter={{ title: recept.data.title }}>
-  
+<ReceptMetadata {recept} />
+
 <Content />
-
+<a class="terug-link" href="./">terug naar alle recepten</a>
 </StarlightPage>

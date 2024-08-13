@@ -1,6 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
-
+import { getCollection  } from 'astro:content';
 const recepten = await getCollection('recepten');
 ---
 
@@ -10,6 +9,6 @@ const recepten = await getCollection('recepten');
 <th>Gang</th>
 </tr>
 
-{recepten.map((recept) => <tr><td><a href={recept.slug}>{recept.data.title}</a> </td> <td>{recept.data.recipeCategory}</td></tr>)}
+{recepten.map((recept) => <tr><td><a href={Astro.url + recept.slug}>{recept.data.name}</a> </td> <td>{recept.data.recipeCategory}</td></tr>)}
 
 </table>
