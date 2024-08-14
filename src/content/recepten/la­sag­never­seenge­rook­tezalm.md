@@ -1,6 +1,7 @@
 ---
 name: La­sag­ne met ver­se en ge­rook­te zalm
 ---
+
 ![foto van gerecht](https://static.ah.nl/static/recepten/img_048744_2048x1496_JPG.jpg)
 
 ## Ingredienten
@@ -25,21 +26,21 @@ name: La­sag­ne met ver­se en ge­rook­te zalm
 5. Roer de carbonarasaus los met het water. NIET IN DE PAN GOOIEN!
 6. Vet de ovenschaal in met olie. Zorg er dan voor dat dit de opbouw wordt.
 
-|Kaas|
-|---|
-|Rest van de carbonarasaus|
-|Rest van de gerooktezalm|
-|Rest van de tomatensaus|
-|3 lasagne bladen|
-|1/4e van de carbonarasaus|
-|Zalmfilet in stukjes|
-|1/3e van de tomatensaus|
-|3 lasagne bladen|
-|1/4e van de carbonarasaus|
-|1/2e van de gerookte zalm|
-|1/3e van de tomatensaus|
-|3 lasagne bladen|
-|Heel klein beetje tomatensaus|
+| Kaas                          |
+| ----------------------------- |
+| Rest van de carbonarasaus     |
+| Rest van de gerooktezalm      |
+| Rest van de tomatensaus       |
+| 3 lasagne bladen              |
+| 1/4e van de carbonarasaus     |
+| Zalmfilet in stukjes          |
+| 1/3e van de tomatensaus       |
+| 3 lasagne bladen              |
+| 1/4e van de carbonarasaus     |
+| 1/2e van de gerookte zalm     |
+| 1/3e van de tomatensaus       |
+| 3 lasagne bladen              |
+| Heel klein beetje tomatensaus |
 
 Bak de lasagne ca. 35 min. in het midden van de oven.
 

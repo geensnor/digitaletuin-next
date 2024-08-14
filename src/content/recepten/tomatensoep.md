@@ -4,7 +4,6 @@ recipeYield: 3
 recipeCategory: soep
 ---
 
-
 Eigenlijk gewoon het soeppakket van de AH. Maar van dat pakket zijn de ingredienten vaak rot.
 
 ## Ingredienten

@@ -4,7 +4,6 @@ recipeYield: 3
 recipeCategory: soep
 ---
 
-
 Beetje rare naam maar enfin
 
 ## Ingredienten
