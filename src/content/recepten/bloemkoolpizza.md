@@ -21,4 +21,4 @@ recipeCategory: hoofdgerecht
 - Bloemkoolbodems 2 minuten afbakken
 - Knoflook en pasata over de bodems verdelen
 - Champignons, kaas, parmaham en olijven (deze volgorde) erop.
-Kaas op de bodem
+  Kaas op de bodem
