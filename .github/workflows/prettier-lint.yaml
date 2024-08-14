@@ -1,4 +1,4 @@
-on: [workflow_call, workflow_dispatch]
+on: [push, workflow_call, workflow_dispatch]
 name: Prettier en lint
 jobs:
   prettier:
