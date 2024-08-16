@@ -1,9 +1,9 @@
 on: 
   push:
-    branches: [main]
+    branches: [upgrade-astro]
     paths:
       - 'src/**'
-name: Publish Tuin
+name: Publish vNext tuin
 
 permissions:
   contents: write
