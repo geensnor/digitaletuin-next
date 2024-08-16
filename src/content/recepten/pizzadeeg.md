@@ -2,6 +2,9 @@
 name: Pizzadeeg
 recipeYield: 3
 recipeCategory: hoofdgerecht
+suitableForDiet: 
+    - VeganDiet 
+    - VegetarianDiet
 ---
 
 Voor vier pizza's. Van [rutgerbakt.nl](https://rutgerbakt.nl/alle-recepten/zelf-pizzadeeg-maken-recept/)

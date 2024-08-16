@@ -3,6 +3,8 @@ name: Wraps met krokante kip
 totalTime: PT15M
 recipeYield: 2
 recipeCategory: hoofdgerecht
+suitableForDiet: 
+    - VegetarianDiet
 ---
 
 ## Ingredienten
@@ -19,7 +21,7 @@ recipeCategory: hoofdgerecht
 - Mayonaise of frietsaus
 - 2 tenen knoflook
 - Gerookte paprikapoeder
-- Krokante kipschnitzels. Vega als dat je ding is.
+- Krokante vega kipschnitzels
 
 ## Bereiding
 

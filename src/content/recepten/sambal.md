@@ -1,5 +1,8 @@
 ---
 name: Sambal
+suitableForDiet: 
+    - VeganDiet 
+    - VegetarianDiet
 ---
 
 ## Ingredienten
