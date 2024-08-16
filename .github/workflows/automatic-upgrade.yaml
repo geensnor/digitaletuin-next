@@ -35,5 +35,8 @@ jobs:
           branch: upgrade-astro
           commit-message: 'Astro update'
           title: 'Astro upgrade'
-          body: Update Astro en packages naar de laatste versie.
+          body: |
+            Update Astro en packages naar de laatste versie. 
+            
+            https://dedigitaletuin-vnext.geensnor.nl/
           labels: ci
