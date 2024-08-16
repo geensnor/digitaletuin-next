@@ -1,56 +1,84 @@
 ---
-import { parse, toSeconds  } from "iso8601-duration";
+import { parse, toSeconds } from "iso8601-duration";
 const { recept } = Astro.props;
 ---
 
-<table>
-{recept.data.recipeCategory && (
-  <tr>
-    <td>categorie</td>
-    <td>{recept.data.recipeCategory}</td>
-</tr>
-)}
-   {recept.data.recipeCuisine && (
- <tr>
-    <td>keuken</td>
-    <td>{recept.data.recipeCuisine}</td>
- </tr>
-)}
-{recept.data.recipeYield && (
- <tr>
-    <td>aantal personen</td>
-    <td>{recept.data.recipeYield}</td>
- </tr>
-)}
-{recept.data.author && (
-  <tr>
-    <td>auteur</td>
-    <td>{recept.data.author}</td>
- </tr>
-)}
-{recept.data.prepTime && (
- <tr>
-    <td>voorbereidingstijd</td>
-    <td>{toSeconds(parse(recept.data.prepTime))/60} minuten</td>
- </tr>
-)}
-{recept.data.cookTime && (
- <tr>
-    <td>kooktijd</td>
-    <td>{toSeconds(parse(recept.data.cookTime))/60} minuten</td>
- </tr>
-)}
-{recept.data.totalTime && (
- <tr>
-    <td>totaaltijd</td>
-    <td>{toSeconds(parse(recept.data.totalTime))/60} minuten</td>
- </tr>
-)}
-{recept.data.calories && (
- <tr>
-    <td>totaaltijd</td>
-    <td>{recept.data.calories}</td>
- </tr>
-)}
-
+<table class="metadata-table">
+  {
+    recept.data.recipeCategory && (
+      <tr>
+        <td>categorie</td>
+        <td>{recept.data.recipeCategory}</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.recipeCuisine && (
+      <tr>
+        <td>keuken</td>
+        <td>{recept.data.recipeCuisine}</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.recipeYield && (
+      <tr>
+        <td>aantal personen</td>
+        <td>{recept.data.recipeYield}</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.author && (
+      <tr>
+        <td>auteur</td>
+        <td>{recept.data.author}</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.prepTime && (
+      <tr>
+        <td>voorbereidingstijd</td>
+        <td>{toSeconds(parse(recept.data.prepTime)) / 60} minuten</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.cookTime && (
+      <tr>
+        <td>kooktijd</td>
+        <td>{toSeconds(parse(recept.data.cookTime)) / 60} minuten</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.totalTime && (
+      <tr>
+        <td>totaaltijd</td>
+        <td>{toSeconds(parse(recept.data.totalTime)) / 60} minuten</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.calories && (
+      <tr>
+        <td>totaaltijd</td>
+        <td>{recept.data.calories}</td>
+      </tr>
+    )
+  }
+  {
+    recept.data.suitableForDiet && (
+      <tr>
+        <td>vegetarisch?</td>
+        <td>
+          {(recept.data?.suitableForDiet?.includes("VeganDiet") ||
+            recept.data?.suitableForDiet?.includes("VegetarianDiet")) ? (
+            <span title="vegetarisch">ja 🌱</span>
+          ) : <span>nee</span>}
+        </td>
+      </tr>
+    )
+  }
 </table>
