@@ -1,4 +1,9 @@
-on: [workflow_call, workflow_dispatch]
+on: 
+  push:
+    paths:
+      - 'src/**'
+  workflow_call:
+  workflow_dispatch:
 name: Prettier en lint
 jobs:
   prettier:
