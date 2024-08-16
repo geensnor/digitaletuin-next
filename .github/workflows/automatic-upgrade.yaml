@@ -1,0 +1,39 @@
+name: Update Astro
+
+on:
+  schedule:
+    - cron: '12 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      NODE_OPTIONS: '--max_old_space_size=4096'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Upgrade Astro
+        run: npx @astrojs/upgrade --yes
+        
+      - name: Upgrade npm packages
+        run: npm update
+
+      - name: Install and build
+        uses: withastro/action@v2
+
+      - name: PR Changes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: upgrade-astro
+          commit-message: 'Astro update'
+          title: 'Astro upgrade'
+          body: Update Astro en packages naar de laatste versie.
+          labels: ci
