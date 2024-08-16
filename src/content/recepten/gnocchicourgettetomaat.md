@@ -1,5 +1,7 @@
 ---
 name: Gnocchi met courgette en tomaat
+suitableForDiet: 
+    - VegetarianDiet
 ---
 
 Vegetarisch en heel snel
