@@ -7,6 +7,7 @@ const recepten = await getCollection("recepten");
   <tr>
     <th>Recept</th>
     <th>Gang</th>
+    <th>Vegetarisch</th>
   </tr>
 
   {
@@ -16,6 +17,12 @@ const recepten = await getCollection("recepten");
           <a href={Astro.url + recept.slug}>{recept.data.name}</a>{" "}
         </td>{" "}
         <td>{recept.data.recipeCategory}</td>
+        <td>
+          {(recept.data?.suitableForDiet?.includes("VeganDiet") ||
+            recept.data?.suitableForDiet?.includes("VegetarianDiet")) && (
+              <span>🌱</span>
+            )}
+        </td>
       </tr>
     ))
   }
