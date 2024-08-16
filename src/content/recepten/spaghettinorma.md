@@ -3,7 +3,7 @@ name: Spaghetti alla Norma
 recipeCategory: hoofdgerecht
 recipeCuisine: italiaans
 suitableForDiet:
-    - VegetarianDiet
+  - VegetarianDiet
 ---
 
 Spaghetti van Norma. Het is een typisch gerecht van de Siciliaanse keuken, oorspronkelijk gemaakt in Catania, Sicilië, Italië.
