@@ -1,8 +1,8 @@
 ---
 name: Vega-enchilada's
 recipeCategory: hoofdgerecht
-suitableForDiet: 
-    - VegetarianDiet
+suitableForDiet:
+  - VegetarianDiet
 ---
 
 ## Ingredienten

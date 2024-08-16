@@ -3,8 +3,8 @@ name: Wraps met krokante kip
 totalTime: PT15M
 recipeYield: 2
 recipeCategory: hoofdgerecht
-suitableForDiet: 
-    - VegetarianDiet
+suitableForDiet:
+  - VegetarianDiet
 ---
 
 ## Ingredienten
