@@ -1,14 +1,22 @@
 ---
-import { getCollection  } from 'astro:content';
-const recepten = await getCollection('recepten');
+import { getCollection } from "astro:content";
+const recepten = await getCollection("recepten");
 ---
 
 <table>
-<tr>
-<th>Recept</th>
-<th>Gang</th>
-</tr>
+  <tr>
+    <th>Recept</th>
+    <th>Gang</th>
+  </tr>
 
-{recepten.map((recept) => <tr><td><a href={Astro.url + recept.slug}>{recept.data.name}</a> </td> <td>{recept.data.recipeCategory}</td></tr>)}
-
+  {
+    recepten.map((recept) => (
+      <tr>
+        <td>
+          <a href={Astro.url + recept.slug}>{recept.data.name}</a>{" "}
+        </td>{" "}
+        <td>{recept.data.recipeCategory}</td>
+      </tr>
+    ))
+  }
 </table>
