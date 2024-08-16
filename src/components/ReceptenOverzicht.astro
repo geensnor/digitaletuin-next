@@ -14,14 +14,14 @@ const recepten = await getCollection("recepten");
     recepten.map((recept) => (
       <tr>
         <td>
-          <a href={Astro.url + recept.slug}>{recept.data.name}</a>{" "}
+          <a href={Astro.url.pathname + recept.slug}>{recept.data.name}</a>{" "}
         </td>{" "}
         <td>{recept.data.recipeCategory}</td>
         <td>
           {(recept.data?.suitableForDiet?.includes("VeganDiet") ||
             recept.data?.suitableForDiet?.includes("VegetarianDiet")) && (
-              <span>🌱</span>
-            )}
+            <span title="vegetarisch">🌱</span>
+          )}
         </td>
       </tr>
     ))
