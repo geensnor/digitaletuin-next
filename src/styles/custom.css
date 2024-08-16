@@ -16,3 +16,7 @@ h1, h2, h3, h4, .site-title{
 	display: block;
 	margin-top: 30px;
 }
+
+.metadata-table{
+	margin-bottom: 50px;
+}
