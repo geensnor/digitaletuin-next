@@ -1,0 +1,65 @@
+---
+import { Kop } from "@geensnor/astro-componenten";
+import { Octokit } from "octokit";
+const GitHubPAT = import.meta.env.GitHubPAT;
+
+// Create a personal access token at https://github.com/settings/tokens/new?scopes=repo
+const octokit = new Octokit({ auth: GitHubPAT });
+
+// Compare: https://docs.github.com/en/rest/reference/users#get-the-authenticated-user
+const commits = await octokit.request(
+  "GET /repos/geensnor/DeDigitaleTuin/commits",
+  {
+    owner: "geensnor",
+    repo: "DeDigitaleTuin",
+    path: "/src/content",
+    headers: {
+      "X-GitHub-Api-Version": "2022-11-28",
+    },
+  }
+);
+
+const displayCommits = commits.data
+  .filter((commit: any) => commit.commit.message !== "Prettified Code!")
+  .map((commit: any) => {
+    let date = new Date(commit.commit.author.date);
+    let day = String(date.getDate()).padStart(2, "0");
+    let month = String(date.getMonth() + 1).padStart(2, "0");
+    let year = date.getFullYear();
+
+    return {
+      auteur: commit.commit.author.name,
+      datum: `${day}-${month}-${year}`,
+      bericht: commit.commit.message,
+      html_url: commit.html_url,
+    };
+  });
+
+displayCommits.slice(0, 5);
+---
+
+<Kop id="laatste-aanpassingen" Type="h2">Laatste aanpassingen</Kop>
+
+<table>
+  <tr>
+    <th>Aanpassing</th>
+    <th>Door</th>
+    <th>Datum</th>
+  </tr>
+
+  {
+    displayCommits
+      .map((commit: any) => (
+        <tr>
+          <td>
+            <a target="_blank" href={commit.html_url}>
+              {commit.bericht}
+            </a>
+          </td>
+          <td>{commit.auteur}</td>
+          <td>{commit.datum}</td>
+        </tr>
+      ))
+      .slice(0, 5)
+  }
+</table>
