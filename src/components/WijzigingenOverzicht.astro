@@ -24,7 +24,7 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
     }
   );
 
-  const displayCommits = commits.data
+  displayCommits = commits.data
     .filter((commit: any) => commit.commit.message !== "Prettified Code!")
     .map((commit: any) => {
       let date = new Date(commit.commit.author.date);
@@ -39,10 +39,12 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
         html_url: commit.html_url,
       };
     });
-}
+ 
+  } 
+
 ---
 
-{GitHubPAT &&
+{GitHubPAT && displayCommits &&
 <Kop id="laatste-aanpassingen" Type="h2">Laatste aanpassingen</Kop>
 
 <table>
