@@ -12,7 +12,7 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
 } else {
 
   const octokit = new Octokit({ auth: GitHubPAT });
-  const commits = await octokit.request(
+  let commits = await octokit.request(
     "GET /repos/geensnor/DeDigitaleTuin/commits",
     {
       owner: "geensnor",
@@ -23,6 +23,15 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
       },
     }
   );
+
+  //nieuwste commit eerst
+  commits.data.sort((a: any, b: any) => {
+    let dateA = new Date(a.commit.author.date);
+    let dateB = new Date(b.commit.author.date);
+
+    return dateB.getTime() - dateA.getTime();
+  });
+
 
   displayCommits = commits.data
     .filter((commit: any) => commit.commit.message !== "Prettified Code!")
