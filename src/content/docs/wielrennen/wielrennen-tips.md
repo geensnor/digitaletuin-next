@@ -48,8 +48,8 @@ Als je nieuwe spullen wilt ga je tegenwoordig meestal even online kijken. Er zij
 
 | Naam                                                                         | Ervaring                                                                                      |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Mantel.com](https://www.mantel.com)                                         | Mwah. Goed voor spullen, matig voor advies                                                    |
-| [Futurumshop](https://www.futurumshop.nl)                                    | Positief                                                                                      |
+| [Mantel.com](https://www.mantel.com)                                         | Positief, maar je kan pech hebben qua kennis                                                  |
+| [Futurumshop](https://www.futurumshop.nl)                                    | Positief. (gebruik "jarig" voor gratis Chamois Crème)                                         |
 | [Bakker Racing](https://www.bakkerracingproducts.nl/)                        | Positief                                                                                      |
 | [12gobiking](https://www.12gobiking.nl/)                                     | Positief                                                                                      |
 | [Rose.de](https://www.rosebikes.com/)                                        | Positief                                                                                      |
