@@ -1,0 +1,23 @@
+name: Check Markdown links
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 13 1 * *'
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.9.0
+
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Kapotte links rapport
+          content-filepath: ./lychee/out.md
+          labels: automated issue, broken links
+          assignees: Zuijdam, reithose
