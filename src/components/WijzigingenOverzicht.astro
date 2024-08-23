@@ -1,11 +1,12 @@
 ---
-import { Kop } from "@geensnor/astro-componenten";
 import { Octokit } from "octokit";
 const GitHubPAT: string = import.meta.env.GitHubPAT;
 let displayCommits: Array<{ auteur: string,
         datum: string,
         bericht: string,
         html_url: string}> | undefined;
+
+
 
 if (GitHubPAT === undefined || GitHubPAT === null) {
   console.log("Laatste wijzigingen kunnen niet getoond worden. GitHub Personal Autorisation Token niet gevonden in enviroment variables. Maak er hier een aan: https://github.com/settings/tokens/new?scopes=repo");
@@ -54,7 +55,7 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
 ---
 
 {GitHubPAT && displayCommits &&
-<Kop id="laatste-aanpassingen" Type="h2">Laatste aanpassingen</Kop>
+
 
 <table>
   <tr>
@@ -75,7 +76,7 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
           <td>{commit.datum}</td>
         </tr>
       ))
-      .slice(0, 5)
+      .slice(0, 20)
   }
 </table>
 }

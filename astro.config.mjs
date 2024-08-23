@@ -80,6 +80,7 @@ export default defineConfig({
           collapsed: true,
           autogenerate: { directory: "abonnementen" },
         },
+        { label: "Aanpassingen tuin", link: "laatste-aanpassingen" },
       ],
     }),
   ],
