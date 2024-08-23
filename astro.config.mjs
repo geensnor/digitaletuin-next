@@ -66,6 +66,11 @@ export default defineConfig({
           autogenerate: { directory: "eten-en-drinken" },
         },
         {
+          label: "Kunst",
+          collapsed: true,
+          autogenerate: { directory: "kunst" },
+        },
+        {
           label: "Overig",
           collapsed: true,
           autogenerate: { directory: "overig" },
