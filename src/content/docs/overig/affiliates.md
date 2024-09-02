@@ -7,7 +7,7 @@ permalink: /affiliates/
 
 Misschien niet het meest verheven stuk van deze tuin, maar niemand is vies van een klein voordeeltje hier en daar. Daarom hebben we hieronder een handig overzicht gemaakt met voordeeltjes. Zo snijdt het mes aan twee kanten en is iedereen blij. Er staan geen bedrijven tussen die we echt slecht vinden.
 
-Heb je zelf ook nog ergens een affiliate link van? Aarzel niet! Kom maar op met die [Pull Request](https://github.com/geensnor/DigitaleTuin/blob/master/docs/affiliates.md)!
+Heb je zelf ook nog ergens een affiliate link van? Aarzel niet! Kom maar op met die [Pull Request](https://github.com/geensnor/DeDigitaleTuin/blob/main/src/content/docs/overig/affiliates.md)!
 
 | Bedrijf    | Wat is het                            | Voordeel                                                                                                                           | Link                                                                                                           |
 | ---------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |

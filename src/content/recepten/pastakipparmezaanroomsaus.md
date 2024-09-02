@@ -7,8 +7,6 @@ recipeCuisine: Vlees
 author: Sharon de Miranda
 ---
 
-![afbeelding gerecht](https://binnenstebuiten.kro-ncrv.nl/files/styles/facebook_crop/public/poms/still/2021-10/1624473.jpg?h=dec22bcf&itok=YJkvhNVp)
-
 ## Ingredienten
 
 - 300 g biologische kippendijen
