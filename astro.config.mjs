@@ -35,7 +35,7 @@ export default defineConfig({
       logo: {
         src: "./src/assets/desnor.svg",
       },
-      favicon: "./src/assets/desnor.svg",
+      favicon: "./favicon.ico",
       tableOfContents: false,
       components: {
         PageTitle: "./src/components/KopTuin.astro",
