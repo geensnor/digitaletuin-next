@@ -16,6 +16,7 @@ export default defineConfig({
       plugins: [
         starlightLinksValidator({
           errorOnRelativeLinks: false,
+          exclude: ['/public/**']
         }),
       ],
       title: "De Digitale Tuin",
