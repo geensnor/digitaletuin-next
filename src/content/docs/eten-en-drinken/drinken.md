@@ -50,14 +50,14 @@ Koffiezetten doe je natuurlijk met een Moccamaster. Dat is evident. Een aeropres
 
 ## Whisky
 
-| Naam                          | Toelichting                                                  |
-| ----------------------------- | ------------------------------------------------------------ |
-| Säntis Malt - Himmelberg      | Whisky uit Zwitserland. Weer eens wat anders. Gerijpt op portvaten en dat proef je! |
+| Naam                          | Toelichting                                                                                                                                                                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Säntis Malt - Himmelberg      | Whisky uit Zwitserland. Weer eens wat anders. Gerijpt op portvaten en dat proef je!                                                                                                                                         |
 | Kavalan - Classic Single Malt | Taiwan staat meer bekend om z'n chips dan om z'n whisky's, maar dat betekent niet dat het rommel is. Deze destileerder heeft in 2015 zelfs 's werelds beste Single Malt Whisky gemaakt. Dat is trouwens niet deze whisky... |
-| Knockando 12 jaar             | Lichte rooksmaak. Toegankelijk, allemansvriend, doordrinker  |
-| Caol Ila 12                   | Van Islay, maar dan wel iets subtieler. Je proeft duidelijk die jodium turf, maar op een vriendelijke manier |
-| Talisker 10                   | Gemaakt door zee...aldus de mensen daar. Zal best, maar ik vind het super lekkere vriendelijke whisky. |
-| Kilchoman Machir Bay          | Potjandikkeme wat een lekker whiskey. Ondanks dat het natuurlijk enorm sterk is proef je toch echt wel subtiliteit. Een aanrader. Heeeeel klein beetje zoet. |
+| Knockando 12 jaar             | Lichte rooksmaak. Toegankelijk, allemansvriend, doordrinker                                                                                                                                                                 |
+| Caol Ila 12                   | Van Islay, maar dan wel iets subtieler. Je proeft duidelijk die jodium turf, maar op een vriendelijke manier                                                                                                                |
+| Talisker 10                   | Gemaakt door zee...aldus de mensen daar. Zal best, maar ik vind het super lekkere vriendelijke whisky.                                                                                                                      |
+| Kilchoman Machir Bay          | Potjandikkeme wat een lekker whiskey. Ondanks dat het natuurlijk enorm sterk is proef je toch echt wel subtiliteit. Een aanrader. Heeeeel klein beetje zoet.                                                                |
 
 ## Overig
 
