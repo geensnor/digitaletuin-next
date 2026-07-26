@@ -9,6 +9,7 @@ Sinds 2022 poulen we met onze eigen poule: [https://www.geensnor.nl/tourpoule/](
 
 | jaar | ronde           | winnaar                    |
 | ---- | --------------- | -------------------------- |
+| 2026 | Tour de France  | Pim                        |
 | 2026 | Giro d’Italia   | Rik                        |
 | 2025 | Tour de France  | Pim                        |
 | 2025 | Giro d’Italia   | Pim                        |
