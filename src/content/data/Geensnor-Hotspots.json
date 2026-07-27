@@ -1,0 +1,3212 @@
+{
+  "$schema": "https://geojson.org/schema/GeoJSON.json",
+  "name": "Geensnor Hotspots",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.565301, 51.957834, 0] },
+      "properties": {
+        "name": "Martino IJs",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7Clmfi6oMn0EGvfDS5LvTtswef0rHjKSMHPc9iBnxsV64mMjCwWR36Sl16sB8CDfmRC9_dRoZGSG6_94btN2suMsrCdOGe_qi__OgzpYg34MDdujfjyDs2LCAgRb_Nuj_EHUR5Gq3VlvgzMp08MY4IxcvDHBq8xNF2lYN9zLNeDnin0LzE5y7PWKhu3OQ1ZfbcnDHHEEedGy0a22Q29MLDl-t8FaikgQek8uIGCGfav7Z4W9qxIZEsmmUYnZehlUNxEVaXTQ49MeShUKQJhw_k30M\" height=\"200\" width=\"auto\" /><br><br>Winnaar van de Gouden IJsspatel 2013 en 2014! Blijktbaar dus het beste ijs wat je kan krijgen (in Nederland). Het smaakte inderdaad prima. Bovendien niet heel erg duur. Voor 1 bolletje betaal je 1 euro.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7Clmfi6oMn0EGvfDS5LvTtswef0rHjKSMHPc9iBnxsV64mMjCwWR36Sl16sB8CDfmRC9_dRoZGSG6_94btN2suMsrCdOGe_qi__OgzpYg34MDdujfjyDs2LCAgRb_Nuj_EHUR5Gq3VlvgzMp08MY4IxcvDHBq8xNF2lYN9zLNeDnin0LzE5y7PWKhu3OQ1ZfbcnDHHEEedGy0a22Q29MLDl-t8FaikgQek8uIGCGfav7Z4W9qxIZEsmmUYnZehlUNxEVaXTQ49MeShUKQJhw_k30M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.042488, 47.800461, 0] },
+      "properties": {
+        "name": "Robert Standl Gastwirtschaft Zum Wilden Mann e.U.",
+        "description": "Heel erg \"Oostenrijks restaurant\". Klederdracht en de hele handel. Goed en goedkoop eten en bier!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.506334, 46.047562, 0] },
+      "properties": {
+        "name": "Lunch Cafe Marley & Me",
+        "description": "Slissende hipster serveert lekkere pasta. Het heet een \"Lunch Cafe\", maar je kan er prima avondeten. Porties zijn niet gigantisch dus neem een voorgerecht."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.381592, 48.211798, 0] },
+      "properties": {
+        "name": "Badeschiff",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5nOLc3OFV8bC0O10ljf7DOIySyejI20G5ax0ku2UJlM6-pBYThLlBTRJB7X_363wRMKV42k-0deuaK2ws1w5Vib06ZBjPkWxeqVi_shRZnZ3Q3W9dF8l4Dq6nUNk0I08M2hHlsu0sXSbbEwu0W8YkLuHp26AQL-ZD5pzSb77Vi4jOlX-GVUN6NMg91IXKcsgxu420cBi3WGjMhWYmEBEVBhT-7lk8wMJMTE58pSHfPvBpBlVA7lwnOE2QoIOfe4WFXsOQUStwxnTCp\" height=\"200\" width=\"auto\" /><br><br>Boot in de Donau waarin een zwembad, restaurant en dansschool zitten. Alles in de bekende \"afgeragd chique\" stijl. Aangezien Wenen niet zo hip is, is dit wel een aardige uitzondering. Kaart is erg gevarieerd en het eten (in elk geval de Risotto) is erg lekker.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5nOLc3OFV8bC0O10ljf7DOIySyejI20G5ax0ku2UJlM6-pBYThLlBTRJB7X_363wRMKV42k-0deuaK2ws1w5Vib06ZBjPkWxeqVi_shRZnZ3Q3W9dF8l4Dq6nUNk0I08M2hHlsu0sXSbbEwu0W8YkLuHp26AQL-ZD5pzSb77Vi4jOlX-GVUN6NMg91IXKcsgxu420cBi3WGjMhWYmEBEVBhT-7lk8wMJMTE58pSHfPvBpBlVA7lwnOE2QoIOfe4WFXsOQUStwxnTCp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.415628, 50.068312, 0] },
+      "properties": {
+        "name": "Cafeterapie",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v65lytNztPsumsMmTjZLOn3nNYWVpv_gn_Vlz42uFF8AhTfPmvA4jipBr7zr_DZg5U9EPUmifWJXPuIWdtMoA89oIPu79mnl71xmUbk_lN_pvKI228N6WvJe36eizDFOo7wZBVTQ7iqgYP1QsIypna5BFajRpZEnvPp5Ht366DFMKMPmhQKRMlAZs3LZPAHcpNDFMf15sn_Nj4cwsHCN-OSG3fbnYnr71AmK6pOnMjVCdD5TZqZh99WMg92Xv1_xTlymxHTeA\" height=\"200\" width=\"auto\" /><br><br>Tsjechen hebben volgens mij niet echt een ontbijtcultuur en in Praag is nergens een broodje te krijgen. Dit cafe is daar een uitzondering op. Je kan hier prima ontbijten en de espresso is heerlijk. Ligt een beetje buiten het door toeristen platgelopen centrum. Kost (zoals alles in Praag) helemaal niets.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v65lytNztPsumsMmTjZLOn3nNYWVpv_gn_Vlz42uFF8AhTfPmvA4jipBr7zr_DZg5U9EPUmifWJXPuIWdtMoA89oIPu79mnl71xmUbk_lN_pvKI228N6WvJe36eizDFOo7wZBVTQ7iqgYP1QsIypna5BFajRpZEnvPp5Ht366DFMKMPmhQKRMlAZs3LZPAHcpNDFMf15sn_Nj4cwsHCN-OSG3fbnYnr71AmK6pOnMjVCdD5TZqZh99WMg92Xv1_xTlymxHTeA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.420024, 50.064415, 0] },
+      "properties": {
+        "name": "Vyšehrad",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7hE_yrF6bZatLmtINVMEW6Uv45qeiXBLdjoRNMml-2j6RUfn9crMLHcONlg-cc7OMi-_sHbcyjukrUKhFBtqeKo6I4jewpbxMzq6MZGGyBx-RyLCdxAwRWEtqxFvNsyucXv64WCyasnzPxkDFs1zGZswjE8WLPqqPRnylk8TB2x4a5ccRb609AQ5WdZlBLZDW0nFV-b6cAIyL-CZSogWdVE8_Bhqew4rW8m6-g_vr9a1wWoDjYq5_JUBbKJVUT1cMHNQ\" height=\"200\" width=\"auto\" /><br><br>De \"Praagse burcht\" ligt noordelijker en is enorm toeristisch en vol. Deze burcht is kleiner, mooier en veel minder druk. Over de muren kun je prima wandelen en je hebt vrijwel constant een mooi uitzicht over Praag. Als je honger of dorst krijg, zijn er bovendien een paar worst/bier tentjes binnen de burcht.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7hE_yrF6bZatLmtINVMEW6Uv45qeiXBLdjoRNMml-2j6RUfn9crMLHcONlg-cc7OMi-_sHbcyjukrUKhFBtqeKo6I4jewpbxMzq6MZGGyBx-RyLCdxAwRWEtqxFvNsyucXv64WCyasnzPxkDFs1zGZswjE8WLPqqPRnylk8TB2x4a5ccRb609AQ5WdZlBLZDW0nFV-b6cAIyL-CZSogWdVE8_Bhqew4rW8m6-g_vr9a1wWoDjYq5_JUBbKJVUT1cMHNQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.798226, 47.32378, 0] },
+      "properties": {
+        "name": "Ristorante Pizzeria Giuseppe",
+        "description": "Veel te vette pizza's in vaag, donker restaurant. Niet doen. Even iets anders zoeken."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.410484, 50.088471, 0] },
+      "properties": {
+        "name": "Containall",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7yvupTeDZpyr6R002-F62NE1tyuhwwMHEectR5TZhqotp8T36EebnkbKKcbEPX7vzQQZ-X8GoZ2PORiOdp6jlht2c4piNE8PFlmRrQ-TBP0qAhsV21ajgBDwpWTLaRgNQcq_IWtgca0fOMrVA0Xtu269DY581S1Qwa9943-sDmSCJNeqrbsT6fJQ0s3Xf1aYhpFHvaBdqd6LiqRCEG_DmdiIc2KUsuTKcLpW-ms6y9JCl4loitpH7x4G3J036VgMDVytwe1ik4h1yz\" height=\"200\" width=\"auto\" /><br><br>Verstopte biergarten waar Segwaygidsen na hun werk komen blowen. Mooi aan het water en alles wat je van een prima biergarten verwacht. Is tevens gallerie/kunstdingetje.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7yvupTeDZpyr6R002-F62NE1tyuhwwMHEectR5TZhqotp8T36EebnkbKKcbEPX7vzQQZ-X8GoZ2PORiOdp6jlht2c4piNE8PFlmRrQ-TBP0qAhsV21ajgBDwpWTLaRgNQcq_IWtgca0fOMrVA0Xtu269DY581S1Qwa9943-sDmSCJNeqrbsT6fJQ0s3Xf1aYhpFHvaBdqd6LiqRCEG_DmdiIc2KUsuTKcLpW-ms6y9JCl4loitpH7x4G3J036VgMDVytwe1ik4h1yz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.405859, 50.08053, 0] },
+      "properties": {
+        "name": "Ichnusa Botega Bistro",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v40zrv_kRA9tPmKbpZpfKyzLCFX7hVYW0K9-s4uqRS6GthevexA2po9TfP-kMJ1ofzikgiMLxrEqZy3wftqvm0PEZtip2flr2Q7oLJXo79ZqvPOA_04PmywXjIdTZO4naTJZ_Qnx_mKON4UnzO5_ocX77jxY2cykMfrbohPJk0TVlUT_FzSdKeX_eGLdQVIzg2Jm48hCHRckGcPI-L-_bMFZJ1sW-EO2HMra0sYzNEVGg997NAV1VzuuxOrllwf9o__Y4w-3-haWhVLaFBY9zfINbihhQI\" height=\"200\" width=\"auto\" /><br><br>Sardijns restaurant. Klein restaurantje wat niet helemaal vol zit met toeristen. Naast de specialiteiten op het krijtbord, dreunt de strenge serveerster ook nog wat gerechten in steenkolenengels op als je wilt. Beste restaurant in Praag (voor zover ik weet...)",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v40zrv_kRA9tPmKbpZpfKyzLCFX7hVYW0K9-s4uqRS6GthevexA2po9TfP-kMJ1ofzikgiMLxrEqZy3wftqvm0PEZtip2flr2Q7oLJXo79ZqvPOA_04PmywXjIdTZO4naTJZ_Qnx_mKON4UnzO5_ocX77jxY2cykMfrbohPJk0TVlUT_FzSdKeX_eGLdQVIzg2Jm48hCHRckGcPI-L-_bMFZJ1sW-EO2HMra0sYzNEVGg997NAV1VzuuxOrllwf9o__Y4w-3-haWhVLaFBY9zfINbihhQI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.325819, 42.690033, 0] },
+      "properties": {
+        "name": "Hambara",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5s5g7d6Fq4t1-ppg67yZ8uVcS7Nm5l7gWXJSaKEOMspfXt3m5mfdnh-Cazp-XtmXmSMzXoO-aSrLpIkO1pGML6cx_r90UljsOuyN09jJtSyjXjFkakt9NVkJXnaqCN9yMeU8r6ak19c0vq8wcAOkE3pfGDt4x5wSE_DVanK0mjVIFVpIJhmVWj_0Swtgb2qDIXTCPqQxMqO1eoeUejZhRUo1z8KZ8EdoC8sMFVAKFewZTHWLwnRY5PQA__TmH1I0Xl-VVv9asl6tZ46yO1gZEUalPK7ulfHd3mBLHI9TsdW0cT8YFG\" height=\"200\" width=\"auto\" /><br><br>Schuur in kaarslicht. In een achteraf straatje in Sofia vindt men deze kaars verlichte schuur. Zoek naar een steegje, zonder verlichting en aan het einde een houten schuurtje. Dit is de ingang naar een grotere houten schuur waar een kroegje in zit. Het steegje zit trouwens links van het groene gebouw. Donker maar sfeervol en wel tamelijk uniek.  Heel veel kaarsen en heel veel mensen in een houten schuur, is natuurlijk wel vragen om problemen maar de bulgaren zijn niet bang aangelegd. Vraag naar victor, die geeft je gratis bier en whisky.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5s5g7d6Fq4t1-ppg67yZ8uVcS7Nm5l7gWXJSaKEOMspfXt3m5mfdnh-Cazp-XtmXmSMzXoO-aSrLpIkO1pGML6cx_r90UljsOuyN09jJtSyjXjFkakt9NVkJXnaqCN9yMeU8r6ak19c0vq8wcAOkE3pfGDt4x5wSE_DVanK0mjVIFVpIJhmVWj_0Swtgb2qDIXTCPqQxMqO1eoeUejZhRUo1z8KZ8EdoC8sMFVAKFewZTHWLwnRY5PQA__TmH1I0Xl-VVv9asl6tZ46yO1gZEUalPK7ulfHd3mBLHI9TsdW0cT8YFG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.981073, 48.234382, 0] },
+      "properties": {
+        "name": "Camping les mirabelles",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v72k40ncRGeYRn7GXE-GxuZbV4PGcBLVSx_N1ino_svLbNmNtGf-njVcz_DN5Fb0qeLwLzq2NcmQno7RsHPeMfs-2OBFyTxLpAPAvqSNgOQMdPrPNdmw0zhRYLjLbBzgikxkU_fyfH2epDa2aybhm_qyZl835EM8QU-siUFCbyMIT6pqG3sOkgHpHo32beFT-bvvXrgDQ1W6lGaFec5cO4ZWNwM5r4WX_C0yRFnvG0M40ai15t0-g\" height=\"200\" width=\"auto\" /><br><br>Rust tot en met. Mooie kleine camping met mooie plekjes aan de rand van het dorp. Weinig vermaak maar wel veel rust. En dat is ook iets waard. De eigenaar stookt mirabelles drank",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v72k40ncRGeYRn7GXE-GxuZbV4PGcBLVSx_N1ino_svLbNmNtGf-njVcz_DN5Fb0qeLwLzq2NcmQno7RsHPeMfs-2OBFyTxLpAPAvqSNgOQMdPrPNdmw0zhRYLjLbBzgikxkU_fyfH2epDa2aybhm_qyZl835EM8QU-siUFCbyMIT6pqG3sOkgHpHo32beFT-bvvXrgDQ1W6lGaFec5cO4ZWNwM5r4WX_C0yRFnvG0M40ai15t0-g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.940276, 48.203759, 0] },
+      "properties": {
+        "name": "L'Avenue restaurant/hotel",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4VZZSzyctLEkcOUBGdtdxiNFlmj0VqelsmFWHOTK1ZDErgUuf0TIddJUTFovxpE8HuLPI5rJpjHf8FUDECqNHM1Bq6qNmNz_cRNiaeQaaRUpGFLCFXSKKpnC3IguZqVYNgqhKCWF3V0lgllcejJEZ_Tq2-GAF5-0KaHVux3LdiXtgh4HEd59O0ZXgy5VR-asYLcIy5UOz5HofCWlgSxwu8Ij1gEdkJTp0uhHs-j4m096S0CVMovgo7hLXPj-efu2E30L7vP-WWwDk0ixD5LGho2xCQ9kcLIJ2XznWMX7WY4gDNJKrFuGOP7-bhuTey\" height=\"200\" width=\"auto\" /><br><br>Al krijg je er een miljoen voor, hier nooit gaan eten. Ongeloof ranzig eten maar dat is niet het ergste. Het eten was gewoon (zichtbaar) bedorven. Dus tenzij je als ons er ziek van wilt worden of alles terug wilt sturen naar de keuken, hier gewoon nooit gaan eten.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4VZZSzyctLEkcOUBGdtdxiNFlmj0VqelsmFWHOTK1ZDErgUuf0TIddJUTFovxpE8HuLPI5rJpjHf8FUDECqNHM1Bq6qNmNz_cRNiaeQaaRUpGFLCFXSKKpnC3IguZqVYNgqhKCWF3V0lgllcejJEZ_Tq2-GAF5-0KaHVux3LdiXtgh4HEd59O0ZXgy5VR-asYLcIy5UOz5HofCWlgSxwu8Ij1gEdkJTp0uhHs-j4m096S0CVMovgo7hLXPj-efu2E30L7vP-WWwDk0ixD5LGho2xCQ9kcLIJ2XznWMX7WY4gDNJKrFuGOP7-bhuTey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.595433, 49.24906, 0] },
+      "properties": {
+        "name": "Camping Au Manoir de l'Abbaye",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5DcBTbS7Zg_oR1FpTDLYWXEFHyy3L5jc7fBpFRi5ksLVw9xbmpmUlKtA05-GQ4ZHTdbIZD_zqxrY63szIsb0Rqj3GHiU8YmjOnUlqgnnOAJ2ZV9SlzUSe8TYzuz6VzzMwbVufIxOnTcTDZaFMFvoY8hA4rn5VPqfC2-GlET2-94PoEV-ricx9LLPBdaZa0shXtt7G6rQ6rS0snxwGkSX2SpRrS8xw\" height=\"200\" width=\"auto\" /><br><br>Prima camping. Mooie plekjes, niet te groot bij een oud landhuis. Apart sanitair. De douchegordijnen zijn nog van voor de revolutie. Een pain is trouwens een baquet...of andersom, en de croissant zijn niet zo best. Maar goed, ze worden wel elke ochtend voor je klaar gelegd. Je mag je tent neer zetten waar je wilt.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5DcBTbS7Zg_oR1FpTDLYWXEFHyy3L5jc7fBpFRi5ksLVw9xbmpmUlKtA05-GQ4ZHTdbIZD_zqxrY63szIsb0Rqj3GHiU8YmjOnUlqgnnOAJ2ZV9SlzUSe8TYzuz6VzzMwbVufIxOnTcTDZaFMFvoY8hA4rn5VPqfC2-GlET2-94PoEV-ricx9LLPBdaZa0shXtt7G6rQ6rS0snxwGkSX2SpRrS8xw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.046626, 49.387909, 0] },
+      "properties": {
+        "name": "La Marée",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6qYg-gYXNwgUzhfUrbwetvBmqbKFVIy4_TFSay6wIQ9Ysx3mXo4gZky730r6e6Z92fsiQSZHvDUvy74AmxQqbj186Q2_ZMSbZFhQ0t4tVnKQqAgQC8VQtelNQUX7EUJxy_OqjVoquqLfG_iJWQTLWgFuX8FY8-EmJaEX07uiuwRbSp8tGZvZ35N5_j6HPPIf8kI_y-gobmJaXgxssSXdbBK-LxS-M_7U4x9Pc5lKbYg6O--5EXFq33IjpNHCFsTZOya-SgwGC-m2XbKUOaj8c9WbAKr6Lu6ie_yN2vxqaSZNsDLYmHyrHXDuJhX5VLjNtwu07Fo-Ti-PnDGTY\" height=\"200\" width=\"auto\" /><br><br>Als je in de regio bent...eet hier. Heerlijke (vis) gegeten met uitzicht op de haven. De kok weet wat hij doet en de gerechten zijn met zorg en aandacht gemaakt. Eindelijke weer eens een goed frans restaurant",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6qYg-gYXNwgUzhfUrbwetvBmqbKFVIy4_TFSay6wIQ9Ysx3mXo4gZky730r6e6Z92fsiQSZHvDUvy74AmxQqbj186Q2_ZMSbZFhQ0t4tVnKQqAgQC8VQtelNQUX7EUJxy_OqjVoquqLfG_iJWQTLWgFuX8FY8-EmJaEX07uiuwRbSp8tGZvZ35N5_j6HPPIf8kI_y-gobmJaXgxssSXdbBK-LxS-M_7U4x9Pc5lKbYg6O--5EXFq33IjpNHCFsTZOya-SgwGC-m2XbKUOaj8c9WbAKr6Lu6ie_yN2vxqaSZNsDLYmHyrHXDuJhX5VLjNtwu07Fo-Ti-PnDGTY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.317911, 42.687567, 0] },
+      "properties": {
+        "name": "Hotel & Restaurant The House",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4zShR9LRCz6w47ZCqEbEWNzB9_7qiD1u_0kyWpxY12JhYTtgTQGJxFeVm1a4b2U0d10S-cLaKfMixs0lbsClsdSd7ZUmwZr0P2QhbCrm_HtWYLCalQM4k3P155Isb9FLOrrl5BKDWAM27oFgBJ9kqwcWmbHD-q7u-j2g1QHh0ynqbyhfY-lXNsxKxlG0iry_LNWBU0TaGsXy4O51hPSe5UBzLh3sp2ALXwEvZ-IjQ5LuSR2IvWMPSTHXJGHFqlEVEEdw\" height=\"200\" width=\"auto\" /><br><br>17 euro per persoon per nacht. Alles is goedkoop in Sofia en dit dus ook. Prima hotel, mooie ruimer kamer, fijne bedden. Wel merkbaar oud. De badkamer was bruin met bruin en bruin en qua schoonmaken waren die haren op de grond niet helemaal top.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4zShR9LRCz6w47ZCqEbEWNzB9_7qiD1u_0kyWpxY12JhYTtgTQGJxFeVm1a4b2U0d10S-cLaKfMixs0lbsClsdSd7ZUmwZr0P2QhbCrm_HtWYLCalQM4k3P155Isb9FLOrrl5BKDWAM27oFgBJ9kqwcWmbHD-q7u-j2g1QHh0ynqbyhfY-lXNsxKxlG0iry_LNWBU0TaGsXy4O51hPSe5UBzLh3sp2ALXwEvZ-IjQ5LuSR2IvWMPSTHXJGHFqlEVEEdw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.751811, 51.062627, 0] },
+      "properties": {
+        "name": "Zum Bautzner Tor",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7LQmhgcq7YNXyWO9XksJJsI08QQ3d0YKSYV1AVc5ZizisVG4xH0K8s7V-r8x3FnGAUNFLsgIE5tazG4fl_GjlQ1EO8hl1RIeAIjyqq5Vg64dI3TneIGsTp9UhaG1Ydh72WI_uEeutWOtp5iVGd27nbNnkIyhWXOojZSWkGL8IgKl3If2yE_x_SWy07vYrXIIUL2PbQEn6jrGOf9ePrVzZ4FjNuqdgN-tRn9vRix40G\" height=\"200\" width=\"auto\" /><br><br>Traditioneel, klassiek maar wel met wat jong volk. Duitse biertjes drinken zonder fratsen. Leuk interieur en weinig fratsen",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7LQmhgcq7YNXyWO9XksJJsI08QQ3d0YKSYV1AVc5ZizisVG4xH0K8s7V-r8x3FnGAUNFLsgIE5tazG4fl_GjlQ1EO8hl1RIeAIjyqq5Vg64dI3TneIGsTp9UhaG1Ydh72WI_uEeutWOtp5iVGd27nbNnkIyhWXOojZSWkGL8IgKl3If2yE_x_SWy07vYrXIIUL2PbQEn6jrGOf9ePrVzZ4FjNuqdgN-tRn9vRix40G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.752604, 51.067971, 0] },
+      "properties": {
+        "name": "Wohnzimmer",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7VTq-jAsxtJnsUja4Gfh5VwVdMZGEg46GV2gB38FqYIlTZtCxNC7UZfZUAEOdR9HX7hffVDF-apmV8iFRXnG1FynbFwkpIyHsWhwaFW2Tzr9atOfu0G6PQRw9z2skSNPY1HBFYlmg999QOHypQtaHqMneNd4KiIGQ3gBirXRRrVrQabvB8DZRIwh0S0zqtNN2581PpxCl24WAhAckOVfW9lhZjX8ZC4Df4suZPGtESKtlzXBHEARt2ow2FOknA37So9h4pnlLJyQ00_2nv5zCo9drdKN8XQgs3i89KvtREmtSs\" height=\"200\" width=\"auto\" /><br><br>Kringloop meubeltjes en biertjes drinken. Leuk!<br><br><img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4WbcB9GVLERLJlmJgSk5rnDBPfLd65Gep7FSX1ZqS1mHoXa7XU4wYCXnXs8pYDWDmq_YqeuYbw_hpb_oWyoM9PRuLTO3evnkI0LwJSmvDRJuHeU1n56E-zMc8f_7vd6eChTzo_xJP_3nIsN-ZizVMpOsxyn-9SFVSJVwXiZaAXCJYRdrb6HVh4X3fci8nk0dagyeq_uX_F-kZZOVgBILabiRR3zVMd39QUBzMmi08lg1oqwIem0L-VFv_2yTH5vd8vXiPVvjHiJrA\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7VTq-jAsxtJnsUja4Gfh5VwVdMZGEg46GV2gB38FqYIlTZtCxNC7UZfZUAEOdR9HX7hffVDF-apmV8iFRXnG1FynbFwkpIyHsWhwaFW2Tzr9atOfu0G6PQRw9z2skSNPY1HBFYlmg999QOHypQtaHqMneNd4KiIGQ3gBirXRRrVrQabvB8DZRIwh0S0zqtNN2581PpxCl24WAhAckOVfW9lhZjX8ZC4Df4suZPGtESKtlzXBHEARt2ow2FOknA37So9h4pnlLJyQ00_2nv5zCo9drdKN8XQgs3i89KvtREmtSs https://lh3.googleusercontent.com/umsh/AN6v0v4WbcB9GVLERLJlmJgSk5rnDBPfLd65Gep7FSX1ZqS1mHoXa7XU4wYCXnXs8pYDWDmq_YqeuYbw_hpb_oWyoM9PRuLTO3evnkI0LwJSmvDRJuHeU1n56E-zMc8f_7vd6eChTzo_xJP_3nIsN-ZizVMpOsxyn-9SFVSJVwXiZaAXCJYRdrb6HVh4X3fci8nk0dagyeq_uX_F-kZZOVgBILabiRR3zVMd39QUBzMmi08lg1oqwIem0L-VFv_2yTH5vd8vXiPVvjHiJrA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.751699, 51.066761, 0] },
+      "properties": {
+        "name": "Katy's Garage",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5nM6Fy9bWwgT1ZdTNYLUaxTJd7-496WLmaTcxXWdGJcvcxCBCt55CIsyyhrbzNbo0-_AHIjVu1APDWihFryE7wTI5aAqo356fCBG83h6qUPHSalD_4NSh3ERXZjG4Ng3F4Bd8NtR5vsP2Yz76e0VJr8AcGcv_SCjr_7W7mBRvrLcMbPBqpAG-2PpCkSmRXKDjLUtVJzbdUt4ADaE4P_Ncc6_wThCt5Hq-iUi0INlo83UWFjuzl\" height=\"200\" width=\"auto\" /><br><br>Oeh lala, wat een top brunch krijg je hier. Niet goedkoop maar wel de hele dag onbeperkt heel erg veel lekkere dingetjes eten. Met name het enorme aanbod van verse koude en warme hapjes valt op.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4sCuHwbWt_pMMVDoMlPaVhQ5hoZyAQdTVezGJGkuujqvCON7sTPHlOjputQRtyV5mx9NakzFUqmyRkk_IysrnNq4Rk0ww3wbTf_xddegeQJl3wTBVoD8eYF6-kzdRvxpL3WUnU0D0ro3D30BIkX93mhjC3qCvnorKuIYge0lAB6R1MH2HihVUBpaUOkZ66Id_hKup20XTly9Iujzv-G4W5N6OJc3KYEUq01ieb_MnsTL8WPJ047dHieU6v-6CkDyZuA05Xl2y2BlPGJd0\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5nM6Fy9bWwgT1ZdTNYLUaxTJd7-496WLmaTcxXWdGJcvcxCBCt55CIsyyhrbzNbo0-_AHIjVu1APDWihFryE7wTI5aAqo356fCBG83h6qUPHSalD_4NSh3ERXZjG4Ng3F4Bd8NtR5vsP2Yz76e0VJr8AcGcv_SCjr_7W7mBRvrLcMbPBqpAG-2PpCkSmRXKDjLUtVJzbdUt4ADaE4P_Ncc6_wThCt5Hq-iUi0INlo83UWFjuzl https://lh3.googleusercontent.com/umsh/AN6v0v4sCuHwbWt_pMMVDoMlPaVhQ5hoZyAQdTVezGJGkuujqvCON7sTPHlOjputQRtyV5mx9NakzFUqmyRkk_IysrnNq4Rk0ww3wbTf_xddegeQJl3wTBVoD8eYF6-kzdRvxpL3WUnU0D0ro3D30BIkX93mhjC3qCvnorKuIYge0lAB6R1MH2HihVUBpaUOkZ66Id_hKup20XTly9Iujzv-G4W5N6OJc3KYEUq01ieb_MnsTL8WPJ047dHieU6v-6CkDyZuA05Xl2y2BlPGJd0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.324374, 42.689701, 0] },
+      "properties": {
+        "name": "Apartamenta",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6I38UdjDAtNlWmsnKozIteE0Emth-yuuGRecRWm7d5cpoJN2bb8qVORCHLZf58uB0c0ISf8XaT9P4Bzbs1xZuYepGO195e9UtE__q8BaL0DREt0cckXyr5zXD5kKGScG5rbuN49zfCsNHUVuYLm2xxEzNHJE8-6GJCkUVb1q1dT_rAnfPnOJDFiMKXYfaWSUbPK5bH3z3R4S76IgNix-arLYrE2mGV1OfGYzrVz8wRmnib6sfqYiYQ7aF6UB-eXicfYO3C3EhxGeoXrXOiMrh_5rVMQqgsBoXD7Hw_tQ\" height=\"200\" width=\"auto\" /><br><br>Apartamenta, The Apartment, A:part:mental of gewoon Апартамента. Niemand weet precies hoe het heet, maar het is alleraardigst. De kroeg/club bestaat uit verschillende kamers waardoor een soort huisfeestvibe ontstaat. Bier moet zelf gehaald worden in de keuken. Ondanks de losse uitstraling is het personeel opmerkelijk precies. Elk kussentje wordt zorgvuldig recht gelegd. Vervolgens is er regelmatig controle of het kussentje nog wel echt recht ligt.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6CrTMbh2_Q4Ev4Z6tc5LLuM6F9e5qzgbbcuu8fohAVtaZWEUwMSsbu4PQFH8yub85wNWrGV7dPnCFmFA3n0-_CaK6VQSkxmzczo56QhuVgF81uZ3J6CY5RnZTgj4K8c06K8wjKbUd_NZ2RM_zcpSTZVMHjtDDKJ0lF1X-eC6NuC4skZ0EbnUJri6fFlAmqdTCqYOEIfzonqnFBH1i7yNX0TfYyZHkLRVgzLetqK8w-W9ALe2UToIhE74b2VlNZ4spovpLFIvesTD5gD9c-_zxopITqbs8hOT8RmWD6gNh7rqxNjT54Ew\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6I38UdjDAtNlWmsnKozIteE0Emth-yuuGRecRWm7d5cpoJN2bb8qVORCHLZf58uB0c0ISf8XaT9P4Bzbs1xZuYepGO195e9UtE__q8BaL0DREt0cckXyr5zXD5kKGScG5rbuN49zfCsNHUVuYLm2xxEzNHJE8-6GJCkUVb1q1dT_rAnfPnOJDFiMKXYfaWSUbPK5bH3z3R4S76IgNix-arLYrE2mGV1OfGYzrVz8wRmnib6sfqYiYQ7aF6UB-eXicfYO3C3EhxGeoXrXOiMrh_5rVMQqgsBoXD7Hw_tQ https://lh3.googleusercontent.com/umsh/AN6v0v6CrTMbh2_Q4Ev4Z6tc5LLuM6F9e5qzgbbcuu8fohAVtaZWEUwMSsbu4PQFH8yub85wNWrGV7dPnCFmFA3n0-_CaK6VQSkxmzczo56QhuVgF81uZ3J6CY5RnZTgj4K8c06K8wjKbUd_NZ2RM_zcpSTZVMHjtDDKJ0lF1X-eC6NuC4skZ0EbnUJri6fFlAmqdTCqYOEIfzonqnFBH1i7yNX0TfYyZHkLRVgzLetqK8w-W9ALe2UToIhE74b2VlNZ4spovpLFIvesTD5gD9c-_zxopITqbs8hOT8RmWD6gNh7rqxNjT54Ew"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.357348, 42.666315, 0] },
+      "properties": {
+        "name": "Museum of socialism",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5t79Q7rbPiN-mTvzKM58mxY5FcQphRIUWeug-6yKgnUcmVZzh4OmqfhKDcry3kUef0QPYkcuMMXQRh_nlByxZPAC8KFqE8dCJVDuyIuuWwZG39oVmYDoDA0gR8mea6XzuxL3XA1n6ooil_oyrgAW6Q--3ArzUVdvbpUf0qc7Gmu7bZkO0sk0Vfuq7vNMeXHSznLZtvqjHIBnZNd8BVrrImE8SBAAUuYDsEPqS_H6Qxves8Cby_kittGwdvZEZaq_pfilPch3yoZfen_jWFn2EytJdcwQSo1w\" height=\"200\" width=\"auto\" /><br><br>Niet een buurt waarin je door heen wilt als het donker is. Midden in een vage suburb van sofia is hier opeens het socialistisch museum. Leuke collectie socialistische schilderijen met werkende arbeiders en een beeldentuin vol met afgedankte communistische kunst. Let vooral op de leninkoppen en de rode ster in de tuin die vroeger op het largo gebouw stond. Let op, het is nergens aangegeven en je moet het hek bij de portier door.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5t79Q7rbPiN-mTvzKM58mxY5FcQphRIUWeug-6yKgnUcmVZzh4OmqfhKDcry3kUef0QPYkcuMMXQRh_nlByxZPAC8KFqE8dCJVDuyIuuWwZG39oVmYDoDA0gR8mea6XzuxL3XA1n6ooil_oyrgAW6Q--3ArzUVdvbpUf0qc7Gmu7bZkO0sk0Vfuq7vNMeXHSznLZtvqjHIBnZNd8BVrrImE8SBAAUuYDsEPqS_H6Qxves8Cby_kittGwdvZEZaq_pfilPch3yoZfen_jWFn2EytJdcwQSo1w"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.319683, 42.693514, 0] },
+      "properties": {
+        "name": "Boom! Burgers & Steaks",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4Cu0oQa6MrNKOIV1TbPFnkCcGaF0salNfOT6tLHhd9J5QNq2rdU8InS_Njx5cpI0WjHV5LcqACbtrNaLyl1-It3fsDxI4LysxTawtK5jSZoZCXUH4AuJua8IUrPFvYPkNHIV2-n4ei3MXqgSO4c4D3Io0Ni9d-jwsJbA6mKqrFFpisEwvNsMa-OcFC8IHnkoQwnThl_RCSoPG7elrsPCjvr6zMskvS6hkVk4IiFNYtT54_Udr81MIdnJYPV7QUCa_KcX_uCrM1lf5UcJY590FZHBgg-StMK6VIo8_8K_7U\" height=\"200\" width=\"auto\" /><br><br>Hamburgerrestaurant van het type die je in elke stad van Nederland kunt vinden. Prima hamburgers en spotgoedkoop (zoals alles in Sofia). De burgers zijn niet heel groot, dus als je honger hebt moet je er friet of een tweede hamburger bij bestellen. Ze willen nog wel eens een beetje teveel blauwe kaas op de burger gooien.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4Cu0oQa6MrNKOIV1TbPFnkCcGaF0salNfOT6tLHhd9J5QNq2rdU8InS_Njx5cpI0WjHV5LcqACbtrNaLyl1-It3fsDxI4LysxTawtK5jSZoZCXUH4AuJua8IUrPFvYPkNHIV2-n4ei3MXqgSO4c4D3Io0Ni9d-jwsJbA6mKqrFFpisEwvNsMa-OcFC8IHnkoQwnThl_RCSoPG7elrsPCjvr6zMskvS6hkVk4IiFNYtT54_Udr81MIdnJYPV7QUCa_KcX_uCrM1lf5UcJY590FZHBgg-StMK6VIo8_8K_7U"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.322171, 42.691089, 0] },
+      "properties": {
+        "name": "Art Hostel",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6sJ9orCdkP0XhPyRZkVIzK7Dqz1noRcDTlxfncElLjzt9hG6uOSikWnrYS9nLdJEDoxS1ZX_1I86TWz1Xqn0KEMUEIQxTyniqi3knUh6sLUmvokv7ZprSpx0M_5h4x2ZS-IAXoMw4xtKezli8reJ6l7bvpKHgABoLsMzeowts5y57gFcWdH75lbGqpNa_s4p_QXKHzGMFU82fFuVOYPOcl7rfVgnL0h5fI4pstZNMfLo0mnCOCaN_-bkILUeKoc7uhPeyskA\" height=\"200\" width=\"auto\" /><br><br>Onder het hostel zit een kroeg waar je ook in mag als je niet in het hostel slaapt. Als het mooi weer is kun je in de achtertuin zitten. Bij slecht weer in de kelder. Het publiek bestaat voornamelijk uit jonge hostelbewoners. De kwaliteit van de livemuziek is niet altijd om over naar huis te schrijven.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5SWNDZJXAscR4tpapv7Kgx7aUD8fyQEoKX9h076XEaElqvysLUckyb_OYZDELyDqGmKVuLOl4waVPXyGD4ll01bi8bxQDz1sgxyelYvwtsfpVkaCDJRhfL9zFeHgVs3kV8FvTT7QFWon9R3roABILWMwp4FST0mZ7jF8h8gd3dZrKrl5rswtUC4Msono8YVPoBTE2rkD42Kz6L2SWPn4FMlBblYRgdq-XhyQsB_p3LjJHVr9u6FI2BUUjB8dEZ9vZXt4uc9II\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6sJ9orCdkP0XhPyRZkVIzK7Dqz1noRcDTlxfncElLjzt9hG6uOSikWnrYS9nLdJEDoxS1ZX_1I86TWz1Xqn0KEMUEIQxTyniqi3knUh6sLUmvokv7ZprSpx0M_5h4x2ZS-IAXoMw4xtKezli8reJ6l7bvpKHgABoLsMzeowts5y57gFcWdH75lbGqpNa_s4p_QXKHzGMFU82fFuVOYPOcl7rfVgnL0h5fI4pstZNMfLo0mnCOCaN_-bkILUeKoc7uhPeyskA https://lh3.googleusercontent.com/umsh/AN6v0v5SWNDZJXAscR4tpapv7Kgx7aUD8fyQEoKX9h076XEaElqvysLUckyb_OYZDELyDqGmKVuLOl4waVPXyGD4ll01bi8bxQDz1sgxyelYvwtsfpVkaCDJRhfL9zFeHgVs3kV8FvTT7QFWon9R3roABILWMwp4FST0mZ7jF8h8gd3dZrKrl5rswtUC4Msono8YVPoBTE2rkD42Kz6L2SWPn4FMlBblYRgdq-XhyQsB_p3LjJHVr9u6FI2BUUjB8dEZ9vZXt4uc9II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.119673, 52.093437, 0] },
+      "properties": {
+        "name": "KARTOFFEL",
+        "description": "Kartoffel Utrecht...doe maar niet. Het idee klinkt leuk maar eigenlijk is het eten niet zo goed, de bediening nog minder en de sfeer is eigenlijk ook niet tof. Wij werden vergeten door de bediening en vervolgens zoet gehouden met schnapz die de serveerster olijk mee dronk. De Itunes DJ machine gaf nog een beetje troost. (connect met remote en plaatjes aanvragen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.531675, 52.374405, 0] },
+      "properties": {
+        "name": "oud zandvoortsch vischrest De Meerpaal",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6bdW5W2notvxf2SgIOqn21BNkkSEiQdW7QANdMSjsckzlOVLN_GQ8HdMwp_PXFw6krd0fB2_wplOX1YtB1fI2lQh4S-vCl0py5eDSleIfYQEPLoNI0zQA0_VZPGL5O-XchlEGIk0IYl3MmqjSYer0G4kffm-sx2JcHGomiFujCWN1fjASBVnqmY3pPrrd4uQccycFhkINcf5Zlpn3tAth4VJjun-COOjNQyFPwRFLxmsFVBt_jTSL8Ej8MVjam25BLNgLyS4ho\" height=\"200\" width=\"auto\" /><br><br>Een ouderwets restaurant vraagt om een ouderwets advies. En dat is dit restaurantje absoluut waard! Een noemenswaardig vriendelijke gastheer/eigenaar wees ons naar een reeds gereserveerd tafeltje, want hij bepaalde wie waar zat, want hij was de baas. Erg smakelijk klassiek visrestaurant met ouderwets interieur. Wij hadden tarbot en ouderwetse  aal. Beide erg lekker. Laat de gastheer je adviseren in de wijnkeuze, dat kan hij ook goed.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6bdW5W2notvxf2SgIOqn21BNkkSEiQdW7QANdMSjsckzlOVLN_GQ8HdMwp_PXFw6krd0fB2_wplOX1YtB1fI2lQh4S-vCl0py5eDSleIfYQEPLoNI0zQA0_VZPGL5O-XchlEGIk0IYl3MmqjSYer0G4kffm-sx2JcHGomiFujCWN1fjASBVnqmY3pPrrd4uQccycFhkINcf5Zlpn3tAth4VJjun-COOjNQyFPwRFLxmsFVBt_jTSL8Ej8MVjam25BLNgLyS4ho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.667876, 51.549316, 0] },
+      "properties": {
+        "name": "1611",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5s9awZz9kxKOzCXIFiOHaNf2uwGDhVQ9KmO8YpxbuYfWQsSKlAlHF0WCfYRVsR53_2AH_CpapLiqxchF08ZZhVYwY9L_qX2UpWlc6NiBqdFHUmeagYn4Td-JN5QwPIHXOXgeiT3ZFzG6jtYMBhDFoGMnAd9LHWdySeby5VxH9bEvQe5k_HJPDpqLFzIqshftp5D9CZVYnsxgav1h9Ku8NfJTBmTCPjiN4z0rk_-bTj3V6YyrE7iUBJi2_B82nM9-dxaA_pajOZPO4QmvdbXSoz-rq7RSwyFoUR1-LKJtL_KgIoh5JjdjwkUTDgmZPo01x5sq-HAty2kor4sScbUsvyeeVJ\" height=\"200\" width=\"auto\" /><br><br>We spreken uit ervaring als we zeggen dat het lastig is om een goed, niet te duur, gezellig restaurant te vinden in Veere. Dit italiaanse restaurant bleek na een rondje door Veere prima te voldoen. Bediening is vlot en het eten was lekker. Restaurant is wel vrij klein en zit ook best snel vol.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5s9awZz9kxKOzCXIFiOHaNf2uwGDhVQ9KmO8YpxbuYfWQsSKlAlHF0WCfYRVsR53_2AH_CpapLiqxchF08ZZhVYwY9L_qX2UpWlc6NiBqdFHUmeagYn4Td-JN5QwPIHXOXgeiT3ZFzG6jtYMBhDFoGMnAd9LHWdySeby5VxH9bEvQe5k_HJPDpqLFzIqshftp5D9CZVYnsxgav1h9Ku8NfJTBmTCPjiN4z0rk_-bTj3V6YyrE7iUBJi2_B82nM9-dxaA_pajOZPO4QmvdbXSoz-rq7RSwyFoUR1-LKJtL_KgIoh5JjdjwkUTDgmZPo01x5sq-HAty2kor4sScbUsvyeeVJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.751823, 45.8844, 0] },
+      "properties": {
+        "name": "Hôtel-Refuge du Prarion",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v58NIHGdQVV2zUUjAkcvFqETuA2eyk5uzPofOkT118gVP_yZn_KHWRWA0mI2iilI7LianALrj9Ldtuv-8sCoymKr8k02W7bjfUZqgdVtKiOlpl2BLJBU4bla1ofnJ4Lj_AbxEYxPrPUinYWSY26Y5fHDRZ3zfn7lfvFWeEbo0cJlOgrab21jsavrDJK_-pqEkq-ELG9Qf1S4QfU5H79nbd1JVvblBmcfM4B\" height=\"200\" width=\"auto\" /><br><br>Tja, waar moeten we beginnen. Het eten is goor, koud en niet goedkoop. Het personeel is niet vriendelijk en doet moeilijk als je zegt dat het happy hour is begonnen. Er is al zeker 30 jaar niets meer aan het interieur gedaan en de toiletten stinken naar pis. Helaas het enige restaurant in de buurt van de lift. Als je wat verder het gebied in board/skied zijn er waarschijnlijk betere plekken.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v58NIHGdQVV2zUUjAkcvFqETuA2eyk5uzPofOkT118gVP_yZn_KHWRWA0mI2iilI7LianALrj9Ldtuv-8sCoymKr8k02W7bjfUZqgdVtKiOlpl2BLJBU4bla1ofnJ4Lj_AbxEYxPrPUinYWSY26Y5fHDRZ3zfn7lfvFWeEbo0cJlOgrab21jsavrDJK_-pqEkq-ELG9Qf1S4QfU5H79nbd1JVvblBmcfM4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.872673, 45.922951, 0] },
+      "properties": {
+        "name": "Restaurant La Flambée",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4-iUPQZyoofLIBsIcYS3m_Pnk1FyxMqU3UUc0EyMPtl3jBdDKt-V-6gGloKnQe7d9joFWWl8a59N_kjYA4og9Pss1TKZ8nVrN4FBqIq0_CXVSFobBDmvjVcNbPEv__Wmw2PVR4ypwmVil9TcqykGbmZsJ7P6fb5YKMr2_kU9BkNZ7xV4GAqNYPjr3CODRkZ0yud15M8MosKO4zk99xy96x71phixa8FeaXmA1eR8oz0DDNrs2zZFGLrb4EncHCSDj3TZ364POL\" height=\"200\" width=\"auto\" /><br><br>Lekker eten in Chamonix. Dat kan hier. Het interieur bestaat uit hout voorzien van allerlei ski-attributen van weleer. De kaart bestaat uit allerlei verschillende spijzen maar wij hadden de hamburger met lokale kaas en geinige uienchutney. Een aanrader maar kijk uit voor de kapotte stoel.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6AfF7p42GFEiT1vvW6NxpWkq1Xq_rXXUtOW5jMmVJtk6CD1OCWM65vNDrp4tQ-TfC7h9CvTQGgkH_ciTasjrSze1cnaug4KUoFRyaIt15ro8iGsuS9Xewxsdf6sEGZO42pR9XaaSmFuCBBNE6VPTfCbG0hRkzQ9pP93W3XLWRENn6uJEecLnbo-16bip4ysh60S6cViP3yPcQmftpuOOTcfLC3ofvuzw9qh5dyLUzCNATCB-PHa0SU3jwUqSooZ2bhdhD4KRLs\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4-iUPQZyoofLIBsIcYS3m_Pnk1FyxMqU3UUc0EyMPtl3jBdDKt-V-6gGloKnQe7d9joFWWl8a59N_kjYA4og9Pss1TKZ8nVrN4FBqIq0_CXVSFobBDmvjVcNbPEv__Wmw2PVR4ypwmVil9TcqykGbmZsJ7P6fb5YKMr2_kU9BkNZ7xV4GAqNYPjr3CODRkZ0yud15M8MosKO4zk99xy96x71phixa8FeaXmA1eR8oz0DDNrs2zZFGLrb4EncHCSDj3TZ364POL https://lh3.googleusercontent.com/umsh/AN6v0v6AfF7p42GFEiT1vvW6NxpWkq1Xq_rXXUtOW5jMmVJtk6CD1OCWM65vNDrp4tQ-TfC7h9CvTQGgkH_ciTasjrSze1cnaug4KUoFRyaIt15ro8iGsuS9Xewxsdf6sEGZO42pR9XaaSmFuCBBNE6VPTfCbG0hRkzQ9pP93W3XLWRENn6uJEecLnbo-16bip4ysh60S6cViP3yPcQmftpuOOTcfLC3ofvuzw9qh5dyLUzCNATCB-PHa0SU3jwUqSooZ2bhdhD4KRLs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.422573, 52.500473, 0] },
+      "properties": {
+        "name": "Bateau Ivre",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7RO1U041t2o7ZIOxi1LxoafwMhTxnzr94OksK0-18nYi08RWhxoE4GjxCQGp8_7foI1P5S_6FKSRZuRenC-xgG_C1IIDFo-eipmfdqFt36s1px14u9FUHffrHCu1UB4q-NxX2nLz_lV2c0IagK13sFiPZBSuWKA3ZaOClZuLnbQAswkONOe0jwlUWRztQCnyuZ_VuFKx40l7ctbfCm96YUpj1rPH2w6f8QFgO_V5WOeArVSXOwkgWLLpAeWjAoiQWE\" height=\"200\" width=\"auto\" /><br><br>Top ontbijt, leuke kroeg.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7RO1U041t2o7ZIOxi1LxoafwMhTxnzr94OksK0-18nYi08RWhxoE4GjxCQGp8_7foI1P5S_6FKSRZuRenC-xgG_C1IIDFo-eipmfdqFt36s1px14u9FUHffrHCu1UB4q-NxX2nLz_lV2c0IagK13sFiPZBSuWKA3ZaOClZuLnbQAswkONOe0jwlUWRztQCnyuZ_VuFKx40l7ctbfCm96YUpj1rPH2w6f8QFgO_V5WOeArVSXOwkgWLLpAeWjAoiQWE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.048875, 52.512229, 0] },
+      "properties": {
+        "name": "L'Auberge Damhotel B.V.",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4ZFZHU4cN3zJdRmlmDNNE5AtAjC1g70jM440aMNkSy5QWsV3pMGo8shrCeeV80NtIdaY8LmwbIN2jZcF2gggSf7hMsdWFXg8ThgycxngHt9AnbepIUAvcGzqAItpNsuNukCZw9ou0MzvEfwk-osE0HUzjbxsCyX9BuIu0YPF8Irlt8uVWCqyIXDeOScWW9c24XWPSgv2G57JxIWVsHem2d2flr8XHPpwHV\" height=\"200\" width=\"auto\" /><br><br>Brasserie en restaurant. Wij gingen naar de brasserie waar je voor een schappelijk prijsje een smakelijke burger en mooie sate kreeg. Leuke locatie, let vooral ff op de bijzondere overkapte sluis uit 15honderdnogwat",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4ZFZHU4cN3zJdRmlmDNNE5AtAjC1g70jM440aMNkSy5QWsV3pMGo8shrCeeV80NtIdaY8LmwbIN2jZcF2gggSf7hMsdWFXg8ThgycxngHt9AnbepIUAvcGzqAItpNsuNukCZw9ou0MzvEfwk-osE0HUzjbxsCyX9BuIu0YPF8Irlt8uVWCqyIXDeOScWW9c24XWPSgv2G57JxIWVsHem2d2flr8XHPpwHV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.712389, 52.013152, 0] },
+      "properties": {
+        "name": "Biercafé De Goudse Eend",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4KAbFC7UaULwcFnEZ_zVBC9A-H4S6OOsJTsKpWOO73nPPk4OWv5v4lgf-JadxjvxfBm5Lz4-Df4yonfd6KvvMsZXJL9GT2W5HHpzywqyavHFJqe_gtAhVdykvMALXbouP6f2Q0-3lKIKIdQEFP4i0Ex24M0xFKY-1V8DFuPRPLr0UdLIR3c-rm8h9hYBfXuCbORvn4X7Hl_qyxj7orRORDZRtxYQL66eFlQ4H5-pg0K_21A8H4-SKC3pxG7eBFpFiqdZBOg9MjpcJJYuysjTZiE-IS3uf_ZX23fZwM32FKRDtVBimuGQkOmcfEKvj6Latwfyhznp4J25hit4vuuAg4ndNd2aq1tSYwXjduYEPQQ_1np-EW8njG7w\" height=\"200\" width=\"auto\" /><br><br>Jazeker een biercafe in Gouda. Met bier...en soorten bier. Je kent het wel. Wel tikkie achteraf en iets te veel systeemplafond.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4KAbFC7UaULwcFnEZ_zVBC9A-H4S6OOsJTsKpWOO73nPPk4OWv5v4lgf-JadxjvxfBm5Lz4-Df4yonfd6KvvMsZXJL9GT2W5HHpzywqyavHFJqe_gtAhVdykvMALXbouP6f2Q0-3lKIKIdQEFP4i0Ex24M0xFKY-1V8DFuPRPLr0UdLIR3c-rm8h9hYBfXuCbORvn4X7Hl_qyxj7orRORDZRtxYQL66eFlQ4H5-pg0K_21A8H4-SKC3pxG7eBFpFiqdZBOg9MjpcJJYuysjTZiE-IS3uf_ZX23fZwM32FKRDtVBimuGQkOmcfEKvj6Latwfyhznp4J25hit4vuuAg4ndNd2aq1tSYwXjduYEPQQ_1np-EW8njG7w"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.402259, 52.52865, 0] },
+      "properties": {
+        "name": "TRANSIT",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4aChpSBRVQiaKn0ycTn7JYz2bPRaABX2kVjlpIasXfqsTeMLqJ5SedoV3gqJznJ0WzjkoPmsxcIqg1jF7cFNXL2SYf-LUPTeMbXZNOts3CBXy2Nn6vmx0ayjqk2gJBehWtioMztjZ-YoKpJBGkmPweJggYU5I9A5qIi3C3J_uQ3Sg0vvNi7pb7idA3p3xkkCbPfPy26LKtf_gHPVM7GjHwKPdXHxFCSRj9Wqzj9lg9YCFyugo2gfYHRM2FDRJ2yD3XUTcf2r4gWht8TF7nwbAsahudmF1PiRkXY8ISWeEFvLaRaN0MFeNc5o8\" height=\"200\" width=\"auto\" /><br><br>WE OFFER A UNIQUE, CASUAL ASIAN DINING EXPERIENCE IN THE HEART OF BERLIN. Schrijven ze op de website. Dat klopt. Niet duur, wel heel lekker. Stokkies eten!",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4aChpSBRVQiaKn0ycTn7JYz2bPRaABX2kVjlpIasXfqsTeMLqJ5SedoV3gqJznJ0WzjkoPmsxcIqg1jF7cFNXL2SYf-LUPTeMbXZNOts3CBXy2Nn6vmx0ayjqk2gJBehWtioMztjZ-YoKpJBGkmPweJggYU5I9A5qIi3C3J_uQ3Sg0vvNi7pb7idA3p3xkkCbPfPy26LKtf_gHPVM7GjHwKPdXHxFCSRj9Wqzj9lg9YCFyugo2gfYHRM2FDRJ2yD3XUTcf2r4gWht8TF7nwbAsahudmF1PiRkXY8ISWeEFvLaRaN0MFeNc5o8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.421714, 52.494033, 0] },
+      "properties": {
+        "name": "The Bird in Xberg",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5sphGgXKOuTQmvMw8yUn78APzJzfn8Oz54z3XFrYI5myEGvw5Pz_1dKLmomCXPD9VJGHtammokw95-iDC0pVlOHjR_jD0opFKVVLx52MNvzp7LHDcMXJtdgpeanz02UCK7TNG2Jf3Jks0oBFuUbyjmsv7OGXkCJi9LnAdWxaAW_sfj3Yjzw7iTVGBODzb0bPvG15c7yLYWubTMwEvmdU0J9zBAuPdDY9zheV4M-rOu_2YpLw7nHlD5ZHPVGXynFaiJ\" height=\"200\" width=\"auto\" /><br><br>Hamburgers! Volgens vele de beste in Berlijn. Allerlei soorten en maten maar onder aan de streep allemaal erg smaakvol. Wel hoog vreetschuur gehalte, maar wel authentiek. Ow en tamelijk pretentieus en ze hebben een mening over eten met mes en vork",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5sphGgXKOuTQmvMw8yUn78APzJzfn8Oz54z3XFrYI5myEGvw5Pz_1dKLmomCXPD9VJGHtammokw95-iDC0pVlOHjR_jD0opFKVVLx52MNvzp7LHDcMXJtdgpeanz02UCK7TNG2Jf3Jks0oBFuUbyjmsv7OGXkCJi9LnAdWxaAW_sfj3Yjzw7iTVGBODzb0bPvG15c7yLYWubTMwEvmdU0J9zBAuPdDY9zheV4M-rOu_2YpLw7nHlD5ZHPVGXynFaiJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.1388, 51.78659, 0] },
+      "properties": {
+        "name": "Zwanenburcht",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6PbXwL3IU30dSeg2gSfyqzJ92uGZGzwlvPzBaoy4oGe3n767v9bJheFIeTrNjzySMfrdhXF8l8uhxZes7zhnpY4Yka9J4CX2Ky3uiraMl7ZmM92TdtzmVAxoptRGZ24hj3imnhsxnok4I-KKjvoU8zzYJn2LsXM5MLa-nxPDx7vkOOJracxeDNbgMXZHFDpKyLwQQwUNYZnf54VjmEWqsO6SjkLIiTW6d0yT29m_yKpljWbDLfI1yzbFvD2nVIigG37lraIZ3Pya-XbEjd_uUO5D_AI3zwgpsyaBAo47DbmrF7F_8Co5dWAUoBLoNrGf9v0adYeX9PGWM57HF3l2es8tXQlSW8-eR4Rg\" height=\"200\" width=\"auto\" /><br><br>Niet naar het museumpje in de toren gaan. Oude puinzooi en niet interessant. Uitzicht is ook niet mooi omdat de ramen te klein en goor zijn. Ga eigenlijk maar helemaal niet naar Kleve. Misschien als je goedkoop drank moet hebben (zie ander advies)",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6PbXwL3IU30dSeg2gSfyqzJ92uGZGzwlvPzBaoy4oGe3n767v9bJheFIeTrNjzySMfrdhXF8l8uhxZes7zhnpY4Yka9J4CX2Ky3uiraMl7ZmM92TdtzmVAxoptRGZ24hj3imnhsxnok4I-KKjvoU8zzYJn2LsXM5MLa-nxPDx7vkOOJracxeDNbgMXZHFDpKyLwQQwUNYZnf54VjmEWqsO6SjkLIiTW6d0yT29m_yKpljWbDLfI1yzbFvD2nVIigG37lraIZ3Pya-XbEjd_uUO5D_AI3zwgpsyaBAo47DbmrF7F_8Co5dWAUoBLoNrGf9v0adYeX9PGWM57HF3l2es8tXQlSW8-eR4Rg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.700906, 52.669356, 0] },
+      "properties": {
+        "name": "Cafe d'Alderliefste",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5ziZrACpZ3V1nMhRyWgVJfUhbwCO1LPiLvEAwmM_jNNu9k68dTp46neP4sXBVvJe44YioN9L69mfJdPubTwW3_rCcJo4meV6D2gNHhjso0lQjl3RFtMW1CmXnVCWkmSKOQaOPrQEBZISeDHeqJ32LgRr_RbIlqcGLTJE8sjkjeS8Feg6jjQhWB3OH5oRNTpqKE3Bw1EpHMxsB3liezwPhmNphhnRsEfvXoPjGbDW68HHRUgp9WehInp3xajuWOW2Yq20hVG7X0SgW3jetkHocJfw\" height=\"200\" width=\"auto\" /><br><br>Dit cafe wordt geadviseerd door de prima bediening. Voor de rest is dit een redelijk gemiddelde kroeg, maar de barman was bijzonder alert. Of de temperatuur in de ruimte nu iets te hoog is of de bodem van je glas komt in zicht, de barman voelt je goed aan en handelt direct. Efficiënte, pretentieloze service waar wij van Geensnor van houden.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5ziZrACpZ3V1nMhRyWgVJfUhbwCO1LPiLvEAwmM_jNNu9k68dTp46neP4sXBVvJe44YioN9L69mfJdPubTwW3_rCcJo4meV6D2gNHhjso0lQjl3RFtMW1CmXnVCWkmSKOQaOPrQEBZISeDHeqJ32LgRr_RbIlqcGLTJE8sjkjeS8Feg6jjQhWB3OH5oRNTpqKE3Bw1EpHMxsB3liezwPhmNphhnRsEfvXoPjGbDW68HHRUgp9WehInp3xajuWOW2Yq20hVG7X0SgW3jetkHocJfw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.137454, 52.098492, 0] },
+      "properties": {
+        "name": "Goesting Restaurant",
+        "description": "Goesting Goesting....wat zal ik er over zeggen. Stond bekend als 1 van de beste restaurants van Utrecht maar, en het zal velen teleurstellen, ik ga het afraden. Geensnor kreeg gerookte zwaan (ja zwaan), maar gerookte zwaan is helemaal niet lekker. En riso Venere (zwarte liefdesrijst) was helemaal niet lekker samen met zeeduivel. Allemaal hele mooie gerechten maar uiteindelijk geen lekkere smaken bij elkaar. Dus, doe maar niet, zeker voor dat geld."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.084068, 52.115937, 0] },
+      "properties": {
+        "name": "Restaurant The Colour Kitchen Utrecht",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7V8w9YhpSu2aUmV_Ygh-TFBOEFEywpOW1fQxZ5KNJcfotnbB79R87-2lwkjmt327wX2sumHlOqOvlHqCibV4I2vEbn5P6Fvflm2k7uDxq1dFIAO60t3uf0btu7-GlGE6n0YK0CShZIJsImRzCmbNFCYiFpAZ5wY-JBH8JT-meQ0kBS27Dje4s8OS41UnHXzsXGlk3ZhcCdQ4yh3frGtOxZWN9UIqmbLiSgn_ZqV0-XxYliiMg6zbNYVOS6\" height=\"200\" width=\"auto\" /><br><br>Een tip! En dat diep diep in zuilen. The color ktichen is een sociaal project, iets met reintegratie enzo. In een prachtig oud schoolgebouw (let vooral op de prachtige bomen op het schoolplein) serveren ze lekkere gerechten. Gewoon een leuk restaurant met lekker eten. En goed voor je karma! Ook goed om zomers in de zon bier te drinken op het mooie terras",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7V8w9YhpSu2aUmV_Ygh-TFBOEFEywpOW1fQxZ5KNJcfotnbB79R87-2lwkjmt327wX2sumHlOqOvlHqCibV4I2vEbn5P6Fvflm2k7uDxq1dFIAO60t3uf0btu7-GlGE6n0YK0CShZIJsImRzCmbNFCYiFpAZ5wY-JBH8JT-meQ0kBS27Dje4s8OS41UnHXzsXGlk3ZhcCdQ4yh3frGtOxZWN9UIqmbLiSgn_ZqV0-XxYliiMg6zbNYVOS6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.172625, 52.063795, 0] },
+      "properties": {
+        "name": "Restaurant Vroeg",
+        "description": "Het restaurant is prima verder, maar daar gaat de tip niet over. Mocht je smiddags in de buurt zijn, haal dan aan de zijkant aan de balie een frietje stoofvlees. Dat is lekker!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.722956, 51.808103, 0] },
+      "properties": {
+        "name": "Thuis bij Fien",
+        "description": "Een afrader, en dat komt mede door de enorme chaotische bediening. Vrij veel personeel rent vrij veel door elkaar heen, tegen elkaar op en zomaar wat rond. Op volledige willekeurige momenten mag serveerste A op moment X je wel een kaart geven, en het andere moment moet een andere collega worden geroepen om je de kaart te geven. Hele vage logistiek waar wij in ieder geval niks van snapten.<br><br>Het eten was ook niet al te best. Wij hadden gnochi, maar die was niet lekker, en de tuinbonen waren niet gaar."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.826646, 50.200169, 0] },
+      "properties": {
+        "name": "Restaurant Bauernstube",
+        "description": "Veel duitser dan dit restaurant wordt het niet. Het interieur is al enkele decennia precies hetzelfde. Voor de bediening en het menu geldt dit waarschijnlijk ook. Toch is het eten (niveau schnitzel met friet) voldoet aan de verwachting en kost het helemaal niets. Allemaal super degelijk."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.132311, 49.612161, 0] },
+      "properties": {
+        "name": "Konrad Café & Bar",
+        "description": "Dit is waarschijnlijk de hipste bar van (de stad) Luxemburg. Luxemburg is niet zo hip, dus verwacht niet teveel. Het vleespasteitje is erg lekker en je kan er nog ander eten krijgen. Het terras is erg klein en heeft geen zon."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.219705, 49.78322, 0] },
+      "properties": {
+        "name": "Fischer Larochette",
+        "description": "Kies maar een van de andere restaurants op het rijtje. Deze is niet goed. Alles wat ze op moeten warmen verbrandt of is te koud. De koffie is goor en de bediening wil zo snel mogelijk naar huis."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.133144, 49.611503, 0] },
+      "properties": {
+        "name": "Kaale Kaffi",
+        "description": "Jazzbar met vintage kledingwinkel. Op het terras (midden op straat) hebben ze een hele woonkamer nagebouwd. Bediening heeft het razend druk met 6 gasten maar probeert het goed."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.35822, 49.85186, 0] },
+      "properties": {
+        "name": "Bollendorfer Stube",
+        "description": "Zo duits zo duits. Schnitzel met käse und schinken en damit gebakken aardappels met nog meer spekjes!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.357475, 49.851803, 0] },
+      "properties": {
+        "name": "Fabry´s Apartmenthof",
+        "description": "Redelijke appartementen, wel lekker billig en daarom een tip voor de regio."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.105953, 52.097422, 0] },
+      "properties": {
+        "name": "Gys",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5h1ea7fgWesxszd_ZbNVre7jzJDK0NZ2VhpW5Wvpbd-sPjqRlwxUr3c6-TzJlT-rx_mK7za7BljlDAyQ8k8zPdtz6efZ3UCNi8Wo6gQJX4zpYO0c_0QUrs3Z3hRsMr8c0iDaC4G80oepnWbNSDW-VZ-SDWgAjC3ZYZ_VpWcx_a9_DWFm3v_TG-JufCOK9sfp6Z-1qNokyf8nm2oQHXaJJnRB05it9fqOlrLcabPq4\" height=\"200\" width=\"auto\" /><br><br>Biologisch restaurant gericht op de beurs van de student. Dat betekent niks boven de 10 euro. De hamburger is prima (9 euro) en de frieten lekker. Het biertje van het restaurant zelf (gys bier) komt eigenlijk van de leckere, maar is wel lekker. Ze hebben hefe weisse van pinkus, dat is ook lekker.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5h1ea7fgWesxszd_ZbNVre7jzJDK0NZ2VhpW5Wvpbd-sPjqRlwxUr3c6-TzJlT-rx_mK7za7BljlDAyQ8k8zPdtz6efZ3UCNi8Wo6gQJX4zpYO0c_0QUrs3Z3hRsMr8c0iDaC4G80oepnWbNSDW-VZ-SDWgAjC3ZYZ_VpWcx_a9_DWFm3v_TG-JufCOK9sfp6Z-1qNokyf8nm2oQHXaJJnRB05it9fqOlrLcabPq4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.109656, 52.0957, 0] },
+      "properties": {
+        "name": "O-Café",
+        "description": "Lekkere koffie met uitzicht op de bouwput van utrecht. Tip is het brood want dat kun je kopen en is erg lekker."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.10801, 52.082836, 0] },
+      "properties": {
+        "name": "Hasekura Utrecht B.V.",
+        "description": "Onbeperkt sushi eten. Onbeperkt is altijd een waarschuwing en in dit geval klopt dat ook. Geen fijne sushi hier."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.11798, 52.097885, 0] },
+      "properties": {
+        "name": "Cafe Averechts",
+        "description": "Vrijwilligerscafe. Leuke sfeer, lekker bier. Wel erg voor de locals/buurtbewoners."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.116209, 52.090759, 0] },
+      "properties": {
+        "name": "Restaurant Luc Utrecht",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4go5VqIG_bjKvNI-e7Jl_C9xJl41myftKqsEqbE81x-dxjsXxowNbl3sni-Fz-2-d_hqiYHvyPFQFI6zJkyLKJR4GI_SP3BEayDQpz40uebQFVM_spQTk756N6Y8K7og-3C2YosZdMlaUh9QmxOUr4f1JVLWYxqxuIOFX8LgOASefwhNzWnp7dduYzezniR1ZPO4FY-wzm7oz38MjvtCTLFS1qePWjb3fDMhzDtH90tGVZDpN8LCx-rWVy8U5Xcv6ZlyiAOKoPEOAl0QmHrU0bnqRBY1lMadJTAXBt5aTF_2vVMKK043GNixxVgkFZ7g\" height=\"200\" width=\"auto\" /><br><br>Bij Luc kun je kei lekker lunchen. Niet zo goedkoop, wel heel erg lekker. Geensnor had een sandwich met pulled pork en zwitsersekaas. Voor LUC loop ik voortaan om.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4go5VqIG_bjKvNI-e7Jl_C9xJl41myftKqsEqbE81x-dxjsXxowNbl3sni-Fz-2-d_hqiYHvyPFQFI6zJkyLKJR4GI_SP3BEayDQpz40uebQFVM_spQTk756N6Y8K7og-3C2YosZdMlaUh9QmxOUr4f1JVLWYxqxuIOFX8LgOASefwhNzWnp7dduYzezniR1ZPO4FY-wzm7oz38MjvtCTLFS1qePWjb3fDMhzDtH90tGVZDpN8LCx-rWVy8U5Xcv6ZlyiAOKoPEOAl0QmHrU0bnqRBY1lMadJTAXBt5aTF_2vVMKK043GNixxVgkFZ7g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-7.648573, 37.126952, 0] },
+      "properties": {
+        "name": "Pessoa's cafe",
+        "description": "Stukje minder toeristisch dan de rest. Fijn terrasje, beetje hip met lekkere wijn. Vriendelijke goed engels sprekende jongeman serveert je lokale wijn."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-7.69698, 37.162007, 0] },
+      "properties": {
+        "name": "Casa Mima",
+        "description": "Mooi vakantiehuisje in de Algarve geschikt voor 4 tot 6 personen. Prive zwembad en mooie sinaasappel boomgaard. Mooi groot terras en fijne keuken. Ook bijzonder geschikt voor kinderen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-7.442334, 37.217942, 0] },
+      "properties": {
+        "name": "Castro Marim",
+        "description": "Mooi groot fort, dat wel natuurlijk, maar er is verder niks aan te zien. Kale warme berg stenen op een berg. Het zal wel zijn publiek hebben maar ik ben het niet."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-9.134466, 38.708797, 0] },
+      "properties": {
+        "name": "Brunch Cafe",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4h0lwTXLhlCwin_eWLr_as5WM2MtYB1am3J_Rn4YR5Jm2nsTdjiO1EmDBEcI3_40B4RV-bYjlN2-vxYUscdMpbNwBatdDapgfzEXR6K5c6cZq4HNZrtimR3FZj3-uFrlxR80WPGQWV-70mifGq4xT7t6vz5aa51ifdMZt4C8Q4hv-oBXcTX-tqV-TlycC19bMGUnYx4TldkSdoyNE25ofrOMi1Ck_I_dUqnWJMHK8fZFpMcSwzsfmmUg\" height=\"200\" width=\"auto\" /><br><br>De beste plek in Lissabon om te ontbijten. Boven gemiddeld goede koffie maar ook een heerlijk ontbijt. Beetje hippig",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4h0lwTXLhlCwin_eWLr_as5WM2MtYB1am3J_Rn4YR5Jm2nsTdjiO1EmDBEcI3_40B4RV-bYjlN2-vxYUscdMpbNwBatdDapgfzEXR6K5c6cZq4HNZrtimR3FZj3-uFrlxR80WPGQWV-70mifGq4xT7t6vz5aa51ifdMZt4C8Q4hv-oBXcTX-tqV-TlycC19bMGUnYx4TldkSdoyNE25ofrOMi1Ck_I_dUqnWJMHK8fZFpMcSwzsfmmUg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-9.128568, 38.713611, 0] },
+      "properties": {
+        "name": "Alfama - Lisbon Lounge Suites",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6JWq5TnZhm2l8jnOk2vsp1pMO5PbZgssVm03uo6SbMLoJEil9npXljCnIpyR7ninvw8y7grmyOEPeVQNrppuGoT68kQINXnRz0p5BL_2g9lRGyrdKzRjOzP3lsO4mRZ-IbNRK971LGG70OdzK8pbEz9YvHoInzdkYUmN2bdzU2ZpAOS8-2uoldQqmwXtD_zYtHjTDy8Godd6sz8m6QeF891xn98lJg2umiPXVKysXa9_joPjMG\" height=\"200\" width=\"auto\" /><br><br>Niet te duur hotel in een van de leukste wijken van Lissabon. Het klassieke vintage trammetje stopt direct voor de deur en alle leuke trapjes enzo geeft het geheel een heel leuk hotel op een hele leuk plek. Het bed was goed genoeg. Het ontbijt erg karig, maar dan moet je even naar brunch cafe (zie andere tip) en dat is op loopafstand.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6JWq5TnZhm2l8jnOk2vsp1pMO5PbZgssVm03uo6SbMLoJEil9npXljCnIpyR7ninvw8y7grmyOEPeVQNrppuGoT68kQINXnRz0p5BL_2g9lRGyrdKzRjOzP3lsO4mRZ-IbNRK971LGG70OdzK8pbEz9YvHoInzdkYUmN2bdzU2ZpAOS8-2uoldQqmwXtD_zYtHjTDy8Godd6sz8m6QeF891xn98lJg2umiPXVKysXa9_joPjMG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-9.130191, 38.717412, 0] },
+      "properties": {
+        "name": "O Pitéu da Graça",
+        "description": "Ach het eten was wel ok, en het zal wel tiepisch portugees zijn allemaal. Maar de Portugezen kunnen nou eenmaal niet zo lekker koken. En omdat dit restaurant overal wordt aangeraden (ook door het hotel) zet ik er een doodshoofd neer, omdat het ondanks alle aanbevelingen wat mij betreft echt niet de moeite waard is."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.007515, 50.391878, 0] },
+      "properties": {
+        "name": "Brasserie de Bellevaux",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4WSDk1HZhCTS0bVB1APwSr1xbkQXiMp7gBxWh67nK1ei-jMZaT0TmnJNq5UtAqa4dFvosVyA56u5GOE_2MTjeuYWCUMirBfsiUL9NN8HhkbiRNsaGr_nQHNj4zLniiOQd2D_wPucsKgm-tyocePi_H4GL_eUBFUc30LFTnv1XCKmR6uWaEmCK7ZOCU7LCTwhnmgk_bOf82URD32pqacEJjNv1WlaJvvVEYW2w03b9EVCvkyGuVFA\" height=\"200\" width=\"auto\" /><br><br>Geinig brouwerijtje. De Black is het lekkerst als je tenminste een beetje van stoutachtig bier houdt. De rest is ook prima weg te krijgen. Wat minder goed weg te krijgen is, is je auto als je die op het weiland hebt gezet en het heeft geregend. Dan wordt het allemaal nogal een modderzooi rondom de brouwerij. Laarzen of wandelschoenen mee dus.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4WSDk1HZhCTS0bVB1APwSr1xbkQXiMp7gBxWh67nK1ei-jMZaT0TmnJNq5UtAqa4dFvosVyA56u5GOE_2MTjeuYWCUMirBfsiUL9NN8HhkbiRNsaGr_nQHNj4zLniiOQd2D_wPucsKgm-tyocePi_H4GL_eUBFUc30LFTnv1XCKmR6uWaEmCK7ZOCU7LCTwhnmgk_bOf82URD32pqacEJjNv1WlaJvvVEYW2w03b9EVCvkyGuVFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-9.143399, 38.711138, 0] },
+      "properties": {
+        "name": "Restaurante Stasha",
+        "description": "Het was niet extreem slecht maar toch een doodshoofdje. Octopus was gewoon gebakken octopus en mijn vlees wat eigenlijk helemaal niet lekker afgetopt met geitenkaas. Het smaakt gewoon niet zo lekker hier, ondanks dat het wel redelijk is klaargemaakt."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.613045, 41.149964, 0] },
+      "properties": {
+        "name": "Café Candelabro",
+        "description": "Leuke gezellige kroeg. Er wordt wel gerookt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.61413, 41.14974, 0] },
+      "properties": {
+        "name": "Restaurant COMME ÇA",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4QvPiLENCVpvQ4_DT49HeoBsEbYDaHvhFo5GufSIWq_eis9DVVW9XhfjQqGPe5QunrwjAX7MyH6FwY30nrEBzD3OMp0axInewGodiGfDcR2OMKdsT1rGXIuwg1DodbtBtwWziIdg9Asdl0jsQIYykFvQhmqTvHCaxWQin_yjr4eophJW1Pa7cpvi1EuZJnEq6vJwnM6xMuoGQVtih9EURDg0wlBOsSKmZACIsGuZfyL_uX-oruqIlFjlesd6Z2oPgBqoLPLuLy4GGP4amC030O3HJ4uE4py-xPozmXgqZwQ-02sOZAfOvvkw\" height=\"200\" width=\"auto\" /><br><br>Een beetje verstopt (het gebouw ziet er niet uit als een restaurant) maar binnen is het heel leuk ingericht. Je besteld hier altijd een maaltijd voor 2 personen, dus het is onderhandelen geblazen aan tafel. Het eten is lekker en goed bereikt (en portugees). De bakalou was lekker. De gaflambeerde chorizo zag er vooral lekker uit. Het dessert is nogal ruim. De prijs is erg laag. Je betaald  6 euro pp voor het eten en een flesje wijn voor slechts 8 euro.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4QvPiLENCVpvQ4_DT49HeoBsEbYDaHvhFo5GufSIWq_eis9DVVW9XhfjQqGPe5QunrwjAX7MyH6FwY30nrEBzD3OMp0axInewGodiGfDcR2OMKdsT1rGXIuwg1DodbtBtwWziIdg9Asdl0jsQIYykFvQhmqTvHCaxWQin_yjr4eophJW1Pa7cpvi1EuZJnEq6vJwnM6xMuoGQVtih9EURDg0wlBOsSKmZACIsGuZfyL_uX-oruqIlFjlesd6Z2oPgBqoLPLuLy4GGP4amC030O3HJ4uE4py-xPozmXgqZwQ-02sOZAfOvvkw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.615021, 41.148922, 0] },
+      "properties": {
+        "name": "Aduela taberna/bar",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4I8XjBHZaol1gAKszrtaViB8R_X3yTtoTUXZQBT8ZQAklmzXx01mloFaqwF4ARSOB3f_qS60Ujsaw-pHhwELA_3sQ3M4cxyYwDnYmfy7hTHzWDcwFxhaMEzYZPsExVjFg9RlSxlvs-EQm3E26Xt3OmlL1JM5wzQ9A3qyoEAlk97qW0g1vFlI2k8B8wlY26AbW9RxPnCAIY8oWrYBksgOptcRYGeIpVKStAlN_7hQFE2FDQYuo1-95vNOu2w2FLLm6q\" height=\"200\" width=\"auto\" /><br><br>Heel gezellige kroeg op de hoek! De fino (klein biertje) is slechts 1 euro 50 dus dat is door drinken hier. Een tikkie hippig",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4I8XjBHZaol1gAKszrtaViB8R_X3yTtoTUXZQBT8ZQAklmzXx01mloFaqwF4ARSOB3f_qS60Ujsaw-pHhwELA_3sQ3M4cxyYwDnYmfy7hTHzWDcwFxhaMEzYZPsExVjFg9RlSxlvs-EQm3E26Xt3OmlL1JM5wzQ9A3qyoEAlk97qW0g1vFlI2k8B8wlY26AbW9RxPnCAIY8oWrYBksgOptcRYGeIpVKStAlN_7hQFE2FDQYuo1-95vNOu2w2FLLm6q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.612776, 41.145291, 0] },
+      "properties": {
+        "name": "A Sandeira do Porto",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7V5KvIhW3NrooWGN_oB-fg4vB226UdElt6IueFeJsN7Gu3vINSpPjWpaS7gnnmYUXUZiIMuFeyxW9hl49Ci5Hsdc5voXcBpPFAgnaSEx5EmdS0HJUzpMMQaU-JgD1aBL7VDZIfCjmBNF7Xs8xrbWX6rfpxuyDRCsU_6Ljj07FynHlafncbo1Z8mx29KC0-Xso6yv8KMZNv9HQTh5bRm5TYzbK5Pe5QOF4_VbilP2TAhJB4Gqx-cmFtkOzWvFC5jbldoYRaAcD-EdFCsH57-vh51seoI-HjvmDvI7SMPYjDMts9U92nVCFMZvnYzCI\" height=\"200\" width=\"auto\" /><br><br>Top lunch! Voor 5 euro een heerlijk huisgemaakt soepje, een kei lekker broodje of salade en een limonade. Het is een kleine zaak maar als je gelukt hebt heb je hier een top lunch voor niet veel geld.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7V5KvIhW3NrooWGN_oB-fg4vB226UdElt6IueFeJsN7Gu3vINSpPjWpaS7gnnmYUXUZiIMuFeyxW9hl49Ci5Hsdc5voXcBpPFAgnaSEx5EmdS0HJUzpMMQaU-JgD1aBL7VDZIfCjmBNF7Xs8xrbWX6rfpxuyDRCsU_6Ljj07FynHlafncbo1Z8mx29KC0-Xso6yv8KMZNv9HQTh5bRm5TYzbK5Pe5QOF4_VbilP2TAhJB4Gqx-cmFtkOzWvFC5jbldoYRaAcD-EdFCsH57-vh51seoI-HjvmDvI7SMPYjDMts9U92nVCFMZvnYzCI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-8.087616, 41.073994, 0] },
+      "properties": {
+        "name": "Restaurante O Meu Gatinho",
+        "description": "Prima restaurant op een niet zo'n mooie plek. We hadden een simpele maar hele smakelijke maaltijd, en dat is geluk hebben in Portugal. De desserts verdienen extra aandacht."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.671956, 51.90752, 0] },
+      "properties": {
+        "name": "Herberg de Engel",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5z53jipZdY_UA98MfNUV3gqnFsP1BOP-hxNKkTz5-XHJOd-b6bY39TZr6wLAHFLyDfH-rf7Q09Qb1vnOQiB3koBGd_bYIuUn9VjZ-zM6GxymPrZGOvDZ3zQPtE7FsN1NoH2V2LZTRMZ9uh2y_C3nqccsOtcKRGBO7WtSm7rMYgeh4zbNsbkQwj75qHtSWBErdPQkKzfanKaiIjjgzbIryksEf2\" height=\"200\" width=\"auto\" /><br><br>U heeft iets te vieren en zoekt een restaurant met net iets meer dan normaal. Dan is dit de plek die u zoekt. De herberg ligt prachtig buitendijks met uitzicht op de waal en heeft nogal wat historie (1591, spanjaarden, oranje, ellende) De kok, Inno Venhorst, heeft een naam en maakt deze ook waar. Spannende gerechten met opvallend goede bereiding en smaak. Het personeel is vrij formeel en alles gaat precies zoals het hoort maar toch is het een ontspannen sfeer. Trouwens, ook de lunch is het noemen waard. Probeer ook de lokale (Hiense) wijn.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5z53jipZdY_UA98MfNUV3gqnFsP1BOP-hxNKkTz5-XHJOd-b6bY39TZr6wLAHFLyDfH-rf7Q09Qb1vnOQiB3koBGd_bYIuUn9VjZ-zM6GxymPrZGOvDZ3zQPtE7FsN1NoH2V2LZTRMZ9uh2y_C3nqccsOtcKRGBO7WtSm7rMYgeh4zbNsbkQwj75qHtSWBErdPQkKzfanKaiIjjgzbIryksEf2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.403442, 52.527492, 0] },
+      "properties": {
+        "name": "Muret la Barba",
+        "description": "Italiaan, voor lunch. Ik had lekker huisgemaakte ravioli met taleggio en een glaasje rode wijn.Tikkie sjiek maar boven gemiddelde kwaliteit / aandacht voor het eten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.409988, 52.528326, 0] },
+      "properties": {
+        "name": "Kaschk",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5Faj_uvhDH_BNGgkI-pUi3YG6iDyqaSJ40nZTilk84v3bb32xWJ9BRfmebogCKP5suIIrP74xT2RcYSMjAdVgX1TC-wTp4Mwy5nAYap-gmrwOCcoUMoOGayqarhy-y9XIA1XDuj7qH7Fh4abAw8I3IrIAUZ8NDBWtAxwgaZfCN406FqXiVf5wFJOUz_C0f7Iu00xmpPdCL2y72-CImedWOTYPJbQK1NO46NoAoX_hjXv7apQBkXWhHDYRd2ldyKG4e3xO4EP_QUm7XKfim\" height=\"200\" width=\"auto\" /><br><br>Koffie en hippe biertjes! De hipster achter de toog spreekt na 2 jaar nog steeds geen woord Duits. Tevens bakermat van shuffleboard Berlijn. Shuffleboard, een soort sjoelen zonder bak met zand en houten plaat en heel lang. Bij Kaschk zijn ze er erg serieus over maar zeer bereid om je lekker om weg te helpen. Tip!",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5Faj_uvhDH_BNGgkI-pUi3YG6iDyqaSJ40nZTilk84v3bb32xWJ9BRfmebogCKP5suIIrP74xT2RcYSMjAdVgX1TC-wTp4Mwy5nAYap-gmrwOCcoUMoOGayqarhy-y9XIA1XDuj7qH7Fh4abAw8I3IrIAUZ8NDBWtAxwgaZfCN406FqXiVf5wFJOUz_C0f7Iu00xmpPdCL2y72-CImedWOTYPJbQK1NO46NoAoX_hjXv7apQBkXWhHDYRd2ldyKG4e3xO4EP_QUm7XKfim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.859779, 52.371391, 0] },
+      "properties": {
+        "name": "Fa. Speijkervet",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v685lt1eWA_5sH_tk3uBZQJi9Wq-jD_rR32n3qZetIyvOjRxb_rppNEgqs5ZSsCpQKXkmMdMNm2b49f-vT8hd574aO7RwZ43mQdvIAnU9J8YJCpdcHSN-3RoVDUb0HFHvL761kCIHlEAj4H50QW4ppr0WCO_ZkJbfaWG_oYFbw_iuK_luqREhemEj5JZz-t1sV5CMJNcNH11szNmIK6ohqfhGGvKoTAC8xxodXNp5rCmYCvxw\" height=\"200\" width=\"auto\" /><br><br>Bij Speijkervet kopen ze een heel beest en bedenken ze daar een menu bij. Menu wisselt dus sterk. Heel erg lekker eten! Als flinke honger hebt kun je voor 350 euro ook een heel speenvarken bestellen. Wel even reserveren want het is vrij druk.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v685lt1eWA_5sH_tk3uBZQJi9Wq-jD_rR32n3qZetIyvOjRxb_rppNEgqs5ZSsCpQKXkmMdMNm2b49f-vT8hd574aO7RwZ43mQdvIAnU9J8YJCpdcHSN-3RoVDUb0HFHvL761kCIHlEAj4H50QW4ppr0WCO_ZkJbfaWG_oYFbw_iuK_luqREhemEj5JZz-t1sV5CMJNcNH11szNmIK6ohqfhGGvKoTAC8xxodXNp5rCmYCvxw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.30229, 52.079831, 0] },
+      "properties": {
+        "name": "Baklust",
+        "description": "Of je bak lust! Vega/vegan broodjes. Alles vers en bio. Wel heel lekker :)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.116919, 52.093942, 0] },
+      "properties": {
+        "name": "Casa di David a/d Werf",
+        "description": "Hele goede (maar dure) italiaan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.120887, 52.089268, 0] },
+      "properties": {
+        "name": "Bistronome Des Arts",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7TJxWwnwTAGY64-83WKO7-59LEQo-zb7yF0-ZRDHl_xL68CytDTKTqyRPHFjUEpwhuPRhVh7W1J3cUqAfQuLN9cBke-Ds4kFD0T7vEmwTjmyYQwTV1TGzg6h63MzCoDSpA2R-kXluBp9jEGf9wFH7lfKxJXve-hdqjHHIRNdiGcD7MNbHMRtgUlOhd2J8tRHwSv6zqK5Dj9n5TQjQJYcfwexFBZBZt9C7MCRWltl7FmaOo2QzQE0DwsUgI-6SN5Ls7fbuEVZ8PwPKSvKZeqx4OOJwxkRcTBMaM8xyENdY\" height=\"200\" width=\"auto\" /><br><br>Frans. In een bijzonder aardig (en heel oud) grachtenpand zit Des Arts. Een tiepische franse keuken met daadwerkelijk aandacht voor het eten. Dat weten we, want de ober waarschuwde vooraf dat alles lang duurt omdat alles vers wordt bereid. En ja..dat betekent dat voor een mals lam je dat 1.5 uur de oven in moet doen. Maar je proeft het wel want het is hier erg lekker eten. En vooraf waarschuwen is natuurlijk ook prijzenswaardig. De slakken vooraf waren iets minder, de kaasplank daarintegen weer erg goed. Aanrader, niet goedkoop. We betaalden voor 2 personen 115 euro.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7TJxWwnwTAGY64-83WKO7-59LEQo-zb7yF0-ZRDHl_xL68CytDTKTqyRPHFjUEpwhuPRhVh7W1J3cUqAfQuLN9cBke-Ds4kFD0T7vEmwTjmyYQwTV1TGzg6h63MzCoDSpA2R-kXluBp9jEGf9wFH7lfKxJXve-hdqjHHIRNdiGcD7MNbHMRtgUlOhd2J8tRHwSv6zqK5Dj9n5TQjQJYcfwexFBZBZt9C7MCRWltl7FmaOo2QzQE0DwsUgI-6SN5Ls7fbuEVZ8PwPKSvKZeqx4OOJwxkRcTBMaM8xyENdY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.286998, 51.494068, 0] },
+      "properties": {
+        "name": "Grieks Specialiteitenrestaurant Delphi",
+        "description": "Een Griep die Delphi heet. Klassiek! Qua Griek is de Griek prima. Lekkere giros en prima souflaki. Wij hadden een of andere verzamelschotel (zoals dat gaat met Grieken)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.313785, 51.660547, 0] },
+      "properties": {
+        "name": "Paviljoen Sluishaven",
+        "description": "Niks bijzonders maar toch noemenswaardig omdat ze open zijn op nieuwjaarsdag. Dus, zoek je iets te eten op nieuwjaarsdag, dan moet je hier naar toe."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.851296, 51.822592, 0] },
+      "properties": {
+        "name": "Café Piet Huisman",
+        "description": "Pretentieloze kroeg met enorme bierkeuze. Lekkere stoelen en goede bediening door de familie Huisman zelf. Veel meer \"Nimweegs\" wordt het niet...."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.915408, 46.555876, 0] },
+      "properties": {
+        "name": "Rifugio Ciampai",
+        "description": "Lekkere pizza's op een erg handige plaats (midden tussen 3 liften). Kom iets voor of na lunchtijd want anders kan het wel eens druk zijn. Soms houden ze ook een eetfestival (ofzoiets) en staat het hele terras vol barbeque's enzo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.724008, 45.59686, 0] },
+      "properties": {
+        "name": "Campeggio San Bartolomeo Srl",
+        "description": "Camping met alleen maar vaste plaatsen en grind op de grond. Niet cool. Ligt wel erg dicht bij de Sloveense grens. Aan dat laatste heb je alleen niet zoveel. Even doorrijden en iets anders zoeken aldus Geensnor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.566651, 47.038533, 0] },
+      "properties": {
+        "name": "Sportalm",
+        "description": "Prima tent om 's middags wat te eten. Neem de Almtoast. Dat is geroosterd stokbrood met biefstuk, varkenshaas, gebakken ei, afgetopt met gebakken spek. Dat klinkt vet en machtig en dat is het ook. Maar wel erg lekker. Niet de goedkoopste plek om wat te eten, maar je bent (hoogstwaarschijnlijk) toch op vakantie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.944826, 52.312388, 0] },
+      "properties": {
+        "name": "Grolsch Cine Café",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6-5_cIl93dr1ZFHvW93ZXpMD5DPpAxV4ElktkOz-c-RKcjPUyfDanBcU7t4UKxvxSVaRgYyym0WZqxUxGTNP5VAIa25VlgZLl8PN8Q6g7NOCVwZ7oBzlbDC7vc_CblFRD7XYL0bf3SYhXLPLE34oHPjz-0FkKoN_72_XSe6hrUmW1xVyYkBTehPqK_xq4BbHwmUS4wF_qcXTjBe1zzYG_V9ZMMKHrOn22tgwwC43pJhB9eRLvC7d-bQQEryMXMpy9MYX31Y_N4lJ06CCKnYw\" height=\"200\" width=\"auto\" /><br><br>Hier nooit naar toe gaan. Je gaat dood. De burger is niet te vreten.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6-5_cIl93dr1ZFHvW93ZXpMD5DPpAxV4ElktkOz-c-RKcjPUyfDanBcU7t4UKxvxSVaRgYyym0WZqxUxGTNP5VAIa25VlgZLl8PN8Q6g7NOCVwZ7oBzlbDC7vc_CblFRD7XYL0bf3SYhXLPLE34oHPjz-0FkKoN_72_XSe6hrUmW1xVyYkBTehPqK_xq4BbHwmUS4wF_qcXTjBe1zzYG_V9ZMMKHrOn22tgwwC43pJhB9eRLvC7d-bQQEryMXMpy9MYX31Y_N4lJ06CCKnYw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.905786, 52.384111, 0] },
+      "properties": {
+        "name": "Pussy Galore",
+        "description": "Leuke (hippe) plek voor een biertje en/of een simpele (vega) hap. Denk hipsters, tijdelijk, amsterdam, moeilijk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.90502, 52.398087, 0] },
+      "properties": {
+        "name": "Neef louis",
+        "description": "Beste tosties in de wereld. In een kringloop achtige bedoeling serveren ze heerlijke koffie en fantastische tosti's. De bietensap is ook een aanrader."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.917562, 47.080897, 0] },
+      "properties": {
+        "name": "Pizzeria al fiume",
+        "description": "Nou, dat beviel niet zo goed. Bediening loopt niet. Eten wordt niet gelijk geserveerd. Kwaliteit van het eten is op z'n best een krappe voldoende. Probeer de pizzeria aan de overkant van het water. Die is wellicht beter."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.964059, 46.987035, 0] },
+      "properties": {
+        "name": "Bella Nova",
+        "description": "De keuze is niet reuze. Verder dan friet met worst komen ze niet. Als je dan vervolgens aan het einde van de dag aan het bier wilt, krijg je het verkeerde bier en duurt het bestellen kei lang. Volgens een vriendelijke tipgever kun je beter bij het restaurant aan de overkant gaan zitten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.91906, 47.080697, 0] },
+      "properties": { "name": "Gasthaus Kreuz" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.889634, 52.372062, 0] },
+      "properties": {
+        "name": "Schuim B.V.",
+        "description": "Als je in Amsterdam bent (centrum) en eigenlijk geen poeha wilt. Prima burgers, niet te duur. Wel drukkig vaak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.215154, 52.09904, 0] },
+      "properties": {
+        "name": "Indonesisch restaurant Mooi Zeist",
+        "description": "Erg lekker, wel sfeerloos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.91286, 52.381145, 0] },
+      "properties": {
+        "name": "WILHELMINA-DOK RESTAURANT",
+        "description": "Uit de drukte van de stad, prima lunch. Heel leuke plek vooral. Geschikt voor date of ouders/familie. Mooi terras. Neem de pont!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.096979, 52.093238, 0] },
+      "properties": {
+        "name": "Cafe Lombok Eten & Drinken",
+        "description": "De Keftaburger is prima te nassen. Slechts enkelen gaan in de uren erna over hun nek."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.895393, 52.355872, 0] },
+      "properties": {
+        "name": "Bazar Amsterdam",
+        "description": "Zoals alle bazars in Nederland. Goed eten (couscous ole ole) voor niet veel geld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.12004, 52.09401, 0] },
+      "properties": {
+        "name": "Theatercafé De Bastaard",
+        "description": "Gezellig cafe met hipsters. Probeer de Omer! Schijnt een theatercafe te zijn maar ik heb daar nog nooit iets van gemerkt :)<br>Was jaren lang de stamkroeg van Geensnor team Utrecht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.120534, 52.08598, 0] },
+      "properties": {
+        "name": "Café Derat",
+        "description": "Cafe derat is bruin, gezellig en heeft vooral heel veel lekkere biertjes. Vraag vooral barman Erik (eigenaar) om advies. Dat vind hij leuk (en kan hij ook goed)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.129291, 52.099669, 0] },
+      "properties": {
+        "name": "Oost B.V.",
+        "description": "Misschien was het pech maar het was niet goed. Niet smakelijk eten, dramatische bediening. Gewoon heel erg nee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.92294, 52.355239, 0] },
+      "properties": {
+        "name": "Michel-Inn",
+        "description": "Tip voor erg goed eten! Goede (goede!) pizza's. Houtoven en al. Wel reserveren want het heeft volgens mij in de viva gestaan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.723834, 51.807334, 0] },
+      "properties": {
+        "name": "Restaurant Asia Wijchen BV",
+        "description": "Beste chinees in de wijde omtrek. Je neemt de 150 met mihoen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.8646643, 51.8482638, 0]
+      },
+      "properties": {
+        "name": "De Hemel Restaurant & Brouwerscafe",
+        "description": "Alleen met mooi weer. Stadsbrouwerij van Nijmegen met mooi terras. Geensnor adviseert de Helse Engel of Serafijn op het terras. Je kan er ook eten en binnen zitten maar daar is niet zoveel aan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.897124, 52.402353, 0] },
+      "properties": {
+        "name": "Trailerhelling Amsterdam Noord",
+        "description": "Prima trailerhelling in Amsterdam Noord. Gratis, dichtbij de openbare weg, gratis parkeren in de buurt en niet te steil."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.926374, 52.37201, 0] },
+      "properties": {
+        "name": "Amsterdam Roest B.V.",
+        "description": "Stadstrand, hipsters, vuurkorf, berlijns (wat dat ook is), krakerig, feestjes, beats, muziek, biertjes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.47896, 51.915977, 0] },
+      "properties": {
+        "name": "Restaurant Bazar",
+        "description": "Zoals alle bazars in Nederland. Goed eten (couscous ole ole) voor niet veel geld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.878261, 51.836105, 0] },
+      "properties": {
+        "name": "Cafe Jos Meesterschenkerij",
+        "description": "Meesterschenkerij die meerdere malen is uitgeroepen tot beste cafe van Nederland. 964 bieren op de tap, 278193 op de fles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.14664, 51.796774, 0] },
+      "properties": {
+        "name": "trinkgut Boland KG",
+        "description": "Giganische dranksupermarkt met duitse prijzen voor drank!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.860246, 51.847826, 0] },
+      "properties": {
+        "name": "Pastarestaurant Merano",
+        "description": "Prima italiaan voor prima prijs. Wel vaak erg druk."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.86368, 51.848167, 0] },
+      "properties": {
+        "name": "In de blauwe hand",
+        "description": "Prima kroeg met veel lekker bier. Niet overdreven groot en terras heeft nooit zon. Je kan er ook best lekker eten. Eten stijgt zeker boven de kroeghap uit."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [24.124806, 56.954257, 0] },
+      "properties": {
+        "name": "Teātra bārs",
+        "description": "Prima pasta voor weinig. De serveerster mag er ook zijn."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.699462, 50.878424, 0] },
+      "properties": {
+        "name": "Metropole",
+        "description": "Niet heengaan! Slechtste bediening van heel Belgie en ranzige zooi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.896293, 44.932485, 0] },
+      "properties": {
+        "name": "Hotel Saint-Jacques",
+        "description": "Niet doen. Kutbedden, geen internet en kapot sanitair. Ook niet voor 1 nacht."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.71612, 51.74517, 0] },
+      "properties": {
+        "name": "Pannekoeken Restaurant Den Tol",
+        "description": "Pannenkoeken 2.0. Erg lekker. Je moet niet bang zijn voor gezinnen met kinderen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.444032, 52.49986, 0] },
+      "properties": {
+        "name": "Amar",
+        "description": "Eten uit India. Eigenlijk vaste prik als we in Berlijn zijn. Goed eten voor een nette prijs. Absoluut niks mis mee. Wel gebrek aan hipheid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.443443, 52.500555, 0] },
+      "properties": {
+        "name": "Wendel",
+        "description": "Leuke kroeg in Berlijn. Snel internet (100mbit) en lekkere biertjes. Vol hipsters en kringloop meubilair. Neem niet de radler, wel de koffie. Goed ontbijt ook. Werp een blik op de kraan aan het plafond..die wil ik ook."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.056324, 59.337666, 0] },
+      "properties": {
+        "name": "Interhostel AB",
+        "description": "Kamer zonder raam...ik herhaal...kamer zonder raam. Niet doen dus want dat suckt volkomen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.078153, 59.304936, 0] },
+      "properties": {
+        "name": "Trädgården",
+        "description": "Moeilijk te vinden maar toch leuk. Club onder snelweg. Hipsters, eten, dj's en kunst. Doe maar ja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.121964, 52.092368, 0] },
+      "properties": {
+        "name": "Polleke",
+        "description": "Beste friet en gehakstaven van 030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.96968, 53.55655, 0] },
+      "properties": {
+        "name": "Uebel & Gefährlich",
+        "description": "Club. Om te dansen. In een grote oude ww2 bunker (bovengronds). Industrieel. Ook mooi uitzicht!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.36698, 52.496564, 0] },
+      "properties": {
+        "name": "Munch's Hus",
+        "description": "Noors eten. Dat betekent natuurlijk biefstuk van de eland. Wel op chique!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.40577, 52.546581, 0] },
+      "properties": {
+        "name": "The Bird Restaurant",
+        "description": "Zonder meer de beste burgers van de stad. Wel groot en druk, maar dat is niet gek met zulke burgers :) Ow en ze zijn prinicipieel over burgers :)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.398112, 52.527408, 0] },
+      "properties": {
+        "name": "The Barn",
+        "description": "Koffie. Koffie. Koffie. De beste wetenschappelijk gezette koffie van Berlijn. Geen toegang voor kinderwagens en laptops/tablet zijn verboten!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.12139, 52.075174, 0] },
+      "properties": {
+        "name": "LE:EN",
+        "description": "Pretentieus. Eten (o.a. sprinkhanen) is opzich lekker maar bediening is ondermaats. Niet goedkoop."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-17.216034, 28.138105, 0]
+      },
+      "properties": {
+        "name": "El Cedro",
+        "description": "Goed, het kost waarschijnlijk veel te veel moeite, want de weg hier naar toe is moeilijk en slecht te vinden. Smalle bospaadjes, vage bordjes maar uiteindelijk bovenop de berg een meer dan prima restaurant. Probeer de tuinkerssoep! De tunnel alleen gebruiken bij weinig regen! En check vooral de rest van El Cedro (natuurgebied). Geensnor tipt: De helling is te stijl om omhoog te klimmen. http://camping-lavista.jimdo.com/  (http://camping-lavista.jimdo.com/ )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.231104, 53.340803, 0] },
+      "properties": {
+        "name": "Shelbourne Park Greyhound Stadium",
+        "description": "Hondenrennen is best tof. Check even de prestaties van de hond (in het boekje) voordat je je hele pensioen inzet."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.8567, 46.5544, 0] },
+      "properties": {
+        "name": "Residence Piz da Cir",
+        "description": "Prima appartement in een heel mooi skigebied. 5 minuten lopen van piste aan de Sella Ronda. Niet schreeuwend duur."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.405619, 37.790029, 0]
+      },
+      "properties": {
+        "name": "Baldwin Hotel",
+        "description": "Geinig budget hotel. Schoon, niet te duur. Fijne locatie tegen chinatown aan. Ik denk een 1 of 2 sterhotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.406275, 37.792524, 0]
+      },
+      "properties": {
+        "name": "Cathay House",
+        "description": "Prima chinees. Midden in chinatown, dus dat treft."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.175821, 36.09548, 0]
+      },
+      "properties": {
+        "name": "Luxor",
+        "description": "Thema egypte hotel. Prima hotel, wel erg erg erg erg groot. 3 starbucksen in het hotel zelf. Toptip (sowieso in Vegas). Check coupon sites. Dat scheelt minimaal 40%. Mooi zwembad ook."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.15521, 36.147408, 0]
+      },
+      "properties": {
+        "name": "Stratosphere Casino, Hotel & Tower",
+        "description": "Het uitzicht is prima, maar qua hotel is het wel een beetje karig vergeleken met de rest op de strip. Ook wel een roteind weg van alles eigenlijk. Bedden waren wel heel goed."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.089104, 52.109168, 0] },
+      "properties": {
+        "name": "deKleineBaron Eten & Drinken",
+        "description": "Ze hebben mijn eten volkomen verkloot door een of andere rare kaastopping op de schnitzel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.116437, 52.093458, 0] },
+      "properties": {
+        "name": "Pizzeria La Fontana B.V.",
+        "description": "Altijd precies hetzelfde. De bediening wordt 100% uitgekozen vanwege het uiterlijk en de pizza scarpara blijft de beste pizza op de kaart."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.115699, 52.093167, 0] },
+      "properties": {
+        "name": "Toko Mitra",
+        "description": "Tegenwoordig in de blauwe planeet (roltrap omlaag bij de kijkshop). Het ziet er allemaal niet uit maar is meer dan prima. Indonesisch zoals dat bedoeld is. Er zijn wat tafeltjes maar beter is om een maaltijd mee te nemen en thuis ff op te piepen in de magnetron."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.121177, 52.095023, 0] },
+      "properties": {
+        "name": "Grieks-Italiaans Restaurant \"Mr. Jack's\"",
+        "description": "Hier nooit gaan eten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.915204, 51.982262, 0] },
+      "properties": {
+        "name": "Cosi",
+        "description": "Absoluut goed eten. Reserveren waarschijnlijk handig maar u kunt het altijd proberen. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.113281, 52.094631, 0] },
+      "properties": {
+        "name": "Broodnodig in wijk C",
+        "description": "Om te lunchen. Lekkere koffie. Broodjes vanaf 11:00 ofzoiets. Notenbrood met geitenkaas is het beste."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.092082, 52.109568, 0] },
+      "properties": {
+        "name": "Gouden Pot",
+        "description": "Afhaalchinees. Er is werkelijk helemaal niks mis met deze afhaalchinees."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.123228, 52.08337, 0] },
+      "properties": {
+        "name": "Sector 3",
+        "description": "Ontbijt. Omdat ontbijt op zondag in Utrecht nogal iets lastigs is...komt deze toch op de lijst. Broodje oude kaas en koffie is wat je moet nemen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.38429, 52.159983, 0] },
+      "properties": {
+        "name": "Dara",
+        "description": "Oosters eten in Amersfoort. Lekker! Denk aan bijv. couscous zaken. Grote zaak trouwens."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.484395, 51.903983, 0] },
+      "properties": {
+        "name": "Hotel New York",
+        "description": "Ik weet alleen iets over de boterham met kroket. Die is lekker. Ook mooie locatie trouwens!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.682144, 45.507284, 0] },
+      "properties": {
+        "name": "Lagrange Prestige Aspen",
+        "description": "Prima appartementen dichtbij de piste. Niet te duur en met zwembad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.90068, 45.4535, 0] },
+      "properties": {
+        "name": "Le Hameau Du Borsat",
+        "description": "Vijf persoons appartementen die voor vieren nog veel te klein zijn. Oud, kapot en niet super goedkoop. Wel goede ligging. Geensnor zegt: Tignes Ja, dit appartement Nee."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.276156, 53.34495, 0] },
+      "properties": {
+        "name": "The Brazen Head",
+        "description": "Oudste kroeg in Dublin (zegt men). Erg Iers allemaal. Je kan er ook eten. Geensnor was tevreden over een of andere stew met guiness"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.62049, 53.4485, 0] },
+      "properties": {
+        "name": "The Sunset Restaurant & Bar",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6lwBzk-avVNsIRuApcCE7dBQaGV40ozzcu3rrTUt9jMXaQfkKQyCO-VlX_mE3zDCKkb1PHAIOpschpGcLycpAuDAEwYapM-SXT2KbxquDU-j2G1geudavDwGff8Tih9ymVZj8BXQdoXu2TG2xpfPJjqLCtFAk0yrd3jQL0oC_leAxA3dyv_IbRkXfIjE91z_FpydA?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>Duur maar lekker. Goede Tarbot! Onbetaalbaar uitzicht/zonsondergang",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6lwBzk-avVNsIRuApcCE7dBQaGV40ozzcu3rrTUt9jMXaQfkKQyCO-VlX_mE3zDCKkb1PHAIOpschpGcLycpAuDAEwYapM-SXT2KbxquDU-j2G1geudavDwGff8Tih9ymVZj8BXQdoXu2TG2xpfPJjqLCtFAk0yrd3jQL0oC_leAxA3dyv_IbRkXfIjE91z_FpydA?authuser=0&fife=s16383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.436448, 52.49816, 0] },
+      "properties": {
+        "name": "Bar Raval",
+        "description": "Prima tapas gegeten. Tapas opzich moet je alleen wel liggen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-0.075873, 51.504179, 0] },
+      "properties": {
+        "name": "Most Cafe Bar",
+        "description": "Cafe onder de Tower Bridge met uitzicht op de onderkant van de Tower Bridge en de Thames. Nice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.56962, 53.215609, 0] },
+      "properties": {
+        "name": "Thai Jasmine",
+        "description": "Thai's. Prima prijs, prima eten. +1 voor de bediening"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.577241, 48.139343, 0] },
+      "properties": {
+        "name": "Zum Franziskaner",
+        "description": "Zo Duits zo Duits Zo Duits! Anyhoe...goed eten en goed drinken in deze duitse vreetschuur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.746152, 47.142782, 0] },
+      "properties": {
+        "name": "Mountain Camp Pitztal",
+        "description": "Rustige kleine camping. Zowel in de winter als in de zomer open. Camping heeft een eigen restaurant waar je lekkere forellen kunt eten. Die vangen ze trouwens in hun eigen vijver. Door de ligging is de zon vrij vroeg verdwenen en kan het verrassend koud worden."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.04999, 47.516145, 0] },
+      "properties": {
+        "name": "Pozsonyi Kisvendéglő",
+        "description": "Restaurant met (waarschijnlijk) redelijk traditioneel Hongaars eten. Niet vies, maar ook niet mega lekker. De bediening waarschuwt je vriendelijk als je varkensmaag aan het bestellen bent."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.063384, 47.49702, 0] },
+      "properties": {
+        "name": "SZIMPLA KERT",
+        "description": "Hongaarse \"beer garden\" met (nou vooruit dan maar) berlijnse kraak looks. S avonds best gezellig. Je kan er eten, maar de door geensnor bestelde hamburger was onder de maat."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.057882, 47.498169, 0] },
+      "properties": {
+        "name": "Csináltam neked",
+        "description": "Mooi restaurant. Prima goulash (stoofpot versie) gegeten. Vriendelijke prijzen en bediening. Ligt in een wijk/gebied met tig plaatsen die geschikt zijn om bier te drinken."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.121547, 52.089017, 0] },
+      "properties": {
+        "name": "Kafe België",
+        "description": "In het weekend te druk, door de week prima. Veel soorten bier. Tip! Probeer het eten! Dat is boven verwachting goed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.915794, 51.985934, 0] },
+      "properties": {
+        "name": "Goed.",
+        "description": "Groot restaurant waar het de bedoeling is dat je meerdere gerechten bestelt. Ze mijden het woord \"tapas\" en dat is goed. Het eten is lekker. Wel vaak druk. De trein rijdt bijna over het terras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.908617, 51.982569, 0] },
+      "properties": {
+        "name": "Café 't Moortgat",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6zET3_QfmGOiB-BTRgvVKtEawn_bxyh0TJnOusNkLVHW9Lki_RpzvCNmDdHYceuaJ1mJ-LIpuLq_k8b8buQ7XCgfq5G5uN_-vAAC_V_CN7LfdDBtzoObgOmdD9B65rstoxYNhTRXRLnLvPi12LptFWZ4B1IruDTGw_elPX_uMPTdhBN2Bvk1LXsfnu0OiZJpIXol6skNOip2xw-APwIR8loZrI0N9Hmo8lcxDXKgN6pLGfaBOa2UwHL7F8UBIC27jiDcwY8VCTI7fZ9P7q\" height=\"200\" width=\"auto\" /><br><br>Bruin prima cafe. Voor gewoon bier drinken (duitse biertjes)",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6zET3_QfmGOiB-BTRgvVKtEawn_bxyh0TJnOusNkLVHW9Lki_RpzvCNmDdHYceuaJ1mJ-LIpuLq_k8b8buQ7XCgfq5G5uN_-vAAC_V_CN7LfdDBtzoObgOmdD9B65rstoxYNhTRXRLnLvPi12LptFWZ4B1IruDTGw_elPX_uMPTdhBN2Bvk1LXsfnu0OiZJpIXol6skNOip2xw-APwIR8loZrI0N9Hmo8lcxDXKgN6pLGfaBOa2UwHL7F8UBIC27jiDcwY8VCTI7fZ9P7q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.034192, 52.229966, 0] },
+      "properties": {
+        "name": "Lokaal Zuid",
+        "description": "Eetcafe. Lekkere biologische hamburgers in Vreeland. De frietsate schijnt ook niet mis te zijn. Kok komt uit de keuken om te vertellen dat hij gekookt heeft. Dat is opzich niet nodig bij hamburgers en frietsate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.021714, 52.209171, 0] },
+      "properties": {
+        "name": "Eterij De Drie Gekroonde Laarsjes",
+        "description": "De locatie kenmerkt zich door een strenge doch rechtvaardige bediening enerzijds en een erg onervaren schattige anderzijds.  Het eten is echt heel goed en smakelijk. Lamsrack is een aanrader. Parkeren kan goed  bij de buren."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.034817, 52.199513, 0] },
+      "properties": {
+        "name": "Trailerhelling bij Loosdrecht",
+        "description": "Goede trailerhelling met parkeerplaats. Aan de prijs (zomer 2013: 18 euro). Prima plaats om de plassen op te gaan. Voor de vecht moet je nog door een (soms druk) sluisje."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.698535, 51.791046, 0] },
+      "properties": {
+        "name": "Trailerhelling Loonsewaard",
+        "description": "Trailerhelling bij jachthaven Hoogeerd. Beton en niet te steil. Het hek van de haven zit meestal op slot, maar je kan de havenmeester bellen (nummer op het bord). Helling is niet gratis, parkeren wel. De jachthaven ernaast (De Batavier) heeft een hele slechte, steile helling."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.471796, 51.916908, 0] },
+      "properties": {
+        "name": "Rotown B.V.",
+        "description": "Erg goede hamburgers voor 9.50. Voor een daalder erbij heb je frieten. De zelfgemaakte ketchup is goddelijk. Ook fijn terras en bier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.911984, 52.366874, 0] },
+      "properties": {
+        "name": "Burgermeester",
+        "description": "Goede hamburgers...punt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.911574, 52.376301, 0] },
+      "properties": {
+        "name": "Hannekes Boom...sinds 1662",
+        "description": "Aardige plek voor iets drinken en lekkere lunch. Niet duur. Handig als je met de boot bent."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.711034, 52.845349, 0] },
+      "properties": {
+        "name": "Eetcafé Lange Piet",
+        "description": "Lange Piet, we weten het niet. Er hangen borden waarop eten staat wat je niet kan krijgen en de snoekbaars filet was niet echt hoe je hem wilt hebben. Het was echter ook weer geen absolute NEEN volgens geensnor.nl."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.013624, 40.711485, 0]
+      },
+      "properties": {
+        "name": "9/11 Memorial",
+        "description": "9/11 memorial kun je overslaan. De veiligheidsmaatregelen zijn erger dan op een vliegveld en het is druk. Vervolgens sta je te kijken naar een omgekeerde waterval tussen de Amerikaanse tokkies."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.984278, 40.747236, 0]
+      },
+      "properties": {
+        "name": "Rattle N Hum",
+        "description": "(Bruin-)cafe voor bierdrinkers. Ze hebben er enorm veel verschillende soorten bier. Beetje de Cafe Jos van New York. Schenken principieel geen Budweiser (en daar kan ik me iets bij voorstellen). Je kan er ook prima eten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.985935, 40.730411, 0]
+      },
+      "properties": {
+        "name": "Numero 28",
+        "description": "Erg lekkere pizzeria. Veel verse ingrediënten enzo. Bediening loopt als een zonnetje. Cash only maar er staat een geldautomaat in de zaak."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.980184, 40.660769, 0]
+      },
+      "properties": {
+        "name": "Connecticut Muffin",
+        "description": "Goede plaats voor een ontbijt of lunch. Lekkere broodjes maar geen grote keuze. Dichtbij metrostation en park. Service zonder glimlach."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.980757, 40.660146, 0]
+      },
+      "properties": {
+        "name": "Windsor Cafe",
+        "description": "Eetcafe met vooral veel vette zooi. Gigantische porties. Kun je overslaan. Misschien is het 's avonds gezellig, maar dat weten we niet."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.958739, 40.717092, 0]
+      },
+      "properties": {
+        "name": "Tai Thai",
+        "description": "Goed Thai's eten voor weinig. Bediening loopt een beetje stroefjes maar dat is geen ramp. Je moet eerst kloppen voordat je de toilet binnen mag, maar hij heeft ook gewoon een slot."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.957647, 40.717662, 0]
+      },
+      "properties": {
+        "name": "Station",
+        "description": "Hip eten in een hippe wijk. Misschien wel de lekkerste hamburgers die ik ooit heb gegeten. Tikje duurder dan normaal. Ligt naast metrostation. Berg personeel en wellicht daardoor goeie service. Brooklyn Pilsner is overigens wel lekker Amerikaans bier."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.958567, 40.713258, 0]
+      },
+      "properties": {
+        "name": "Clem's",
+        "description": "Kun je overslaan zonder iets te missen. Beetje rare, donkere kroeg. Vergeleken bij deze toilet is de toilet van de Wendel strak gewit. Wel gewoon bier en dat soort dingen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.004764, 40.747951, 0]
+      },
+      "properties": {
+        "name": "The High Line",
+        "description": "Stuk wandelen over oude spoorlijn boven de stad. Leuk en gratis. Verwacht niet dat je leven erna helemaal anders is."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.005381, 40.740428, 0]
+      },
+      "properties": {
+        "name": "Dos Caminos",
+        "description": "Deftige mexicaan. Goed bedacht. Lekker eten. Nogal een yuppen tent. Obers zijn gladde verkopers. Als je \"ja\" zegt tegen de nacho's en guacamole in het begin, krijg je ongeveer een doopvont vol. Dat is opzich niet zo'n ramp want want het hoofdgerecht is on-amerikaans weinig. Bovendien is de guacamole echt heel lekker."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.984741, 40.666888, 0]
+      },
+      "properties": {
+        "name": "Bar Toto",
+        "description": "Lekker ontbijt/lunch op z'n Italiaans.  Slechte koffie. Goede bediening."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.314494, 41.483374, 0]
+      },
+      "properties": {
+        "name": "Via Via Pizzeria",
+        "description": "Soort snackbar. Beetje afgeragde bende. Niet doen. Pizza's zijn gigantisch vet en niet lekker."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.1443, 52.085788, 0] },
+      "properties": {
+        "name": "Bastacosi",
+        "description": "Kleine gezellige pizzaria achter het wilhelminapark. Ze hebben een echt houtoven. Alleen dat al is op zich de moeite waard. De pizza's zijn top, de inrichting fijn en de bediening vriendelijk, mits je bediend wordt. Enigzins gezocht concept waarbij je zelf je drank en glazen e.d moet pakken. Probeer de toetjes, ondanks het plastic wel zelf gemaakt en lekker. Kleine tip. Neem een pizza als dessert, de porties vallen wat tegen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.14454, 52.086455, 0] },
+      "properties": {
+        "name": "Café Primus Jan",
+        "description": "Bruin buurt cafe. Biercafe, met veel bier soorten. De IPA is prima. Geen pretenties, fijn terras met zon. De wc ruikt naar vroeger,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.611829, 50.770577, 0] },
+      "properties": {
+        "name": "Hôtel Saint Jean",
+        "description": "Heel goed fijn hotel, niet goedkoop, wel dicht bij het strand en fijne bedden."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.610128, 50.765963, 0] },
+      "properties": {
+        "name": "Comme chez soi",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v42PhaLAQbwE_i6Ntf4au3nbTvn8VT-6Pj07YjkkKWsAj4djJ3bkxUqw3um1DRoMUkWyYN24x5kpD0KCvH8uGUAzo__JtdC7qKG_wyZ6X8be5pHcbeX7jTH41EDtdPCyJiICkJkWwrreHIvvljVy7P0pGe4pTJAW6ULnmcE7J2E0B_zNy70O9zK-x_fN-uuXiOwimsbk39SXppQ-q13ILW41Xe_yDtyCp0OK8_P0Ny9ZzkKCv69uDM\" height=\"200\" width=\"auto\" /><br><br>Dit gaat het niet worden. Ziet er goed uit van buiten maar uiteindelijk gewoon heel slecht gegeten voor veel te veel geld. Orientaalse mosselen betekent niet een bak diepvriesmosselen met een lading orientaalse kruiden er overheen. Daarbij is de sfeer er trouwens ook niet helemaal top.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v42PhaLAQbwE_i6Ntf4au3nbTvn8VT-6Pj07YjkkKWsAj4djJ3bkxUqw3um1DRoMUkWyYN24x5kpD0KCvH8uGUAzo__JtdC7qKG_wyZ6X8be5pHcbeX7jTH41EDtdPCyJiICkJkWwrreHIvvljVy7P0pGe4pTJAW6ULnmcE7J2E0B_zNy70O9zK-x_fN-uuXiOwimsbk39SXppQ-q13ILW41Xe_yDtyCp0OK8_P0Ny9ZzkKCv69uDM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.052857, 51.49594, 0] },
+      "properties": {
+        "name": "Viskeete",
+        "description": "Top vis. Soort mega snackbar/bistro met verse heerlijke vis. Vis vis vis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-3.707918, 40.417685, 0] },
+      "properties": {
+        "name": "Hostal Ivor",
+        "description": "Midden in het centrum. Tijdens winkeltijden moeilijk bij de voordeur komen door de drukte Wel goede kamers en geen last van geluid binnen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-2.925338, 43.265571, 0] },
+      "properties": {
+        "name": "Yandiola",
+        "description": "Goed eten. Gewoon heel smakelijk eten. Glaasje huiswijn erbij en helemaal niks meer aan doen. Let wel even op de achterlijke spaanse eettijden."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.993887, 40.685739, 0]
+      },
+      "properties": {
+        "name": "Rolling Orange Bikes",
+        "description": "Nederlandse fietsen huren in Brooklyn. Batavus en Gazelle's enzo. Prima fietsen. Een fietsverhuurder vinden in Brooklyn valt trouwens niet mee (als je niet van die Citi Bikes wilt), veel fietsenzaken verhuren niet."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.006127, 40.742591, 0]
+      },
+      "properties": {
+        "name": "Chelsea Market",
+        "description": "Overdekte markt waar je allemaal dingetjes en futsels kunt kopen. Wel mooi gemaakt allemaal. Meer iets voor vrouwen. Ik heb er een pen gekocht maar die ben ik kwijt geraakt."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.072532, 42.34333, 0] },
+      "properties": {
+        "name": "Mela Modern Indian Cuisine",
+        "description": "Beste indier in Boston volgens iemand. Degene zou ook best eens gelijk kunnen hebben. Betaalbaar in verder prijzige buurt.  Zelfgemaakte naan. Medium pittig is pittig genoeg."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.072946, 42.34635, 0] },
+      "properties": {
+        "name": "Delux Cafe",
+        "description": "Obscure Elvis kroeg met 60's muziek. Kroeg ligt gewoon op de bagane grond, maar heeft toch geen ramen. Sfeer, locals en bruin. Een kroeg zoals wij van Geensnor ze graag zien."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.084236, 42.348341, 0]
+      },
+      "properties": {
+        "name": "Lir",
+        "description": "Ierse pub met kroeghap. Vriendelijk personeel en lekker bier maar matig eten. Eten smaakt flauw en de frieten zijn te rauw."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.057922, 42.356798, 0]
+      },
+      "properties": {
+        "name": "Cosi",
+        "description": "Lunch/ontbijt ding. Keten. Bakken eigen brood in de zaak. Lekkere broodjes. Personeel bedoelt het goed, maar is eigenlijk vooral elkaar tegen aan het werken."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.071112, 42.344084, 0]
+      },
+      "properties": {
+        "name": "Addis Red Sea Restaurant",
+        "description": "Ethiopiër. En dat betekent eten met je handen op rare krukjes. Wel lekker eten overigens. Personeel is een beetje terughoudend."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.057323, 42.353427, 0]
+      },
+      "properties": {
+        "name": "Taste of the Town",
+        "description": "Lunch/ontbijt zaak. Gelukkig niet echt \"Taste of the Town\". Niet lekker. Afgeragde tent."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.055496, 42.364274, 0]
+      },
+      "properties": {
+        "name": "Al Dente",
+        "description": "Italiaan zonder pizza's. Personeel lijkt één familie en heeft een authentiek klinkend maffia accent. Heel erg (echt heel erg) lekker eten. Op vrijdag en zaterdag druk (rijen voor de ingang enzo)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.056552, 42.361761, 0]
+      },
+      "properties": {
+        "name": "Durty Nelly's",
+        "description": "No nonsens Ierse pub. Niet groot. Precies genoeg afgeragd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.063447, 42.351208, 0]
+      },
+      "properties": {
+        "name": "HI - Boston",
+        "description": "Aangezien hotels in Boston tering duur zijn, kom je al snel bij een hostel uit. Dit hostel is vrij nieuw en schoon. Alles is goed geregeld. Twee grote nadelen zijn dat het tweepersoonsbed klein is en dat het nogal gehorig is. Ligt wel mooi centraal."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.062973, 42.351294, 0]
+      },
+      "properties": {
+        "name": "Penang",
+        "description": "Ik heb niet zo heel veel Maleisisch gegeten, maar dit was prima. Zacht voor de portemonnee bovendien. Personeel legt vriendelijke de kaart uit, maar is niet handig qua timing. Het hoofdgerecht voor twee mensen tegelijk opdienen blijkt lastig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.976719, 40.656408, 0]
+      },
+      "properties": {
+        "name": "Appartement op 1661 11th Ave",
+        "description": "In het appartementen complex op 1661 11th Ave, Brooklyn, kun je prima appartementen huren. Goedkoper dan een hotel en ruim. Als je op het adres googled vind je wel wat contactinformatie. Beheerder is erg vriendelijk en geeft tips over interessante dingen in de buurt."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.90421, 51.982117, 0] },
+      "properties": {
+        "name": "Eetcafé Mej. Janssen",
+        "description": "Simpel maar prima restaurant. Ergens tussen eetcafe en restaurant in. Ik had waterkerssoep, die was lekker. 20 euro voor 3 gangen, en een aangename sfeer. Simpel goed eten zonder een uitgesproken sfeer."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.918778, 51.982663, 0] },
+      "properties": {
+        "name": "Restaurant De Blauwe Hoek",
+        "description": "De lamskoteletjes waren heerlijk en mals. Het probleem van dit restaurant zit hem in de bediening. Die is zo slecht dat we zelfs niet meer wilde wachten op het gratis biertje."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.385312, 48.866568, 0] },
+      "properties": {
+        "name": "La Boulangerie",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7BRRdxGLsQmEJejWN2TMmW578cGgTPVoAbu6tlU3qYNd_ZD2zL3ca84qZpsXGvmLWzu0tOpFOyTVJTyTEk9SQctllsWxXvygu5jb0k30YadrXY7J9I_VP2MfQGcbO_Xu8TmFMOh26Kw4ftuEr2Tv6ny1gxjoTGmzjbIEgprphb10Ak9TcLgqglWZGz_lX4TJBUy9wIYLiptblJhc4nIpXHAXu2EKKv7ppOCdIM_WwoHj9oQ4pMG7JaNAHTeDsR82qTzXBJR8CHP4GGJOPt4O-4H-GncExqzSW9zDjBtWEEVE_8a1fiZxNLUWzoV1rd1nskqxjoScU\" height=\"200\" width=\"auto\" /><br><br>Niet goedkoop maar man man wat lekker. Absoluut top restaurant. Goede wijn, lekker eten. Franse keuken. Laat je niet misleiden door een gesloten zaak. Ze gaan gewoon pas vrij laat open. Bestel gewoon wat je wilt...het is het waard! De serveerster  trouwens ook.<br><br><img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6GiFiHykqk2isrDg3ZQB8S9MaXlM2DBb_KlrEH6yyT9tB8Kz2DgK08BQCp4I2CpSMEVDv5RIackdxKt0gh745khS58couWzwMATAIofBmZnrxEYmQbVm_sO1xTgC127Yw4u_Xy0dQGwJRcaPnSYlpUseYePHXkFFsEfynAMmT9FB2N4JaXJtVUTZ3C0_KwB9TcdW9wcSuHGBi_8DV2jTGjsQYh64ifMv9Ve0IZ-bbTR_2R4vgd8nTPoJh--b7s8B-Enyw1YV6CO-mCf73Jrq1jUdANaphWTOYw4UpBwbR7pSTpdCY_UWUN0W0hHUVNnJK3UkAfuQ\" height=\"200\" width=\"auto\" />",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7BRRdxGLsQmEJejWN2TMmW578cGgTPVoAbu6tlU3qYNd_ZD2zL3ca84qZpsXGvmLWzu0tOpFOyTVJTyTEk9SQctllsWxXvygu5jb0k30YadrXY7J9I_VP2MfQGcbO_Xu8TmFMOh26Kw4ftuEr2Tv6ny1gxjoTGmzjbIEgprphb10Ak9TcLgqglWZGz_lX4TJBUy9wIYLiptblJhc4nIpXHAXu2EKKv7ppOCdIM_WwoHj9oQ4pMG7JaNAHTeDsR82qTzXBJR8CHP4GGJOPt4O-4H-GncExqzSW9zDjBtWEEVE_8a1fiZxNLUWzoV1rd1nskqxjoScU https://lh3.googleusercontent.com/umsh/AN6v0v6GiFiHykqk2isrDg3ZQB8S9MaXlM2DBb_KlrEH6yyT9tB8Kz2DgK08BQCp4I2CpSMEVDv5RIackdxKt0gh745khS58couWzwMATAIofBmZnrxEYmQbVm_sO1xTgC127Yw4u_Xy0dQGwJRcaPnSYlpUseYePHXkFFsEfynAMmT9FB2N4JaXJtVUTZ3C0_KwB9TcdW9wcSuHGBi_8DV2jTGjsQYh64ifMv9Ve0IZ-bbTR_2R4vgd8nTPoJh--b7s8B-Enyw1YV6CO-mCf73Jrq1jUdANaphWTOYw4UpBwbR7pSTpdCY_UWUN0W0hHUVNnJK3UkAfuQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.100837, 52.457591, 0] },
+      "properties": {
+        "name": "cafe de visscher",
+        "description": "Hoewel het testpanel van Geensnor in deze niet unaniem was, kunnen wel stellen dat je hier waarschijnlijk de beste hamburgers van heel Marken kan krijgen. De bediening is vriendelijk maar weinig assertief."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.868883, 51.845775, 0] },
+      "properties": {
+        "name": "Wally",
+        "description": "Beste hamburgers van Nijmegen. Vriendelijk personeel en behoorlijke bierkaart met best lekker eigen gebrouwen biertje.. Weinig keuze qua hamburgers (maar 4), maar dat mag de pret niet drukken."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.11621, 52.092154, 0] },
+      "properties": {
+        "name": "Firma Pickles Burgers & Wines",
+        "description": "De burgers zijn wat smaakloos. De volkorensmaak van het broodje overheerst. Geen wereldburgers. Rare dunne frietjes in vreemd emmertje. Wijn was lekker. Het geheel is wat \"bedacht\" op een overdreven manier."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.53757, 45.32292, 0] },
+      "properties": {
+        "name": "Restaurant Le Grand Lac",
+        "description": "Misschien wel de beste burgers van Trois Vallee. Niet goedkoop, maar verder prima. Neem wel het uitgebreide hamburger gerecht anders krijg je alleen het vlees een geen broodje."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [6.507856, 45.358893, 0] },
+      "properties": {
+        "name": "Au Village",
+        "description": "Laat je niet afschrikken door de ligging (midden in een gaar winkelcentrum) of de grote (heel klein). Hier kun je echt wel lekker eten. De toilet is een soort houten hutje midden in de zaak en biedt geen enkele vorm van privacy."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.915175, 51.982338, 0] },
+      "properties": {
+        "name": "Bistro Velvet",
+        "description": "Driegangen diner voor 20 euro. Het eten is erg lekker alleen niet zo veel. Nu hoeft het van ons niet zo heel erg veel te zijn, maar dit is eigenlijk gewoon te weinig. Verder loopt er een gigantische partij personeel rond. Dat werkt wel goed."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.123039, 52.078999, 0] },
+      "properties": {
+        "name": "Restaurant Keuken en deli",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6THNN9Aj2xCF7U-j93iL5cJ_MybuftWl474-knLvY4fuIwPEa2jbe9GDorF3yPF6BJJZpsrWpZmkX4A3st10iPDEeyeB3_MX6s2ycchSxrJ7Qg6yVHJMsNL46azZdkna9SHSshI9qV_ocM_rrKswg-fa6n-2J3vWOR6ElXJogIcxC6Gildcv4h4d4x6Qh5APJEEQ0cMS4yNp-vycAxS_pOtTgW1YWN5yM2UMVDYz_NLOdXoE8kpiLbMtGJB3JZvB-4SdU0OgSt9VvLIthdsKXX9g\" height=\"200\" width=\"auto\" /><br><br>Best burger in town....zeggen ze. Nu is de burger prima tot goed maar het zo noemen zegt het wel meteen. Pretenties tot aan het plafond maar de basics niet op orde. Gewoon normale bediening, geen fratsen, kwaliteit. De inrichting heeft hetzelfde. Lekker pretenties met natuurlijke materialen en bioecoduurzaam vibe. Geensnor zegt erg goede burgers maar doe eens normaal.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6THNN9Aj2xCF7U-j93iL5cJ_MybuftWl474-knLvY4fuIwPEa2jbe9GDorF3yPF6BJJZpsrWpZmkX4A3st10iPDEeyeB3_MX6s2ycchSxrJ7Qg6yVHJMsNL46azZdkna9SHSshI9qV_ocM_rrKswg-fa6n-2J3vWOR6ElXJogIcxC6Gildcv4h4d4x6Qh5APJEEQ0cMS4yNp-vycAxS_pOtTgW1YWN5yM2UMVDYz_NLOdXoE8kpiLbMtGJB3JZvB-4SdU0OgSt9VvLIthdsKXX9g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.885878, 51.835817, 0] },
+      "properties": {
+        "name": "Eetcafe Grut",
+        "description": "Erg lekker eten. Tegenwoordig niet meer zo super druk ook."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.923218, 51.648449, 0] },
+      "properties": {
+        "name": "Café-Restaurant De Proeverij",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v6DnI-LXzI91JmsqOvnQFUtp1uijxGEmwHwxHAztdS8j5TYQ-5qcM_OHH3UwOY1rXWCz-pkc4Kkv1ydTyE-as85uHmCdT3TcQ7hSc9Oa3mzPiTgNJpsFKY3DUmtN1cNHQQyxNiSYdOOuvXzVVys0TqNkhatBegD2Il6hyew_0vPRAshlPRvCkNV-lX0--fdW5nHjRQFkX3shmtOGFSYHgTEoz0N8ke8\" height=\"200\" width=\"auto\" /><br><br>Top. Dat is wat Geensnor hiervan zegt. Geen neon of andere fratsen maar gewoon goed eten, strakke bediening en lekkere wijn. Interieur is al weer een tijdje aanwezig. Schrootjes aan de muur is immers al weer een tijdje niet zo hip. Wij hadden mosselen en een goede fles wijn en waren voor 50 euro de man klaar.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6DnI-LXzI91JmsqOvnQFUtp1uijxGEmwHwxHAztdS8j5TYQ-5qcM_OHH3UwOY1rXWCz-pkc4Kkv1ydTyE-as85uHmCdT3TcQ7hSc9Oa3mzPiTgNJpsFKY3DUmtN1cNHQQyxNiSYdOOuvXzVVys0TqNkhatBegD2Il6hyew_0vPRAshlPRvCkNV-lX0--fdW5nHjRQFkX3shmtOGFSYHgTEoz0N8ke8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.919381, 51.647154, 0] },
+      "properties": {
+        "name": "Brasserie Maritime",
+        "description": "Veel praat...toch middelmaat. Het was niet heel vies maar de kaart deed veel meer smaak vermoeden. Pretenties tot aan het plafond maar het was gewoon onder aan de streep niet zo heel goed of lekker. Maar wat wil je dan ook....er was neon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.034673, 51.823934, 0] },
+      "properties": {
+        "name": "De molen (vis)",
+        "description": "Ok. Een pareltje en absolute tip. Net onder de grote weg de visafslag op vind je de molen. Een soort cafetaria/vis tent waar de vis direct vanaf de boot de pan inspringt. Probeer de kibbelingen..die zijn top. (of de vispizza)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.120816, 52.090785, 0] },
+      "properties": {
+        "name": "Lebowski",
+        "description": "Jumanji binnen. Achterin een giraf. Ondanks deze gekkigheid hele fatsoenlijke burgers. Tikkeltje aan de prijzige kant. Wij hadden de lebowski burger voor 14 euro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.92085, 51.647182, 0] },
+      "properties": {
+        "name": "Bed and Breakfast Huys aan de Haven",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4GeGFbL06wWrVYMkjuXYB5WcxjETR8XrntsohBdJjcflNqikP5KlCq2Mcf7M4UC1C_g4n5AIojYqSpokFBc06iqXJOphHXHCV67b6Vco62Mn5XdRSU8yMLPi8ynbK9HODVUXW6ZU5ETLsaXJWxp_6xi4G0sU0u3Ppul7qsfA8fl-GHAnG6Np8tyk1Cvnxw6jDF6nfBFQTT3lwCkHtVLsc51SGwm3u1fQVwIIGETHSwshWfyW7NrO9R1TzssQfj9aAcUN9tnyLZpbM9T7I1HYcVn40pN5Bm86pt1XjFJbiNgUR3J0u28uWU5tjg_F1ZMole1Nm35oV-prYVPfRG1GTaJUA\" height=\"200\" width=\"auto\" /><br><br>Ow ow wat pittoresk. Strak aan de haven, 18e eeuws...hout oud en dus wel wat gehorig. Fijn bed, mooie douche, geen keuken. Wel gratis ontbijt. Aanrader maar wel gehorig (en ik vermoed warm zomers)",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4GeGFbL06wWrVYMkjuXYB5WcxjETR8XrntsohBdJjcflNqikP5KlCq2Mcf7M4UC1C_g4n5AIojYqSpokFBc06iqXJOphHXHCV67b6Vco62Mn5XdRSU8yMLPi8ynbK9HODVUXW6ZU5ETLsaXJWxp_6xi4G0sU0u3Ppul7qsfA8fl-GHAnG6Np8tyk1Cvnxw6jDF6nfBFQTT3lwCkHtVLsc51SGwm3u1fQVwIIGETHSwshWfyW7NrO9R1TzssQfj9aAcUN9tnyLZpbM9T7I1HYcVn40pN5Bm86pt1XjFJbiNgUR3J0u28uWU5tjg_F1ZMole1Nm35oV-prYVPfRG1GTaJUA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.754766, 51.674131, 0] },
+      "properties": {
+        "name": "Bar petit Restaurant 't Oliegeultje",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4UvLqd1FQNDtu6Wxp_ffN4NobVeTp9349rJrzX_9pZNea8UsAqDMHfns4KhQ_5VvdUMJIpfZ1S4x_ZLKPNwWjqH11WK_ncqlTW718Om0DTq6CD3H3UfhQKf-cpW8g8Ka4xR-lVea4K_ccKRUQUc5gSC6k7QPRg3O1JVKdNjLFPtsBzx8N0iqSUxc13m-O-DMPa5v_YQAxZpHYcITgc8k_MKXNxlZr5RRyRhpUvStoi0fvIRMplS3gWszvU_PORC_dBu10yG-3SwslpAQgvwv161HUYe_VnvKlqKddDvtw5\" height=\"200\" width=\"auto\" /><br><br>Leuk uitzicht, goede broodjes, fijn terras.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4UvLqd1FQNDtu6Wxp_ffN4NobVeTp9349rJrzX_9pZNea8UsAqDMHfns4KhQ_5VvdUMJIpfZ1S4x_ZLKPNwWjqH11WK_ncqlTW718Om0DTq6CD3H3UfhQKf-cpW8g8Ka4xR-lVea4K_ccKRUQUc5gSC6k7QPRg3O1JVKdNjLFPtsBzx8N0iqSUxc13m-O-DMPa5v_YQAxZpHYcITgc8k_MKXNxlZr5RRyRhpUvStoi0fvIRMplS3gWszvU_PORC_dBu10yG-3SwslpAQgvwv161HUYe_VnvKlqKddDvtw5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.873789, 51.842526, 0] },
+      "properties": {
+        "name": "Lodewijk Nijmegen BV",
+        "description": "Bijzonder lekker eten en daarom vaak druk. De drukte en het de kleine oppervlakte zorgen ervoor dat je erg dicht op elkaar zit. Prijs/kwaliteit verhouding is prima!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.480283, 51.916873, 0] },
+      "properties": {
+        "name": "Restaurant Gusto",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5ZbUHbPljgICtUSS7bQ-r01G2zsR-rZ-Ak1CeRhH7WZNo8ntWWB89wl01OHrh1IwlKsFJZ9_DfL5b_SMOPbIk6P81y7kv2gFp1Z5c9GZMoGpDU9bkhONpiJ8I6kKb8Gfnw-SYGhpAMysMYQzYWk_sC-XpVxtg5SYNz4js8fAh87t4dgletm8N0ZXUetbkmi5U-tAw4M8RRRu0324t1BX8u7NrDi64hYfLqX_Hnt--09MlmSQH04u7EVRBR0D7-opIDwPAqpx-FqinYdmCYeAhuc51fgY8\" height=\"200\" width=\"auto\" /><br><br>Ow wow. Dit is een partij prima zeg. Wij hadden eerst het assorti met hapjes als voorgerecht (2pers) met echt top worst en vlees en brood en daarna een hele lekker pizza. Je zit er ook leuk en het is niet gek duur.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5ZbUHbPljgICtUSS7bQ-r01G2zsR-rZ-Ak1CeRhH7WZNo8ntWWB89wl01OHrh1IwlKsFJZ9_DfL5b_SMOPbIk6P81y7kv2gFp1Z5c9GZMoGpDU9bkhONpiJ8I6kKb8Gfnw-SYGhpAMysMYQzYWk_sC-XpVxtg5SYNz4js8fAh87t4dgletm8N0ZXUetbkmi5U-tAw4M8RRRu0324t1BX8u7NrDi64hYfLqX_Hnt--09MlmSQH04u7EVRBR0D7-opIDwPAqpx-FqinYdmCYeAhuc51fgY8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.420456, 52.536666, 0] },
+      "properties": {
+        "name": "No Fire, No Glory!",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4lSctfD9Fp9gt-b4qkYfdQMYCWfsXX47bUIUF5DX10gS9gwgAd_DpzsRy8axrdxGoz4oRMPwMPm9IamITJbq_o7EEjnapV_RbEil-LLhMc1RXjY4FSyw_DBpNQt6gjPVqgM4sg_Ypez-9M2ZAc09pch74t8DUURWg8L272MGnKg_BgNtDFP7Zf_Qhu-tm-xwsAHpB3XPIv1C3nsRVvo63soSV4Ur9hAd7QeTWea1f92f_AHoPHD-kGrzGzlFfgTaitz32MF6QS8CLfBmOT5Wn_46VS5LqBGC6RYHpskO8\" height=\"200\" width=\"auto\" /><br><br>Top koffie!",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4lSctfD9Fp9gt-b4qkYfdQMYCWfsXX47bUIUF5DX10gS9gwgAd_DpzsRy8axrdxGoz4oRMPwMPm9IamITJbq_o7EEjnapV_RbEil-LLhMc1RXjY4FSyw_DBpNQt6gjPVqgM4sg_Ypez-9M2ZAc09pch74t8DUURWg8L272MGnKg_BgNtDFP7Zf_Qhu-tm-xwsAHpB3XPIv1C3nsRVvo63soSV4Ur9hAd7QeTWea1f92f_AHoPHD-kGrzGzlFfgTaitz32MF6QS8CLfBmOT5Wn_46VS5LqBGC6RYHpskO8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.422914, 52.545141, 0] },
+      "properties": {
+        "name": "Beakers",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v7wfwQ0kmmdf4wPL6lsVPgZPTC3c1W8xqQuBzIBU5UbQF1_k5QorNBsYX1nfU78oofyU_1kpUFQqA-TEI0fvfI0IPEccxyV_aY75Mc6McbejV49uHegyYfE3ikYNDNSXtvGQrHrr6mcso1WD5uVfGRbO_sXnZrbOa64_rvneLazRib_QXkLjoORBTHl58K0kupOQNJhDNNh9KNl_fIvT06fjm6DhZM-9y1r7Zl3lXL8cVEqrU8VDbS_IxpB0TkE75n8pLpFPwFwVK22g2HJvAflNQ\" height=\"200\" width=\"auto\" /><br><br>Voor een goed ontbijt!",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v7wfwQ0kmmdf4wPL6lsVPgZPTC3c1W8xqQuBzIBU5UbQF1_k5QorNBsYX1nfU78oofyU_1kpUFQqA-TEI0fvfI0IPEccxyV_aY75Mc6McbejV49uHegyYfE3ikYNDNSXtvGQrHrr6mcso1WD5uVfGRbO_sXnZrbOa64_rvneLazRib_QXkLjoORBTHl58K0kupOQNJhDNNh9KNl_fIvT06fjm6DhZM-9y1r7Zl3lXL8cVEqrU8VDbS_IxpB0TkE75n8pLpFPwFwVK22g2HJvAflNQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.409245, 52.54906, 0] },
+      "properties": {
+        "name": "Omoni",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4FKSZ5w0rvw86Kmfbl4LK7Z-FQ6HtlCDrkPibV-OPzmafFtVJsvsD0_LpjWrTI8huOFHVb-iKxshEdhduDm93TvCxkItMaIgwftRJJe_lSRzZBoguy9pG8h-xF4U9FFgNVzTmoesDbP4fokuEe7l5HugVasp_hREh4XMf8yW-aciNTibzGd9LROcD_gGmlj_x4uif0chPPtKu0H_8iPbKYr6jnmTAbJFbd7Z-rrBeTN9JdVC2qFGbvkw6MhNqqRdioJPPkMaoEV_MXfQPM1vdl-bKjx-mdGiNg5U56PcSq8MDghE0\" height=\"200\" width=\"auto\" /><br><br>Waarschijnlijk de beste sushi in Berlijn",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4FKSZ5w0rvw86Kmfbl4LK7Z-FQ6HtlCDrkPibV-OPzmafFtVJsvsD0_LpjWrTI8huOFHVb-iKxshEdhduDm93TvCxkItMaIgwftRJJe_lSRzZBoguy9pG8h-xF4U9FFgNVzTmoesDbP4fokuEe7l5HugVasp_hREh4XMf8yW-aciNTibzGd9LROcD_gGmlj_x4uif0chPPtKu0H_8iPbKYr6jnmTAbJFbd7Z-rrBeTN9JdVC2qFGbvkw6MhNqqRdioJPPkMaoEV_MXfQPM1vdl-bKjx-mdGiNg5U56PcSq8MDghE0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.246687, 51.839611, 0] },
+      "properties": {
+        "name": "K.i.e.z.e.v.",
+        "description": "De enige normale plek in dessau. Biertjes drinken in een kroeg/bioscoop. Neem de augustiner."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.245622, 51.835423, 0] },
+      "properties": {
+        "name": "Brauhaus Zum Alten Dessauer",
+        "description": "Klassiek duitse kaart. Schnitzel met asperges is lekker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.184895, 52.745929, 0] },
+      "properties": {
+        "name": "1619 Eten & Drinken",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v59f8ceCQLjF0zqt9ZaGxsL5nhi0sr15O7iI3qMJ444vpyr-85N6eGKbsV1Wt6YSg1oPqTEcNXrZEXcKUUXHANPzKt7IuoUAj8D0DZxEZns_FqSUXgoGg9Qhh-rSCKRDW2sr5tnfsryv_h6wu4GvwDddGOp9lgKGpqNZbsLEiD29glvGqhhPWWV7tsUhJ9un7ieGmc_yFRSBuBWUSyFKhp9ofj5Lrd0Pn609LguMx70DNXbBflbWJJ5UY3vQuGyMA\" height=\"200\" width=\"auto\" /><br><br>Restaurants in jachthavens kunnen flink tegenvallen, maar dit is een uitzondering. Hier kun je prima eten. In een VT wonen achtig interieur serveert een ietwat jonge en onervaren bediening lekker eten. ca. 20 euro voor een hoofdgerecht.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v59f8ceCQLjF0zqt9ZaGxsL5nhi0sr15O7iI3qMJ444vpyr-85N6eGKbsV1Wt6YSg1oPqTEcNXrZEXcKUUXHANPzKt7IuoUAj8D0DZxEZns_FqSUXgoGg9Qhh-rSCKRDW2sr5tnfsryv_h6wu4GvwDddGOp9lgKGpqNZbsLEiD29glvGqhhPWWV7tsUhJ9un7ieGmc_yFRSBuBWUSyFKhp9ofj5Lrd0Pn609LguMx70DNXbBflbWJJ5UY3vQuGyMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.344728, 48.851144, 0] },
+      "properties": {
+        "name": "Loulou' Friendly diner",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v72dxOvhKcH9s7EwW3erAMo5FRD2wl2e-uKUvwt7Nd5OLkMgb2ZqdF3PxxkiIvUaS97NRyHWkkqwZAAcBHbFs5SlrXOJurE-hS61eCbeX4NhlctxFcrD108XBjofGSUP2oONJJyqRxIrd9Zc_clwXUEQ9r1YsFHThSRsqCT5jDxrAsXU6WD25hsLyvOsdbE6Hs4y0JcUrQLKInXvHc3bi8S7Vj0g9Akmxkwtqa-2IpVQ9GqGWeAhXXK2Ybjd4rqzwx1-fecYPU6xGRp-A3HnyzKmtzAR4U\" height=\"200\" width=\"auto\" /><br><br>Op Amerikaanse leest geschoeid restaurant. Heel erg lekkere hamburgers en het personeel is inderdaad \"Friendly\" zoals de naam al suggereert. Niet heel prijzig (maar best wel een beetje) in een zeer prijzige buurt.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v72dxOvhKcH9s7EwW3erAMo5FRD2wl2e-uKUvwt7Nd5OLkMgb2ZqdF3PxxkiIvUaS97NRyHWkkqwZAAcBHbFs5SlrXOJurE-hS61eCbeX4NhlctxFcrD108XBjofGSUP2oONJJyqRxIrd9Zc_clwXUEQ9r1YsFHThSRsqCT5jDxrAsXU6WD25hsLyvOsdbE6Hs4y0JcUrQLKInXvHc3bi8S7Vj0g9Akmxkwtqa-2IpVQ9GqGWeAhXXK2Ybjd4rqzwx1-fecYPU6xGRp-A3HnyzKmtzAR4U"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.372189, 48.86641, 0] },
+      "properties": {
+        "name": "Les p'tites indécises",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4oKAQl9d5f70BwM6MKEnA55iZEc-BlLCJILl9Xz5jE8evwmCMFgEr5Anuzy9t0P0UEJg6DNbAWu4YDt0IPT1dYVc2e1kv88NaIONnMGjvptzlkuIK6u08T-phChBAUTI0-LYcAClhXxyIE0PKr-AcIujuZcGBrHbfEFe3n5mU8WVAbL5jUjeBIYm2O4uypPtpUDWhJFwiKpu_KcqKafXunxVE566JuNtlFVyxgIbQKkwdlOBjnv9dkNxnoct4mgVGtIZNxAubcjjw1LUV1F3UJad4JTibeLAj1rod6ZQi6IO4lGVuqZMEUJglUmAVLshY\" height=\"200\" width=\"auto\" /><br><br>Smakelijk en zeer betaalbaar restaurant aan geinig pleintje. Voor 15 euro heb je een voor- en hoofdgerecht met een glas wijn. Geschikt voor diner en stevige lunch. Als je zin hebt om lekker frans te doen, kun je de boeuf tartaar nemen.",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4oKAQl9d5f70BwM6MKEnA55iZEc-BlLCJILl9Xz5jE8evwmCMFgEr5Anuzy9t0P0UEJg6DNbAWu4YDt0IPT1dYVc2e1kv88NaIONnMGjvptzlkuIK6u08T-phChBAUTI0-LYcAClhXxyIE0PKr-AcIujuZcGBrHbfEFe3n5mU8WVAbL5jUjeBIYm2O4uypPtpUDWhJFwiKpu_KcqKafXunxVE566JuNtlFVyxgIbQKkwdlOBjnv9dkNxnoct4mgVGtIZNxAubcjjw1LUV1F3UJad4JTibeLAj1rod6ZQi6IO4lGVuqZMEUJglUmAVLshY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.48552300000006, 51.9018395, 0]
+      },
+      "properties": {
+        "name": "Posse Espressobar (ook voor bier)",
+        "description": "Leuke plek, hip, lekker koffie en lekker bier. Ook voor een maaltijd heel geschikt. In een oude loods met kunst aan de muur en fixies her en der. Enige nadeel, te vroeg dicht (22:00)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.48398829999996, 51.901473, 0]
+      },
+      "properties": {
+        "name": "C.E.O",
+        "description": "Afrader. Veel te duur en te druk. En eigenlijk gewoon ook niet zo heel lekker/bijzonder. Grote boog hier om heen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.484194, 51.9012, 0] },
+      "properties": {
+        "name": "Kopi Soesoe",
+        "description": "Coole bar. Bij het afgeven van 5 bandjes voor muziekinspiratie krijg je een heerlijk broodje indonesisch. Prima halve liters bier."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.4848465, 51.9018784, 0]
+      },
+      "properties": {
+        "name": "De Kaapse Brouwers",
+        "description": "Jum jum...lekker bier! Ze brouwen het zelf!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.47335810000004, 51.8979037, 0]
+      },
+      "properties": {
+        "name": "ss Rotterdam",
+        "description": "Leuk eten voor niet te veel. Redelijke hamburgers maar vooral de plek is de moeite waard. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.12412560000007, 52.0887487, 0]
+      },
+      "properties": {
+        "name": "Restaurant De Artisjok",
+        "description": "Veel aandacht voor de maaltijden. Het smaakte erg lekker en de bediening was fijn. Redelijk uitgebreid bijzonder eten, tikkie sjiek, maar niet vervelend. En een mooie locatie. Aanradder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.08928449999996, 52.1022186, 0]
+      },
+      "properties": {
+        "name": "Oproer Brewery, Brewpub & Restaurant",
+        "description": "Veganistisch eten en brouwerij. Leuk voor een keertje, best OK eten en soms heel lekker bier (als ze het juiste hebben gemaakt en het niet op is)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3003119, 51.6898133, 0]
+      },
+      "properties": {
+        "name": "Café Bar le Duc",
+        "description": "Leuke bruine kroeg in Den Bosch. Ze maken hun eigen bier en al het bier heet iets met Jan. Dat komt omdat ze allemaal Jan heten. Kleine Jan, grote Jan, Jonge Jan. Verzin het maar. Wel leuk en lekker."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.66028660000006, 53.0322322, 0]
+      },
+      "properties": {
+        "name": "Bommel Sneek",
+        "description": "Doe het niet. Als ze bedenken dat als je 3x mosselen besteld, dat ook prima in 2 pannen kan doen en zo serveert...zonder een 3e bord...dan kun je de boom in. En stofzuigen terwijl de tent nog gewoon open is, is ook stom. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.10741299999995, 52.07561, 0]
+      },
+      "properties": {
+        "name": "De Klub",
+        "description": "Met stip bovenaan! De Klub is misschien wel de beste plek om te eten in Utrecht. Gastronomie...heerlijke bijzonder gerechten, goede wijn, leuke mensen. Tikkie hip en de locatie moet je aanstaan. (oude industrie) maar wel een mooi terras in de zon. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.09330920000002, 52.0834912, 0]
+      },
+      "properties": {
+        "name": "Kantien",
+        "description": "Hip, oude kantine verbouwd tot restaurant. Bijzondere gerechten, wij hadden rauwe schrei, maar wel smaalvol. Veel aandacht voor het eten. De bediening klopt niet bij de pretenties, want die doet maar wat. Check ook de bierkast in de hoek voor lekkere biertjes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.47857020000004, 51.929663, 0]
+      },
+      "properties": {
+        "name": "Gare du Nord",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v5nK7f7NAvFC1NDuPf4h9fbMWVBaFDOr_UBWPjHbXTlsF24tlevD95ENe0DANulaZjKAmjHAp7Fratg2BiiURrJjsweuuNHTsPV-v9NJa-G3OmCPcm3t7hRWtr_dEBabGf-rTEn7zPjoQ\" height=\"200\" width=\"auto\" /><br><br>Vegan lunch room in een oude DDR wagon, midden tussen de lelijke jaren 70/80 bouw. Gekke plek, leuke lunchroom. Voor als je van heel erg geitenwollenbiovegan eten houd. Ik vond het wel lekker",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v5nK7f7NAvFC1NDuPf4h9fbMWVBaFDOr_UBWPjHbXTlsF24tlevD95ENe0DANulaZjKAmjHAp7Fratg2BiiURrJjsweuuNHTsPV-v9NJa-G3OmCPcm3t7hRWtr_dEBabGf-rTEn7zPjoQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.46146899999997, 51.90776, 0]
+      },
+      "properties": {
+        "name": "De Machinist",
+        "description": "<img src=\"https://lh3.googleusercontent.com/umsh/AN6v0v4vJ6JennYoZab9hIcXQVC9ctW1LxEZR50nM5_kc-twTQoc_fWkVL77uIFwG-4hcfkRFisrb9SngV7ZC3tqUAbEhLrmGXioIl6iX8C4TKeAyLjzyovIIl7gpj8xOFMNreeAa8GKti_btQ\" height=\"200\" width=\"auto\" /><br><br>Gewoon een leuke plek om te lunchen in rotterdam. Lekker broodjes, mooi brood, goede koffie, leuke plek",
+        "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v4vJ6JennYoZab9hIcXQVC9ctW1LxEZR50nM5_kc-twTQoc_fWkVL77uIFwG-4hcfkRFisrb9SngV7ZC3tqUAbEhLrmGXioIl6iX8C4TKeAyLjzyovIIl7gpj8xOFMNreeAa8GKti_btQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.58341780000001, 52.4632534, 0]
+      },
+      "properties": {
+        "name": "Restaurant Kop Van de Haven B.V.",
+        "description": "Hele lekker kibbelingen!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.79129699999999, 50.8671425, 0]
+      },
+      "properties": {
+        "name": "Brasserie-hotel Brakke Berg",
+        "description": "Leuk hotel, mooie kamers. Perfect voor een fietstochtje. De fietsen kunnen in de garage. Eten doe je hier niet, dat kan prima bij de buurman ^evz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.91190030000007, 46.7428326, 0]
+      },
+      "properties": {
+        "name": "Restaurant Pizzeria San Marco",
+        "description": "Oke, ze waren onze bestelling vergeten maar daar excuseerde ze zich voor en we gaan er nu maar even vanuit dat dat niet altijd gebeurt. Verder kun je hier lekker eten. Ze hebben hamburgers en pizza's en beide zijn erg lekker."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.12723400000004, 45.901033, 0]
+      },
+      "properties": {
+        "name": "Au Vizir Café",
+        "description": "Het probleem zit hier niet zozeer in het eten. Dat is niet slecht maar ook niets bijzonders. Het probleem is de bediening. Langzaam, slecht, verkeerde pizza uitserveren, rommelig. Ze vroegen of we een dessert wilde bestellen omdat we aan een tafel zaten die nog niet was afgeruimd...."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8728428, 48.0713665, 0]
+      },
+      "properties": {
+        "name": "Chef Dorou",
+        "description": "We hadden honger en we wilden snel iets eten. Dat hadden we beter niet hier kunnen doen. De pizza smaakte echt nergens naar. Hier geen eten bestellen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1090337, 56.9487756, 0]
+      },
+      "properties": {
+        "name": "Moonshine",
+        "description": "Het ziet er van buiten af al niet uit en binnen is het nog erger. Een grote crappy touristtrap met zeer matig en relatief duur eten. Zooi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1077295, 56.9461489, 0]
+      },
+      "properties": {
+        "name": "Folkklubs ALA pagrabs",
+        "description": "Hier kun je prima een biertje pakken. Het lijkt heel klein van buiten maar de kelder is behoorlijk groot. Ze hebben veel verschillende soorten bier en de bediening is vriendelijk en snel. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [24.112987, 56.947799, 0] },
+      "properties": {
+        "name": "Čili Pizza",
+        "description": "Dit is echt een partij dikke ellende. Het eten is echt te goor om op te eten. Ik had een champignonsoep die eruit zag als kots en nog slechter smaakte. De bediening lijkt wel totaal afwezig te zijn, zo weinig zie je ze. Het restaurant zelf is een soort rare grote hal. Hier moet je echt niet heen. Niet doen!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1102846, 56.9484068, 0]
+      },
+      "properties": {
+        "name": "KwakInn",
+        "description": "Belgisch bier cafe in Riga. Als de oostblok biertjes je niet meer smaken kun je hier terecht voor een vertrouwde Duvel of La Chouffe."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.8740934, 47.2377736, 0]
+      },
+      "properties": {
+        "name": "Gasthof Schulhaus",
+        "description": "Heel erg lekker eten op de berg. Voor dit restaurant (en hotel) moet je een stukje naar boven rijden, maar dat is zeker de moeite waard. De bediening is in handen van oudere kerel met een grijze snor die een een subtiel gevoel voor humor heeft. Hij schuwt de ongemakkelijke situatie niet om zich daar vervolgens met een fijnbesnaarde vorm van ironie uit te redden. Wel geestig. Belangrijker: hij verstaat z'n vak."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.05315540000004, 51.4931302, 0]
+      },
+      "properties": {
+        "name": "Oesterij",
+        "description": "Oesters....oesters oesters oesters. Als je van oesters houd...hiero. Wij hadden oester proeverij met glaasje chardonnay. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.04907209999999, 51.4892439, 0]
+      },
+      "properties": {
+        "name": "SintAnna B&B PetitHotel",
+        "description": "Hele leuke B&B in de oude kerk van Yerseke. De eigenaren klussen alles zelf bij elkaar. Mooie kamers, lekker ontbijt, fijn bed. Echt wel een aanrader."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-19.382111111111, 65.4957222222222, 0]
+      },
+      "properties": {
+        "name": "Hotpot Fosslaug",
+        "description": "Vlak bij een hele mooie waterval vind je deze natuur hotpot. Gemaakt door locals een pareltje in nomansland. Na een korte wandeling vanaf de parkeerplek (bij de manege) vind je vanzelf de hotpot. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.9378297000001, 64.1482404, 0]
+      },
+      "properties": {
+        "name": "Bæjarins Beztu Pylsur",
+        "description": "Tourist trap. Staat in elke gids als de beste hotdog van ijsland. Dat zal best, maar het is niet de moeite waard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.9327992999999, 64.1470524, 0]
+      },
+      "properties": {
+        "name": "Mikkeller & Friends Reykjavík",
+        "description": "Hele lekker pizza's. Beetje dandy hipster, maar wel heel gezellig. Een toptip! (en neem je creditcard mee)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.931704, 64.144259, 0]
+      },
+      "properties": {
+        "name": "C is for Cookie",
+        "description": "Hippe lekker koffie, redelijke broodjes. Gezellig koffie zaakje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.9315024, 64.1440698, 0]
+      },
+      "properties": {
+        "name": "Odinsve Hotel / appartementen",
+        "description": "Hele mooie appartementen. Wij betaalden 165 euro de nacht. Mooi centraal gelegen en met smaak ingericht."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.9115119000001, 64.1416826, 0]
+      },
+      "properties": {
+        "name": "Reykjavik Roasters",
+        "description": "verschrikkelijke koffiehipsters met wel lekkere koffie :)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.177705, 52.736979, 0] },
+      "properties": {
+        "name": "Restaurant & Cafetaria 't SKAFFIE",
+        "description": "Deze snackbar heeft echt servies en een vriendelijke bediening. De frieten zijn lekker zout en niet te dun. Bovendien heb je al een grote friet voor maar 2 euro 50. Genoeg redenen om hier je stevige trek te stillen als je in de buurt bent."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9056803, 51.9824795, 0]
+      },
+      "properties": {
+        "name": "Nova Munde",
+        "description": "Het enige wat hier bijzonder is, is de tijd dat je op je eten moet wachten. En misschien nog de fantasieloze bierkaart."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.861628, 51.847392, 0] },
+      "properties": {
+        "name": "De Blonde Pater",
+        "description": "Lunchen in Nijmegen doe je hier (Of bij Why not, zie Why not). Ze hebben de tent in 2017 een stuk groter gemaakt waardoor je niet meer hoeft te wachten (y rly..) voordat je kan zitten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4880571, 51.2990064, 0]
+      },
+      "properties": {
+        "name": "Achelse Kluis",
+        "description": "Ja, er is een dodendraad en ja, ze brouwen er bier en het is een klooster e.d. maar er is eigenlijk geen reet te doen. De koffie is er niet te zuipen en bier wat ze er brouwen is ook niet echt bijzonder."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.975138, 53.5591545, 0] },
+      "properties": {
+        "name": "Variable",
+        "description": "Prima eenvoudig restaurant in St. Pauli. In de buurt zitten trouwens nog meer restaurants die er prima uitzien. Omgeving wordt wel een beetje verkaait door de Messe aan de andere kant van de straat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.975237, 53.564503, 0] },
+      "properties": {
+        "name": "Café SternChance",
+        "description": "Dit cafe zit verstopt in het bos. Hele tuin is schaduw dus lekker koel in de zomer maar misschien wat irritant als je in de zon wil zitten... Voor de rest wel relaxed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.08785710000006, 52.1015999, 0]
+      },
+      "properties": {
+        "name": "dB's oefenstudio's, concertzaal & café",
+        "description": "Goedkoop bier, , veel soorten bier, leuke biertuin, geen pretenties. En tegenwoordig ook nog goede veganistische burgers!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.07911179999996, 52.1056652, 0]
+      },
+      "properties": {
+        "name": "Werkspoor Café De Leckere",
+        "description": "Worstenrestaurant. Leuk assorti, wel te weinig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.08683369999994, 52.1085109, 0]
+      },
+      "properties": {
+        "name": "The Sandwich Company",
+        "description": "Geen goede naam, wel veel waar voor je geld. Goed eten, lekker bier, geinig terras. Wel midden op straat dus veel auto's langs. En de kaart is onhandig groot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.742803, 47.128398, 0] },
+      "properties": {
+        "name": "Restaurant Frööd",
+        "description": "Een tip vanuit de advies.geensnor.nl community. Volgens die tip kun je hier prima eten!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.23333739999998, 52.1862153, 0]
+      },
+      "properties": {
+        "name": "Buiten in de Kuil",
+        "description": "Geinig midden in het bos, een hipster eettentje. Meer dan voldoende parkeergelegenheid en leuk voor de kinderen. Ook goede broodjes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0893853, 52.1020984, 0]
+      },
+      "properties": {
+        "name": "Filmcafé Utrecht",
+        "description": "Enigzins verscholen maar des te leuker. Een kei leuke kroeg met gratis bioscoop en pooltafel. Denk aan industrieel en hipsters"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.112844, 52.092136, 0] },
+      "properties": {
+        "name": "Café Het Gegeven Paard",
+        "description": "Verschrikkelijk! Ellende! Treurnis! Slecht slecht slecht. Mega kei duur en onbeschofte kwaliteit. Enige pluspunt, bij klagen krijg je de zooi gratis."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9556634, 51.7482581, 0]
+      },
+      "properties": {
+        "name": "Boscafé Merlijn (Gaststätte)",
+        "description": "Geinig cafe aan de rand van het bos. Erg mooi groot terras buiten. Geen bediening dus zelf even op en neer sjouwen. Binnen is het heel erg klein en snel vol (niet handig bij slecht weer). Het ligt net in Duitsland en dat is te merken aan de bierkaart. Je kan er niet pinnen dus cash is king."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.866387, 51.8628795, 0] },
+      "properties": {
+        "name": "Snackbar Lent",
+        "description": "Geen pizza's eten. Die zijn niet lekker. Friet e.d. kan prima!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4075861, 52.549205, 0]
+      },
+      "properties": {
+        "name": "KANAAN BERLIN",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4CKcjHLO9U5fKmAO9GfU2x5OuVMwWNJCkq0SYxEjrF2x-oteMurbICxk1uUbJmhQSGxsk8N7xAS1vcOeKd3idjgDwyW23SuCmPEkTwuPpruB-t6ixQe54gEkmnz62xMfGHiV4j7Mwx-v9bhCcxSXEOHUF_IG-mWLl82BD6-dXTD3X0repKnGK9x9bB84YS3VYIc2U?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>Trend van 2018 in Berlijn. Hummus, zelfgemaakt en mega lekker. Met biergarten en hipsters. Alleen geen bier, wel wijn. Wil je bier, dat haal je bij de buren, en mag je weer meenemen geloof ik. <br><br>Ook falafel assorties. Onze tip, bestel een assorti want alleen een bak hummus is vrij snel vrij saai. Ow..en reken op veel drukte want populair",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4CKcjHLO9U5fKmAO9GfU2x5OuVMwWNJCkq0SYxEjrF2x-oteMurbICxk1uUbJmhQSGxsk8N7xAS1vcOeKd3idjgDwyW23SuCmPEkTwuPpruB-t6ixQe54gEkmnz62xMfGHiV4j7Mwx-v9bhCcxSXEOHUF_IG-mWLl82BD6-dXTD3X0repKnGK9x9bB84YS3VYIc2U?authuser=0&fife=s16383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4308417, 52.4864764, 0]
+      },
+      "properties": {
+        "name": "Berlinburger International",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4DfJKKNLigySMl9BOMpLcZEsLKypNiLxEcq49AFU0STe2UnCCiXM41z5CelZu1TGHGnfiH398x4U8OdOm-ezq_mvnCBNzqV5b-jwXkC4LURYgvNdpO5pOfi7xbA-L0tEjRf-WrVaSWKyK6bnzqpxIQIWT5TzhNDj_cvAO98cSwsa9HYF-hLbq9z_kQk5Sd4Wfgr3s?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>Kei lekkere burgers in een soort gangkast. Eten doen je buiten op de paar tafels die er staan, als het je lukt een plaatje te ritselen. Minder geschikt voor avondmaaltijd. Burgers zijn ook tikkie te hoog",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4DfJKKNLigySMl9BOMpLcZEsLKypNiLxEcq49AFU0STe2UnCCiXM41z5CelZu1TGHGnfiH398x4U8OdOm-ezq_mvnCBNzqV5b-jwXkC4LURYgvNdpO5pOfi7xbA-L0tEjRf-WrVaSWKyK6bnzqpxIQIWT5TzhNDj_cvAO98cSwsa9HYF-hLbq9z_kQk5Sd4Wfgr3s?authuser=0&fife=s16383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4116908, 52.5030722, 0]
+      },
+      "properties": {
+        "name": "Cafe Im Prinzessinengarten",
+        "description": "Leuke biergarten in een leuk parkje. Ook voor een hele gezellige trodelmarkt vol met hipsters."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3998591, 52.5292827, 0]
+      },
+      "properties": {
+        "name": "DUDU",
+        "description": "Prima aziatisch eten. Beetje zoeken naar de ingang :)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.337005, 52.503233, 0] },
+      "properties": {
+        "name": "Cao Cao Restaurant Vietnamesisch",
+        "description": "Naast de kudamm en toch goed eten. Daarom een tip waard. Lekker aziatisch :) en niet duur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3743701, 52.551837, 0]
+      },
+      "properties": {
+        "name": "Café Pförtner",
+        "description": "Leuk hip cafe in wedding. Oude bus om in te zitten, en redelijk goed ontbijt met muesli enzo. Koffie was helaas wat minder."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.40786, 52.526597, 0] },
+      "properties": {
+        "name": "Monsieur Vuong",
+        "description": "Aziatisch. Punt. Lekker. Punt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4083151, 52.5491715, 0]
+      },
+      "properties": {
+        "name": "Kohlenquelle",
+        "description": "Gezellige kroeg op de hoek. Woonkamer vibe, prima bier. Beste groot ook nog. Ze schijnen ook een simpele kaart met eten te hebben :)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4377079, 52.493588, 0]
+      },
+      "properties": {
+        "name": "neue bellman bar 2017",
+        "description": "Bruin, donker en duister. Goede muziek, Roken is toegestaan. Prima plek om flink drinken te worden."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.405407, 52.5399175, 0]
+      },
+      "properties": {
+        "name": "Bonanza Coffee Heroes",
+        "description": "Kei goede koffie!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4232726, 52.5044952, 0]
+      },
+      "properties": {
+        "name": "Freiluftkino Kreuzberg im Kunstquartier Bethanien",
+        "description": "Leuk! Openlucht bioscoop. Biertje meenemen en kom op tijd, want gebrek aan stoelen. En een jas, want het wordt koud als het donker is."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.405023, 52.534247, 0] },
+      "properties": {
+        "name": "W - Der Imbiss",
+        "description": "Een all time tip. Wij komen hier echt al bijna 10 jaar. Super lekkere zelfgemaakte naanbroden. In de geinige tandoori oven bakken ze de broodjes bruin. Mijn favoriet, die met die avocado meuk erop. Prima lunch!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4191829, 52.5434934, 0]
+      },
+      "properties": {
+        "name": "Wohnzimmerbar",
+        "description": "Leuke kroeg....huiskamer zoals de naam ook doet vermoeden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.4373121, 38.907766, 0] },
+      "properties": {
+        "name": "Restaurante El Bistro",
+        "description": "Klein restaurantje op aan een mooi rustig pleintje binnen de (nogal) toeristische stadsmuren. Erg lekker eten uiteraard!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.5941522, 39.073894, 0] },
+      "properties": {
+        "name": "Cala de Sant Vicent",
+        "description": "Beste strand van Ibiza volgens de redactie. Lekker groot, mooi zand en je kan lekker dichtbij parkeren. Staan wel een paar hotelblokken langs het strand, maar daar moet je gewoon niet naar kijken (kijk naar de zee!). Doordat het redelijk ruim is, is het ook niet zo druk."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.5133773, 39.0779433, 0]
+      },
+      "properties": {
+        "name": "The Giri Café",
+        "description": "Hip restaurant in klein dorpje. Van de voorkant lijkt het nogal klein allemaal, maar ze hebben een enorme mooie achtertuin. Niet goedkoop maar wel erg lekker. De hippe, biologische kruidentuin trekt wel veel muggen aan...."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4757407, 39.0305578, 0]
+      },
+      "properties": {
+        "name": "Restaurante la Paloma",
+        "description": "Erg populair restaurant. Zo populair dat je bij je reservering ook een \"eindtijd\" meekrijgt. Maar de populariteit is ook wel te begrijpen omdat je er ook erg goed kan eten. Bediening is ook lekker scherp. Om een uurtje of 9 telde ik maar liefst vier groepjes Nederlandse vrouwen die \"lekker een weekje naar Ibiza waren zonder de mannen\"."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4327677, 39.0403635, 0]
+      },
+      "properties": {
+        "name": "Aubergine Ibiza Restaurant",
+        "description": "Meer \"Ibiza\" dan dit worden restaurants niet snel (of het moet de La Paloma zijn). Veel wit, mint groen en oude vrouwen in witte jurken. Zoals de naam doet vermoeden kun je hier erg veel met aubergines eten en daar weten ze ook aardig wat lekkers van te maken."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [1.537047, 38.984778, 0] },
+      "properties": {
+        "name": "Project Social",
+        "description": "Santa Eulalia is eigenlijk niet heel erg leuk. Veel britse toeristen die het liefst hetzelfde willen doen als thuis. Dat zie je terug in het horeca aanbod. Als je hier toch beland bent, is dit hamburger restaurant een goede optie. Bediening is super vriendelijk en je kan er prima burgers krijgen. De \"lokale biertjes hype\" is nog niet erg doorgedrongen op Ibiza, maar hier hebben ze toch wel een aardige bierkeuze."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4369224, 38.9083906, 0]
+      },
+      "properties": {
+        "name": "la bodega ibiza",
+        "description": "Lekkere tapas eten! Wel druk en een hoop herrie maar daar moet je gewoon zelf aan mee gaan doen. Beetje schreeuwen naar de obers dat je meer wijn wilt ofzoiets. Veel Spanjaarden en weinig Nederlands hier ook. Dat kun je ook als een voordeel zien."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.8626707, 51.8422931, 0]
+      },
+      "properties": {
+        "name": "MANNA Nijmegen",
+        "description": "Erg goed restaurant waar ze vooral veel vis hebben. Niet erg goedkoop, maar wel heel lekker. Interieur is nogal wit. Het is ook een hotel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.93835439999998, 50.9295329, 0]
+      },
+      "properties": {
+        "name": "Bei Oma Kleinmann",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4hhGKLQ-9fTuABDU2FO09h-JmG6EsxLzi5RJXQ_WnmdtwV71l9KN1pQaUBXKvYSpsfzloqjQqVKSJhLsdlxLq1JKIlyYqNhXOIEQRcukqYQrgxifEkMlo8QkQI4y5DRY7e8-bDIE0OyQvGO_bOZzhBc9nfHSArCiSwjy8eqSKzBD3-OVuFn_0cWsoLM3dKrkcW4v4?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>Scnhitzels schnitzels en nog eens schnitzels. Groot, veel, super lekker en hele gezellig bediening. Je drinkt er de lokale specialiteit bij (kolsch, kleine mini biertjes) en die worden vanzelf bijgevuld door de goede bediening via een slim systeempje. Aanklediing binnen is ook leuk. Met terras.<br><br>Aandachtspunt...het is er goed druk",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4hhGKLQ-9fTuABDU2FO09h-JmG6EsxLzi5RJXQ_WnmdtwV71l9KN1pQaUBXKvYSpsfzloqjQqVKSJhLsdlxLq1JKIlyYqNhXOIEQRcukqYQrgxifEkMlo8QkQI4y5DRY7e8-bDIE0OyQvGO_bOZzhBc9nfHSArCiSwjy8eqSKzBD3-OVuFn_0cWsoLM3dKrkcW4v4?authuser=0&fife=s16383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.8905608, 50.814575, 0] },
+      "properties": {
+        "name": "Gulpener BrouwLokaal",
+        "description": "In Gulpen is niet heel veel te beleven. Als er toch bent is dit \"Brouwlokaal\" naast de brouwerij wel een aanrader. Je kan er lekker lunchen/eten en natuurlijk heel veel verschillende soorten (Gulpener) bier drinken. Aan de achterkant hebben ze ook nog een aardig groot terras waar je prima kan zitten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.6928138, 50.8465305, 0]
+      },
+      "properties": {
+        "name": "TOMATO",
+        "description": "Eenvoudige maar lekkere italiaan in een mooi klein straatje. Prima bediening. Lekker eten. Terras is heel klein dus niet handig als je perse buiten wilt eten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.1046299, 47.9654494, 0]
+      },
+      "properties": {
+        "name": "Seerestaurant St. Alban",
+        "description": "Hier kun je behoorlijk lekker eten. En de bediening is ook nog eens prima! Het kan wel druk zijn dus reserveren is aan te raden. Het is niet echt goedkoop maar ook niet tering duur."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.9193133, 46.5842514, 0]
+      },
+      "properties": {
+        "name": "Strandbad Drobollach",
+        "description": "De Faakersee kun je bijna nergens zomaar IN lijkt wel. Alles wat aan het water grenst zijn villa's, hotels en campings. Maar hier kun je gewoon naar toe! Het is niet groot, maar wel gratis en ze hebben een glijbaan!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4468414, 46.6274177, 0]
+      },
+      "properties": {
+        "name": "Zum Alois - Strandbad Presseggen",
+        "description": "Heel relaxed strandbad om te gaan zwemmen. Restaurant erbij is ook in orde. Veel ruimte. Beetje schaduw. Prima."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.1032498, 47.9477811, 0]
+      },
+      "properties": {
+        "name": "Restaurant Thymian",
+        "description": "Hele lekkere tapas maar de bediening kan de drukte niet aan. Ook als het niet zo heel druk is. De porties zijn niet zo heel groot (en ook niet extreem goedkoop) dus voor je het weet ben je flink aan het bestellen., Maarrrrr ben je in de buurt, heb je zin in tapas, en heb je behoorlijk wat tijd over, dan moet je hier heen!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.8595295, 51.8473489, 0]
+      },
+      "properties": {
+        "name": "Restaurant De Nieuwe Winkel",
+        "description": "Beste restaurant van Nijmegen.  Ze experimenteren veel en daardoor smaakt het eten echt bijzonder. Veel ingrediënten komen uit twee tuinen in de buurt. Michelin sterren, groene sterren, de hele handel!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.09937000000002, 52.0976011, 0]
+      },
+      "properties": {
+        "name": "De Ping Pong Club",
+        "description": "Hip en lekker achteraf. Even zoeken hoe je moet lopen maar altijd richting spoor. Binnen staan veel pingpongtafels maar kun je ook aangenaam zitten. Buiten een mooi terras."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.11107549999997, 52.0950055, 0]
+      },
+      "properties": {
+        "name": "JEU de boules bar",
+        "description": "Ik was natuurlijk al heel erg sceptisch toen er besloten werd dat het afdelingsuitje naar de jeu de boules bar zou gaan. Het idee snap ik nog wel maar jeu de boule speel je buiten...in de zon...op je slippers...met een glaasje wijn of een lekker koud biertje...in alle rust. Niet in een oude parkeergarage, in de stampende herrie tussen alle andere bittergarnituur-vretende 'jolige' vrijmibo-ers. <br><br>Negeren deze zooi dus."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.09379530000001, 52.1064972, 0]
+      },
+      "properties": {
+        "name": "Meneer Smakers Burgerbar - Best Burgers in Utrecht",
+        "description": "Meneer smakers is een begrip in Utrecht. Prima burgers en biertjes van de leckere. Verwacht alleen geen gezellig plek om een avondje te zitten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.10078750000002, 52.0927626, 0]
+      },
+      "properties": {
+        "name": "Pizza Beppe Utrecht Lombok",
+        "description": "Whoei...\"Pizza Beppe 4 is the first restaurant in the Netherlands to be accepted by the Associazione Verace Pizza Napoletana. It means our pizzas are prepared the authentic Neapolitan way.\"<br><br>Dat zal allemaal best, als de pizza maar lekker is. Dat is hij..dus prima."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.08584259999998, 52.0936409, 0]
+      },
+      "properties": {
+        "name": "PUNK PIZZA",
+        "description": "Hipster pizza, houtoven, tattoo's en 'lekker rauw' ingericht..(het is een trucje)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.10769219999997, 52.0756178, 0]
+      },
+      "properties": {
+        "name": "Brewpub De Kromme Haring",
+        "description": "Hele leuke kleine brouwerij met een paar zitplekken binnen en een lekker terras in de zon. Niet druk, wel goede snackplank. :) Prima plek voor een rustig biertje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.10775680000006, 52.0756636, 0]
+      },
+      "properties": {
+        "name": "Froh all day breakfast",
+        "description": "Ontbijten maar...de hele dag door!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0232983, 51.2424476, 0]
+      },
+      "properties": {
+        "name": "Brasserie Pallieterhof",
+        "description": "Restaurants aan de belgische kust hebben vaak nogal een klassieke menukaart. Steak, Kabeljauw, Vispannetje. Dat werk een beetje. Zo ook dit restaurant. Je kan hier verder prima eten en er is een mooi groot terras achter het restaurant waar ook van alles voor kinderen te doen is. De bediening is bovendien lekker bij de pinken."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.868354, 53.174963, 0] },
+      "properties": {
+        "name": "Strandpaviljoen Kaap Noord",
+        "description": "Heerlijke friet stoofvlees gegeten. Heb het idee dat ze ander eten hier ook prima kunnen bereiden."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3609942, 52.0128722, 0]
+      },
+      "properties": {
+        "name": "Lakila",
+        "description": "Beetje Spanje in Delft. Heerlijke Wagyu bitterbal gegeten. Verwen jezelf en bestel die Verdejo. Leuk plekje aan de gracht. Niet heel rustig, maar dat geeft het geheel net dat beetje zuid-europeese levendigheid wat het zo goed kan gebruiken. Bediening is haarscherp en weet waar ze mee bezig zijn. Heb er niet gegeten dus daar zou ik niets over durven zeggen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7925751, 51.7430485, 0]
+      },
+      "properties": {
+        "name": "Strandrestaurant our Seaside",
+        "description": "Niet goed. Erg hoog groothandel gehalte. Suf en saai en ook vrij duur."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.708862, 51.57543, 0] },
+      "properties": {
+        "name": "Restaurant de Brouwerij",
+        "description": "Goede plek om met kinderen bier te drinken op een terras. Mooi groot grasveld erbij waar het kroost kan rondhollen en je die direct beetje in de smiezen kan houden als je een lokaal biertje van brouwerij kees of emilisse neemt.<br><br>Het eten is wat minder. Neem ook geld mee want het is niet voor niets."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7381223, 51.6937016, 0]
+      },
+      "properties": {
+        "name": "VOF Exploitatie Pannekoekenmolen",
+        "description": "Leuk hoor. Een pannekoekenmolen. Nou goed, prima lokaal bier (neem de blonde aemer), lekkere pannekoeken en een handige speeltuin voor de kinderen. De molen draait de hele dag en maalt het graan lekker tot meel. Ze maken ook ijs en ze zagen ook met de molen. Weetje, het is een graan en zaagmolen in 1!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0828763, 52.1004825, 0]
+      },
+      "properties": {
+        "name": "De Nijverheid",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4Qt7yck8tzaTq6D0W523drt4k56u_nWz6jXBOHy88UgBj93BfVq1ko7d0b3efPGNtyo-13hXwHHRW4tz4Q10mo_KfnIQa0EEpMPOSkNQ2OOKMLVrQJC9whqHzhZZi2tVa9c9YVLA1qBTkAZkrzJ2__6fzuTHxjbeMlMd-zmiquKS8-iskTAdX2UIuKrnn3TDxoWGU?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>Kunstenaarscollectiefterrein met terras vol van bij elkaar geraapte zooi. Zoals dat dan gaat. Wel prima terras en lekker bier. Eten is ook wel goed. Er zit in een oude woonwagen ook een brouwerij geloof ik.",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4Qt7yck8tzaTq6D0W523drt4k56u_nWz6jXBOHy88UgBj93BfVq1ko7d0b3efPGNtyo-13hXwHHRW4tz4Q10mo_KfnIQa0EEpMPOSkNQ2OOKMLVrQJC9whqHzhZZi2tVa9c9YVLA1qBTkAZkrzJ2__6fzuTHxjbeMlMd-zmiquKS8-iskTAdX2UIuKrnn3TDxoWGU?authuser=0&fife=s16383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0835217, 52.1104169, 0]
+      },
+      "properties": {
+        "name": "Irodios Utrecht",
+        "description": "Neem de pita giros. En neem alleen de pita giros want dat is meer dan genoeg. Prima snackbar..voor pita giros."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0987843, 52.1016699, 0]
+      },
+      "properties": {
+        "name": "Satriale's Pizzabar",
+        "description": "Prima bezorgpizza's. Of prima prima...kei lekker. Ik neem altijd een met salami en plus die op met uien en olijven. Er is ook gewoon een restaurant waar je kan eten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.115342, 52.0989719, 0] },
+      "properties": {
+        "name": "Juuls Hummus Gruttersdijk",
+        "description": "Hummus...is dat niet meer iets voor op een toastje? Dat kun je denken maar ook als maaltijd gaat dat prima. Neem de hummus met aubergine en stoofvlees. De pita broodjes maken ze zelf. Jum jum. Bezorgen ook!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1154252, 52.0973003, 0]
+      },
+      "properties": {
+        "name": "Het Muzieklokaal",
+        "description": "Weer eens wat anders. Cafe met klassieke muziek. Zit leuk aan het water en je kan er prima rustig een biertje of kopje koffie doen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1207101, 52.0978578, 0]
+      },
+      "properties": {
+        "name": "MØS Coffee Bar",
+        "description": "Lekkere flat whites"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.642685, 52.383557, 0] },
+      "properties": {
+        "name": "Restaurant Zuidam",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6FupTWsfsB7u97KFRgVKoiiU-e9rs7xjm75OP4yATQvYivJm2kvS8cWCSSWL3oHdHbC0f0EWt0OuijVofYuSBIFhDMhZ8pci5D3UiiotI4wqGQRGn3LO2pf0PrkgVi8dmrQUTz2bA0pRAyOgh_NFuubSY622K0ujpFTHfJ48st5jkwZ7PEMK7DoM9UPnA6FTss83sD?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>Vooral mooi terras aan het spaarne waar je prima bier kan drinken. Eten is ook wel ok.",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6FupTWsfsB7u97KFRgVKoiiU-e9rs7xjm75OP4yATQvYivJm2kvS8cWCSSWL3oHdHbC0f0EWt0OuijVofYuSBIFhDMhZ8pci5D3UiiotI4wqGQRGn3LO2pf0PrkgVi8dmrQUTz2bA0pRAyOgh_NFuubSY622K0ujpFTHfJ48st5jkwZ7PEMK7DoM9UPnA6FTss83sD?authuser=0&fife=s16383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6401782, 52.3787384, 0]
+      },
+      "properties": {
+        "name": "De Kloosterkeuken",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5iLiO_JlMnxjjfQ8_HAQzslQinKiCwSpHrCE18bA2iA6SLtMpTNJJpf2cY1OeIBbim-GQA2Ww2wHJyLHbPuU8Q2sZJO95hu7yiT1WL5FkJP8Dt_LHcn-NRnBNLPS4U2iu8jD0OMG8Q3ESxSQoYJb1bPZzlJckP-b4QKo3jpqHZuLSOu_92A9AbSkPgU8DMyfjwqRg?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>Lekker eten. Ook sympathiek want de bediening is door jongeren met een rugzakje die een opleiding doen. Ligt heel mooi verscholen met een mooie inrichting. Stijlvol.",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5iLiO_JlMnxjjfQ8_HAQzslQinKiCwSpHrCE18bA2iA6SLtMpTNJJpf2cY1OeIBbim-GQA2Ww2wHJyLHbPuU8Q2sZJO95hu7yiT1WL5FkJP8Dt_LHcn-NRnBNLPS4U2iu8jD0OMG8Q3ESxSQoYJb1bPZzlJckP-b4QKo3jpqHZuLSOu_92A9AbSkPgU8DMyfjwqRg?authuser=0&fife=s16383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.9696559, 46.7884701, 0]
+      },
+      "properties": {
+        "name": "Bar de l'Eglise",
+        "description": "Lekker eten. Geinig buitenterras. Binnen groter dan je aan de buitenkant zou denken. Tegenover de kerk. Ramvol Nederlanders in de zomer. Bonustip van Geensnor: Chocolade mousse als nagerecht."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0594467, 48.9054002, 0]
+      },
+      "properties": {
+        "name": "Chez Lulu",
+        "description": "Lulu is een tijdje terug een restaurant begonnen in Pont-a-Mousson, vlak bij de pont. Lulu kan prima koken en heeft een aantal (niet mega veel) gerechten op de kaart staan die erg lekker waren. Lulu heeft echter ook een vlotte knul ingehuurd om de mensen te bedienen, en die is voor diezelfde mensen soms wat lastig te volgen. Misschien heeft hij het druk, misschien wil hij geen engels praten, misschien had hij z'n dag niet, wij weten het niet maar soepel liep het niet. Toch is onze knul wel snel en klopte de rekening, dus we vergeven het hem wel weer. Het eten is dusdanig lekker, biologisch, lokaal, verantwoord, etc, etc, dat het de moeite waard is. Daarnaast staat Pont-a-mousson niet bepaald stijf van de restaurants, dus pak maar gewoon deze als je in de buurt bent met honger."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1131418, 52.0931481, 0]
+      },
+      "properties": {
+        "name": "WAKU WAKU",
+        "description": "Vegan restaurant met een mening. Werkte demonstratief niet mee met de QR controles tijdens de fameuze Covid Pandemie in de jaren 2020/2021. Trok vervolgens een bende wappies die voor de deur gingen demonstreren die grossierde in drogredenen en ongelooflijke onzin. De eigenaar trok alles in het absolute en bewees daarmee een ongelooflijke flapdrol te zijn."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1122169, 52.0933187, 0]
+      },
+      "properties": {
+        "name": "Spaghetteria Korte Koestraat",
+        "description": "Lekker hapje pasta eten. Je eet 'gezellig' met zijn allen aan grote tafels, maar dat mag de sfeer niet drukken. Mooi ruim opgezet en geschikt voor kinderen. <br>De pasta was heerlijk en het is makkelijk te belopen vanaf het station."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1123033, 52.0931902, 0]
+      },
+      "properties": {
+        "name": "Cafe Willem Slok",
+        "description": "Bruine kroeg zonder kapsones. Eigenlijk een van de weinige bruine kroegen die er nog zijn in Utrecht. Helaas wel een kleine bierkaart maar toch het vernoemen waard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1142485, 52.0936412, 0]
+      },
+      "properties": {
+        "name": "Café Van Wegen",
+        "description": "Oudste cafe van de stad. Cafe gaat er ook wel prat op maar verder is het gewoon een sfeerloos hok met nog niet geen tl verlichting vol met oude knarren."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.118385, 52.0937962, 0] },
+      "properties": {
+        "name": "Café Voortuin",
+        "description": "Beetje vol met hipsters maar toch wel aardige kroeg. Je kan er je eigen eten meenemen/laten bezorgen en dat is een pluspunt."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.1256724, 52.094681, 0] },
+      "properties": {
+        "name": "Café de Stad",
+        "description": "Bruine kroeg met leuke mensen. Aardig teras. Niet zo veel mis mee kroeg.<br>Organiseren wel eens dingen met de radio en muziek en dat is extra leuk."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0753788, 52.1120268, 0]
+      },
+      "properties": {
+        "name": "DEMKA kade",
+        "description": "Stadstrand met horeca en jeu de boules banen. Leuk!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4624658, 52.0034037, 0]
+      },
+      "properties": {
+        "name": "De Proloog",
+        "description": "Wielercafe onderaan de (verkeerde kant van de) amerongse berg. Best geinig en lekkere tosties."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.0366296, 52.1422564, 0]
+      },
+      "properties": {
+        "name": "Restaurant DeZusters",
+        "description": "Top restaurant. Niet goedkoop maar ook niet extreem duur. Geensnor betaalde 55 euro voor 5 gangen, ex drank. Bijzonder en zeer smaakrijk. Veel groenten en kruiden uit eigen tuin/park en ze durven er echt spannende dingen van te maken. Een aanrader! De wijnkaart is trouwens ook top."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.6092604, 41.1370621, 0]
+      },
+      "properties": {
+        "name": "Jardim do Morro",
+        "description": "Regel een goeie fles wijn en geniet van de zonsondergang in dit park!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.865, 51.8433333, 0] },
+      "properties": {
+        "name": "Why Not",
+        "description": "Hier kun je lekker lunchen. Je kan ook prima dineren. Aan de achterkant hebben ze een aardige binnentuin waar je prima beschut kunt zitten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.9345925, 37.0128916, 0]
+      },
+      "properties": {
+        "name": "Old Tavern",
+        "description": "Vier hipsters (drie neven en een vriend naar eigen zeggen...) runnen een mini kroeg/eettentje. Lekker eten, gezellige bediening en leuke muziek.. Als je wat fooi geeft, krijg  je samen met het voltallige personeel een shotje wodka (of rum, weet ik veel..). Zeker een aanrader. Ligt in het oude gedeelte van Faro waar voor de rest niet bijster veel te beleven is."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.2537842, 37.0885481, 0]
+      },
+      "properties": {
+        "name": "Café In-certo",
+        "description": "Als je niet van Chorizo houdt, heb je nog nooit echt goede Chorizo gegeten. Je hebt mazzel, want hier hebben ze die! Ze bakken hem aan je tafeltje en hij is heerlijk smaakvol. Verder is het een aardig cafeetje waar je prima kan lunchen of wat tapas kan klappen. Voor de rest is Albufeira natuurlijk een toeristisch hell hole, dus geniet van je Chorizo en zorg dat je je zo snel mogelijk uit de voeten maakt!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.5327525, 37.1401902, 0]
+      },
+      "properties": {
+        "name": "Restaurante Peixarada",
+        "description": "Leuk restaurant met veel verse vis en prima bediening. Het restaurant zit aan een soort steeg met nog veel meer vergelijkbare restaurants. Als deze vol is kun je dus altijd een andere proberen. Portimao is niet mega leuk dus geniet maar even van deze tip!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.9962129, 56.3806756, 0]
+      },
+      "properties": {
+        "name": "Börjes Konditori HB",
+        "description": "Ga hier niet heen. Alles is kut en goor. De gedachte dat we misschien naar de WC zouden moeten, vervulde ons van een dusdanige walging, dat we zijn weggegaan.."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.5859867, 56.051838, 0]
+      },
+      "properties": {
+        "name": "Restaurang Blåregn",
+        "description": "Lekker restaurant met prima bediening. Schijnt ook een mooie tuin te hebben, maar het weer was niet dusdanig dat we die uit hebben kunnen proberen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.6853355, 53.8669446, 0]
+      },
+      "properties": {
+        "name": "Ratskeller zu Lübeck",
+        "description": "Het ziet er allemaal heel lollig oud Duits uit, maar het is niet goed. Eten is smakeloos. Kindermenu neigt naar kindermishandeling. Enige voordeel is dat het eten binnen een paar minuten op tafel staat, zodat je ook weer snel kan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.4202006, 57.7375761, 0]
+      },
+      "properties": {
+        "name": "Gröna Tuppen",
+        "description": "Piepklein restaurantje in the middle of nowhere. Er staan wel bordjes vanaf de hoofdweg, dus het is wel makkelijk te vinden. De kaart is niet heel groot, maar wat ze hebben is wel erg lekker klaargemaakt. Toen wij er waren was er bovendien een bloedmooie serveerster wat ook nooit kwaad kan. Het is een voormalig station en de rails (smalspoor voor de liefhebbers...) liggen er nog. Er komt zelfs nog af en toe een treintje langs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.4579671, 56.5824062, 0]
+      },
+      "properties": {
+        "name": "Capellagården",
+        "description": "Mooie plek om wat te eten en te drinken. Het is een tuin waar ze van allerlei planten en kruiden verkopen. Maar je kan ook gewoon bier en koffie krijgen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.3019797, 44.353007, 0] },
+      "properties": {
+        "name": "TRATTORIA AL BOCCO",
+        "description": "Alle clichés zijn waar. Klein restaurantje. Eenvoudige maar super lekker gerechten. Pasta's zijn veel lekkerder dan in Nederland. etc.etc. We raden de ravioli met zeebaars aan! Pas op met alles waar \"fritta\" bij staat (is maar 1 gerecht trouwens, kaart is niet zo groot). Ze hebben de neiging om alles in de frituur te gooien namelijk. En met \"alles\" bedoelen we bijvoorbeeld een blad salie en een stuk appel. Verder is het personeel hier super aardig en goed. ."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3601779, 48.0769435, 0]
+      },
+      "properties": {
+        "name": "Les Arcades",
+        "description": "\"Had je niet kunnen zien dat het maar 2,9 sterren krijgt op Google Maps\". Jazeker, maar dat is achteraf. En achteraf is altijd makkelijk praten. Dit is gewoon niet goed, ga er niet naar binnen, zoek iets anders."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.5005406, 49.2002538, 0]
+      },
+      "properties": {
+        "name": "Saigon Restaurant",
+        "description": "Van buiten kan het restaurant dicht lijken, maar schijn bedriegt. Gewoon de deur doorgaan en je waant je midden in Saigon! De bediening is top, de prijs is redelijk en het eten is lekker. Wij hadden een lekker vettige eend."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5523721, 47.4663686, 0]
+      },
+      "properties": {
+        "name": "Enzian Hütte",
+        "description": "Alleen de Goulash soep is hier lekker. De rest allemaal niet. De prijs is ook net een beetje oncomfortabel aan de hoge kant..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.6982465, 50.8492012, 0]
+      },
+      "properties": {
+        "name": "JEF gastrobar",
+        "description": "Ze geven het niet bepaald weg, maar daar krijg je dan ook wat voor! Wat een lekker eten!Midden in de \"hippe helft\" van Maastricht."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1076981, 52.0829753, 0]
+      },
+      "properties": {
+        "name": "Restaurant Feu | Bierpairing & Open Vuur",
+        "description": "Dit is een pareltje want je kan hier echt enorm lekker eten. Alles is groente gemaakt met open vuur en ze combineren alles met een hele goede leuke bierarrangement. Dat noemen ze een beerpairing maar ik noem het een arrangement. Als je perse vlees wilt kun je dat er bij krijgen, en dat zou ik doen, want dat is echt enorm lekker.<br><br>Klein nadeel...het is duur...best wel heel duur! Voor 2 personen waren we 230 euro kwijt. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4047775, 52.5332571, 0]
+      },
+      "properties": {
+        "name": "URBAN BIKE TOURS",
+        "description": "Erg vriendelijke fietsverhuurders. Ik denk dat de prijs ook wel oke is en de fietsen zien er goed uit."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4131421, 52.5203627, 0]
+      },
+      "properties": {
+        "name": "Burgermeister Alexanderplatz",
+        "description": "Dit is hamburgerketen die op veel meer plekken in Duitsland zit, maar een die stukken beter is dan die zooi uit de VS. Die aan de Alexanderplatz zit in een geinig gewelfje onder het spoor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4315988, 52.502135, 0]
+      },
+      "properties": {
+        "name": "Markthalle Neun",
+        "description": "Tjonge wat een berg eten heb je hier. Alles wat je wilt eten, kun je hier kopen. Het staat in veel toeristenlijstjes over Berlijn, maar toen wij er waren waren er vooral veel locals. Bij mooi weer zetten ze wat meubels buiten en gaat iedereen lekker op straat zuipen en eten. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4268548, 52.5115435, 0]
+      },
+      "properties": {
+        "name": "Holzmarkt 25",
+        "description": "Behoorlijk toeristisch, maar de kans is groot dat je ook een toerist bent in Berlijn dus niet zeuren. Redelijk aangeharkt Terras/DJ/Winkeltjes/dingen. Lekker zitten aan de Spree. Prima."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4516096, 52.507828, 0]
+      },
+      "properties": {
+        "name": "Urban Spree",
+        "description": "Iets minder aangeharkt en toeristisch dan de Holtzmarkt. Gallerie, club, biergarten, en allerlei culturele toestanden. Loopt ook nog een aardig eindje richting het oosten door."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.8820286, 51.8349173, 0]
+      },
+      "properties": {
+        "name": "AYA Nijmegen",
+        "description": "Erg lekker Aziatisch eten! Normale prijzen en verder geen gekkigheid."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9021586, 51.9826338, 0]
+      },
+      "properties": {
+        "name": "Nelson bar & restaurant",
+        "description": "Dit heette vroeger Stella by Starlight. Prima tent voor een biertje en een burger. Ligt ook lekker dicht bij het station wat helpt als je de trein moet halen."
+      }
+    }
+  ]
+}

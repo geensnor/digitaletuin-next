@@ -1,0 +1,41 @@
+---
+// MapView.astro
+---
+
+<div id="map" style="height: 400px; width: 100%;"></div>
+
+<script>
+  import L from "leaflet";
+  import "leaflet/dist/leaflet.css";
+  import icon from "leaflet/dist/images/marker-icon.png";
+  import iconShadow from "leaflet/dist/images/marker-shadow.png";
+  import geojsonData from "../content/data/Geensnor-Hotspots.json";
+
+  const DefaultIcon = L.icon({
+    iconUrl: icon.src ?? icon,
+    shadowUrl: iconShadow.src ?? iconShadow,
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+  });
+  L.Marker.prototype.options.icon = DefaultIcon;
+
+  const map = L.map("map").setView([52.0, 5.5], 8);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap",
+  }).addTo(map);
+
+  const layer = L.geoJSON(geojsonData, {
+    pointToLayer: (_feature, latlng) => L.marker(latlng),
+    onEachFeature: (feature, layer) => {
+      const { name, description } = feature.properties ?? {};
+      if (name || description) {
+        layer.bindPopup(
+          `<strong>${name ?? ""}</strong><br>${description ?? ""}`,
+        );
+      }
+    },
+  }).addTo(map);
+
+  map.fitBounds(layer.getBounds());
+</script>
