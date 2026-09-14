@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/cavi-au/Consent-O-Matic/master/rules.schema.json",
+  "bol.com": {
+    "detectors": [
+      {
+        "presentMatcher": [
+          {
+            "type": "css",
+            "target": {
+              "selector": "button.bg-neutral-background-low.text-brand-text-interactive-default.border-brand-border-interactive-default",
+              "textFilter": "Weigeren"
+            }
+          }
+        ],
+        "showingMatcher": [
+          {
+            "type": "css",
+            "target": {
+              "selector": "button.bg-neutral-background-low.text-brand-text-interactive-default.border-brand-border-interactive-default",
+              "textFilter": "Weigeren",
+              "displayFilter": true
+            }
+          }
+        ]
+      }
+    ],
+    "methods": [
+      {
+        "name": "DO_CONSENT",
+        "action": {
+          "type": "click",
+          "target": {
+            "selector": "button.bg-neutral-background-low.text-brand-text-interactive-default.border-brand-border-interactive-default",
+            "textFilter": "Weigeren"
+          }
+        }
+      },
+      {
+        "name": "SAVE_CONSENT"
+      },
+      {
+        "name": "UTILITY"
+      }
+    ]
+  }
+}
